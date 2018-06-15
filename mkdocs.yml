@@ -29,5 +29,5 @@ extra:
 
 pages:
     - Welcome: index.md
-
+    - Fundraising: fundraising.md
     - About: about.md
