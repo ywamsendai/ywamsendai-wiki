@@ -26,7 +26,7 @@ Most people like to add Gift-Aid (UK) to a donation, or to receive a tax deducti
 
 ###YWAM
 
-A larger YWAM base in your country may be willing to set up a missions account for you and allow your supporters to send you funds through them. YWAM Honolulu has this service available for YWAM staff worldwide (though you may need to have a US bank account). If interested, please contact [Staff Services](manoaaccounting@yahoo.com) to have an account set up for this purpose. There is a small processing fee on all gifts that would be processed through the account. It may be worth contacting larger YWAM bases near you about a similar service they may provide, or that they may know of for missionaries serving overseas.
+A larger YWAM base in your country may be willing to set up a missions account for you and allow your supporters to send you funds through them. YWAM Honolulu has this service available for YWAM staff worldwide (though you may need to have a US bank account). If interested, please contact [Staff Services](mailto:manoaaccounting@yahoo.com) to have an account set up for this purpose. There is a small processing fee on all gifts that would be processed through the account. It may be worth contacting larger YWAM bases near you about a similar service they may provide, or that they may know of for missionaries serving overseas.
 
 ###Missionary Donation Organisations
 
