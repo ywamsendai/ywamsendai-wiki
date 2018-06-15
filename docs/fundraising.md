@@ -26,7 +26,7 @@ Most people like to add Gift-Aid (UK) to a donation, or to receive a tax deducti
 
 ###YWAM
 
-A larger YWAM base in your country may be willing to set up a missions account for you and allow your supporters to send you funds through them. YWAM Honolulu has this service available for YWAM staff worldwide (though you may need to have a US bank account). If interested, please contact Staff Services at manoaaccounting@yahoo.com to have an account set up for this purpose. There is a small processing fee on all gifts that would be processed through the account. It may be worth contacting larger YWAM bases near you about a similar service they may provide, or that they may know of for missionaries serving overseas.
+A larger YWAM base in your country may be willing to set up a missions account for you and allow your supporters to send you funds through them. YWAM Honolulu has this service available for YWAM staff worldwide (though you may need to have a US bank account). If interested, please contact [Staff Services](manoaaccounting@yahoo.com) to have an account set up for this purpose. There is a small processing fee on all gifts that would be processed through the account. It may be worth contacting larger YWAM bases near you about a similar service they may provide, or that they may know of for missionaries serving overseas.
 
 ###Missionary Donation Organisations
 
@@ -77,9 +77,11 @@ If someone replies to your emails or posts, write them back. Also, it is very im
 
 We can recommend **a few books**: *Daring to Live* on the Edge by Loren Cunningham (great stories and principles for walking by faith) and *Friend Raising* by Betty Barnett (principles and practical advice). These should be available on the Internet through YWAM Publishing, Christian Book Distributors, or maybe in local Christian bookstores.
 
-Here are two articles that may also be helpful for you too.
-http://fundingyourministry.com/downloads/Not-Enough-Support.pdf
-http://fundingyourministry.com/downloads/How-to-Increase-your-support.pdf
+Here are two articles that may also be helpful for you too:
+
+* [Not Enough Support](http://fundingyourministry.com/downloads/Not-Enough-Support.pdf)
+
+* [How to Increase Your Support](http://fundingyourministry.com/downloads/How-to-Increase-your-support.pdf)
 
 ##A few more points …
 
