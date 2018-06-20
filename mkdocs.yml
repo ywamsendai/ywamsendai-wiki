@@ -29,5 +29,9 @@ extra:
 
 pages:
     - Welcome: index.md
+    - Finances: finances.md
     - Fundraising: fundraising.md
-    - About: about.md
+    - Commitments: commitments.md
+    - Japanese Language: language.md
+    - Tools: tools.md
+    - Vision: vision.md

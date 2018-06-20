@@ -16,7 +16,7 @@ YWAM Sendai is a local expression of the global YWAM movement. We are pioneering
 
 ## Givers and Advancers: We are in this together!
 
-The Japanese people cannot be reached by a few individuals alone. In YWAM Sendai, non of our team members receive a normal wage, but instead rely on God's provision - primarily through people all over the world who believe in what we are doing.
+The Japanese people cannot be reached by a few individuals alone. In YWAM Sendai, none of our team members receive a normal wage, but instead rely on God's provision - primarily through people around the world who believe in what we are doing.
 
 Traditionally, there has been a disconnect between the Givers (those sending financial support to the overseas missionary) and the Advancers (those that are on the ground making things happen to advance the Kingdom - the missionaries). Actually, the Givers and the Advancers are working together equally!
 
@@ -24,7 +24,7 @@ At YWAM Sendai, we consider the Givers as much a part of the community as the Ad
 
 ## We believe in transparency!
 
-As a way of allowing people into our community, we want to be as transparent as possible with how we function. We don't desire to be a closed off group doing our own thing. We also believe that transparency brings accountability. We want anyone to feel as if they can have input into what we are doing. In doing so, we believe that YWAM Sendai will be more effective at spreading the gospel in Japan!
+As a way of inviting people into our community, we want to be as transparent as possible with how we function. We don't desire to be a closed off group doing our own thing. We also believe that transparency brings accountability. We want anyone to feel as if they can have input into what we are doing. In doing so, we believe that YWAM Sendai will be more effective at spreading the gospel in Japan!
 
 Our hope is that this wiki, and Riot.im, will help us in reaching this goal.
 
