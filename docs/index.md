@@ -2,6 +2,8 @@
 
 **Hello there!** This is the place to be in order to learn all about YWAM Sendai!
 
+This wiki acts as a kind-of handbook for our community. We have only just begun writing content, so there isn't much now. But it will grow over time! :)
+
 For those interested in what we are doing: [Join the YWAM Sendai community!](http://ywamsendai.org/join)
 
 YWAM Sendai website: [ywamsendai.org](http://ywamsendai.org)
@@ -12,22 +14,26 @@ The Japanese are one of the largest unreached people groups in the world. In Nor
 
 ## Enter: YWAM Sendai!
 
-YWAM Sendai is a local expression of the global YWAM movement. We are pioneering a missional community in Sendai, the hub of North-East Japan, in order to communicate God's love to the Japanese in a way they will understand. 
+YWAM Sendai is a local expression of the global YWAM movement. We are pioneering a missional community in Sendai, the hub of North-East Japan, in order to communicate God's love to the Japanese in a way they will understand.
 
-## Givers and Advancers: We are in this together!
+There are two ways to be involved in our community, and both ways are essential in order for us to achieve our vision to reach the Japanese people! You can either be a **Supporter** (external partner) or an **Advancer** (Sendai-based core team member). 
+
+## Supporters and Advancers: We are in this together!
 
 The Japanese people cannot be reached by a few individuals alone. In YWAM Sendai, none of our team members receive a normal wage, but instead rely on God's provision - primarily through people around the world who believe in what we are doing.
 
-Traditionally, there has been a disconnect between the Givers (those sending financial support to the overseas missionary) and the Advancers (those that are on the ground making things happen to advance the Kingdom - the missionaries). Actually, the Givers and the Advancers are working together equally!
+Traditionally, there has been a disconnect between the Supporters (those sending financial support to the overseas missionary) and the Advancers (those that are on the ground making things happen to advance the Kingdom - the missionaries). Actually, the Supporters and the Advancers are working together equally!
 
-At YWAM Sendai, we consider the Givers as much a part of the community as the Advancers. We want to make it as easy as possible for those that are financially supporting one of our team members, a ministry, or YWAM Sendai in general, to be in communication with us and to be an active influence in how we reach out to the Japanese. Whether that means praying for specific needs as they arise, giving advise, planning a trip to come see what we are doing, or just to chat with us. You don't even have to be giving financially! All who are interested in our vision to reach the Japanese are welcome into [our community!](http://ywamsendai.org/join)
+Of course, to be a Supporter does not just mean giving financially. We need people to pray for us! And we need wisdom and encouragement too! So whether you'd like to financially support one of our team members or YWAM Sendai in general, or whether you want to commit to pray for us and the Japanese people, or even if you'd just like to find out more about what we are doing and to say hello, you're very welcome to be a part of our community in some way! We need you!
 
-## We believe in transparency!
+[Join our community here on Riot.im](http://ywamsendai.org/join) and introduce yourself! :)
 
-As a way of inviting people into our community, we want to be as transparent as possible with how we function. We don't desire to be a closed off group doing our own thing. We also believe that transparency brings accountability. We want anyone to feel as if they can have input into what we are doing. In doing so, we believe that YWAM Sendai will be more effective at spreading the gospel in Japan!
+Our hope is that this wiki, and Riot.im, will help us in establishing a transparent community that will aid us in spreading the Gospel to the Japanese!
 
-Our hope is that this wiki, and Riot.im, will help us in reaching this goal.
+## Feel a call to advance God's Kingdom in North-East Japan?
 
-## Feel a call to come?
+We would love more people to come and join our core team physically in Sendai, Japan! The harvest is plentiful but the workers are few.
 
-Having said all that, we would love more people to come and join us physically in Sendai, Japan! The harvest is plentiful but the workers are few. [Get in touch!](http://ywamsendai.org/join) :)
+We encourage all future team members to explore this wiki and to keep in regular communication with us on Riot.
+
+[Get in touch!](http://ywamsendai.org/join) :)

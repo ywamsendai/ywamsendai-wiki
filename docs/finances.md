@@ -24,6 +24,17 @@ Category | MSL | RSL
 **Couple** | ¥190,000 | ¥250,000
 **Family (1 child)** | ¥260,000 | ¥350,000
 
+## Moving-in and Setup Costs
+
+We also want to mention that along with monthly financial support, you will also need an amount of money on top of that when starting life in Japan. Here is an example of some initial costs:
+
+* Flight to Japan
+* Moving into a new apartment (this can cost anywhere from an extra 1 to 4 months worth of rent!)
+* Furnature and appliances
+* Purchase of a mobile phone (if you don't already have one)
+
+Of course, if you move into an apartment with another team member, this will cut these costs substantially. But this will depend on availability. We will be in touch with you about options before arrival.
+
 ## Community Fee
 
 As each team member is financially supported in order to live in Japan, most team member's needs are met. Though this is the case, YWAM Sendai has expenses as a community that are not initially met as YWAM Sendai does not have regular set income. In order to meet these needs, we ask that each team member pays a monthly Community Fee.
