@@ -6,6 +6,10 @@ As we want to reach the Japanese people with the gospel and speak heart-to-heart
 
 One measureable goal for all of our non-Japanese team members is to reach N2 (second highest) level on the Japanese Language Proficiency Test (JLPT). This is the standard language test set by the Japanese government. This is the level many businesses in Japan require of their non-Japanese staff.
 
+It is expected that all of our non-Japanese team members will spend a good portion of their time during the first couple of years in Japan studying the language. Of course, this will look different depending on the person. This could involve self-study, language classes, and conversation practice. Likely a mixture! We will help each person set measureable goals to work towards.
+
+Before even coming to Japan, below you will find some tips on developing a good foundation.
+
 ## First things first: Hiragana
 
 Hiragana and Katakana are the basic syllabic scripts that make up the Japanese writing system, along with Kanji (Chinese characters). Think English alphabet. Kind of. But different.
