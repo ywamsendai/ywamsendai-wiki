@@ -1,6 +1,6 @@
 #Member Finances
 
-This page details fundraising goals we feel are good for our team members to aim for, details the YWAM Sendai Community Fee, and gives some tips on budgeting.
+This page details fundraising goals we feel are good for our team members to aim for, details the YWAM Sendai Team Member Fee, and gives some tips on budgeting.
 
 ##Financial Support Levels
 
@@ -35,11 +35,11 @@ We also want to mention that along with monthly financial support, you will also
 
 Of course, if you move into an apartment with another team member, this will cut these costs substantially. But this will depend on availability. We will be in touch with you about options before arrival.
 
-## Community Fee
+## Team Member Fee
 
-As each team member is financially supported in order to live in Japan, most team member's needs are met. Though this is the case, YWAM Sendai has expenses as a community that are not initially met as YWAM Sendai does not have regular set income. In order to meet these needs, we ask that each team member pays a monthly Community Fee.
+As each team member is financially supported in order to live in Japan, most team member's needs are met. Though this is the case, YWAM Sendai has expenses as a community that are not met as YWAM Sendai does not have regular set income. In order to meet these needs, we ask that each team member pay a monthly Team Member Fee.
 
-Currently, this Community Fee is set to **7% of a team member's income**. This means the actual amount will fluctuate month-to-month depending on one's financial support.
+Currently, this is set to around **7% of a team member's income**. So the actual amount will fluctuate month-to-month depending on one's financial support.
 
 The following are ways in which this money is used:
 
@@ -52,7 +52,7 @@ The following are ways in which this money is used:
 * Community meeting supplies (coffee, snacks etc.)
 * Future vehicle & building maintenance
 
-Please feel free to ask specific questions regarding this Community Fee. We want to be as transparent as possible in regards to community finances!
+Please feel free to ask specific questions regarding this Team Member Fee. We want to be as transparent as possible in regards to community finances!
 
 ## Budgeting
 
