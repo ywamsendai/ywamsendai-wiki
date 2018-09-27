@@ -13,7 +13,6 @@ Everything we do needs to be birthed out of prayer. Each of our team members hea
 ###Worship
 
 
-
 ###Bible
 
 ##Love People
