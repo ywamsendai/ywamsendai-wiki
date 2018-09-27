@@ -29,9 +29,8 @@ Category | MSL | RSL
 We also want to mention that along with monthly financial support, you will also need an amount of money on top of that when starting life in Japan. Here is an example of some initial costs:
 
 * Flight to Japan
-* Moving into a new apartment (this can cost anywhere from an extra 1 to 4 months worth of rent!)
-* Furnature and appliances
-* Purchase of a mobile phone (if you don't already have one)
+* Initial fees for moving into an apartment (this can cost anywhere from an extra 2 to 4 months worth of rent!)
+* Furnature & appliances (and any devices such as a Japan-compatible mobile phone if you don't already have one)
 
 Of course, if you move into an apartment with another team member, this will cut these costs substantially. But this will depend on availability. We will be in touch with you about options before arrival.
 
@@ -43,14 +42,14 @@ Currently, this is set to around **7% of a team member's income**. So the actual
 
 The following are ways in which this money is used:
 
-* YWAM Japan National Office monthly fee (¥1000 per team member)
-* Fund to purchase a building (for offices, meetings, school lectures, and public worship etc.)
-* Emergency fund (disaster relief, sudden team member expenses such as needing to fly home for family reasons etc.)
+* YWAM Japan National Office monthly fee
+* Fund to purchase and maintain a building (for office, meetings, school lectures, public worship etc.)
+* Emergency fund (disaster relief etc.)
 * Ministry events
 * Admin costs (printing, website, office supplies etc.)
 * Purchasing shared assets (computer, projector, instruments, vehicle etc.)
 * Community meeting supplies (coffee, snacks etc.)
-* Future vehicle & building maintenance
+* Fund to purchase and maintain a vehicle
 
 Please feel free to ask specific questions regarding this Team Member Fee. We want to be as transparent as possible in regards to community finances!
 
