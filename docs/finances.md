@@ -26,13 +26,21 @@ Category | MSL | RSL
 
 ## Moving-in and Setup Costs
 
-We also want to mention that along with monthly financial support, you will also need an amount of money on top of that when starting life in Japan. Here is an example of some initial costs:
+Along with monthly financial support, you will also need an amount of money on top of that when starting life in Japan. Here is an example of some initial costs:
 
 * Flight to Japan
 * Initial fees for moving into an apartment (this can cost anywhere from an extra 2 to 4 months worth of rent!)
 * Furnature & appliances (and any devices such as a Japan-compatible mobile phone if you don't already have one)
 
-Of course, if you move into an apartment with another team member, this will cut these costs substantially. But this will depend on availability. We will be in touch with you about options before arrival.
+These costs will vary depending on the cost of your rent and how much they require as a deposit.
+
+As a guide, we recommend that you have **at least** one month's RSL amount in the bank when you arrive in Japan, in addition to monthly support and cost of flights:
+
+Category | Amount
+--------- | ---------
+**Individual** | ¥150,000
+**Couple** | ¥250,000
+**Family** | ¥350,000
 
 ## Team Member Fee
 
