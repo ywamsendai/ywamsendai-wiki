@@ -14,7 +14,7 @@ We of Youth With A Mission believe that the Bible is God's inspired and authorit
 
 **Youth With A Mission (YWAM) affirms the Bible as the inspired and authoritative word of God** and, with the Holy Spirit's guidance, the absolute reference point for every aspect of life and ministry. Based upon God's word, who He is, and His initiative of salvation, through the atoning work of Jesus (His death, burial and resurrection), the following responses are strongly emphasized in YWAM:
 
-* **Worship:** We are called to **praise and worship God alone** (Exo 20:2-3; Deu 6:4-5; 2Ki17:35-39; 1Ch 16:28-30; Neh 8:2-10; Mar 12:29-30; Rom 15:5-13; Jud 24-25; Rev5:6-14; Rev 19:5-8).
+* **Worship:** We are called to **praise and worship God alone** (Exo 20:2-3; Deu 6:4-5; 2Ki 17:35-39; 1Ch 16:28-30; Neh 8:2-10; Mar 12:29-30; Rom 15:5-13; Jud 24-25; Rev 5:6-14; Rev 19:5-8).
 
 * **Holiness:** We are called to **lead holy and righteous lives** that exemplify the nature and character of God (Lev 19:1-2; Psa 51:7-11; Jer 18:1-11; Eze 20:10-12; Zec 13:9; Luk 1:68-75; Eph 4:21-32; Tit 2:11-14; 1Pe 2:9,21-25-3).
 
