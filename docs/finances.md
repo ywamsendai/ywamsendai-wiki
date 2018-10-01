@@ -42,11 +42,11 @@ Category | Amount
 **Couple** | ¥250,000
 **Family** | ¥350,000
 
-## Team Member Fee
+## Team Member Contribution
 
-As each team member is financially supported in order to live in Japan, most team members' needs are met. Though this is the case, YWAM Sendai has expenses as a community that are not met as YWAM Sendai does not have regular set income. In order to meet these needs, we ask that each team member pay a monthly Team Member Fee.
+As each team member is financially supported in order to live in Japan, team members' needs are met. Though this is the case, YWAM Sendai has expenses as a community that are not met because YWAM Sendai does not have its own regular income. In order to meet these needs, we ask that each team member donate a monthly Team Member Contribution. As a guideline, we suggest that this be around **5 to 7% of their monthly income**.
 
-Currently, this is set to around **7% of a team member's income**. So the actual amount will fluctuate month-to-month depending on one's financial support.
+We understand the actual amount will fluctuate month-to-month depending on one's financial support: some months will be higher or lower than others. We ask that this will be done prayerfully with a heart of thanks for what God has provided for us as individuals. And we encourage generosity! We do not see this as an "administration fee" or "staff fee" like a mission organisation would have (remember: we are a movement), but as a way we can together give to further God's kingdom in Sendai through our own community.
 
 The following are ways in which this money is used:
 
@@ -58,8 +58,9 @@ The following are ways in which this money is used:
 * Purchasing shared assets (computer, projector, instruments, vehicle etc.)
 * Community meeting supplies (coffee, snacks etc.)
 * Fund to purchase and maintain a vehicle
+* Donate to local churches and ministries
 
-Please feel free to ask specific questions regarding this Team Member Fee. We want to be as transparent as possible in regards to community finances!
+Please feel free to ask specific questions regarding this Team Member Contribution. We want to be as transparent as possible in regards to community finances!
 
 ## Budgeting
 
