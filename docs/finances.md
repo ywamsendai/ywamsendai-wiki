@@ -44,7 +44,7 @@ Category | Amount
 
 ## Team Member Fee
 
-As each team member is financially supported in order to live in Japan, most team member's needs are met. Though this is the case, YWAM Sendai has expenses as a community that are not met as YWAM Sendai does not have regular set income. In order to meet these needs, we ask that each team member pay a monthly Team Member Fee.
+As each team member is financially supported in order to live in Japan, most team members' needs are met. Though this is the case, YWAM Sendai has expenses as a community that are not met as YWAM Sendai does not have regular set income. In order to meet these needs, we ask that each team member pay a monthly Team Member Fee.
 
 Currently, this is set to around **7% of a team member's income**. So the actual amount will fluctuate month-to-month depending on one's financial support.
 
