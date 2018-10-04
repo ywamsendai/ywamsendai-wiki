@@ -1,10 +1,10 @@
-#Member Finances
+# Member Finances
 
-This page details fundraising goals we feel are good for our team members to aim for, details the YWAM Sendai Team Member Fee, and gives some tips on budgeting.
+This page details fundraising goals we feel are good for our team members to aim for, details the YWAM Sendai Team Member Contribution, and gives some tips on budgeting.
 
-##Financial Support Levels
+## Financial Support Levels
 
-In YWAM, nobody gets paid by YWAM! In fact, YWAMers pay to work! (See below). In all honesty, we have a value for total reliance on God and to have faith that God is who He says He is - Provider. We believe that God will fully provide for those He calls to the mission field.
+In YWAM, nobody gets paid by YWAM! In fact, YWAMers pay to work! (See contribution below). In all honesty, we have a value for total reliance on God and to have faith that God is who He says He is - Provider. We believe that God will fully provide for those He calls to the mission field.
 
 As a mission field, Japan is a particularly expensive place for a missionary. We have seen people come in faith, with hardly any pledged financial support. Actually, God has led YWAMers in this way and provided for them fully! And we believe God is still capable of doing that in Japan! But we have seen people like this struggle, and for whatever reason, their finances do not come in. This is disheartening. But it is especially difficult when people start to get into debt because it is so expensive to live here! We don't know the reasons why God allows for this, but we don't believe its ever God's plan for people to struggle continuously and to get into debt.
 
@@ -58,11 +58,12 @@ The following are ways in which this money is used:
 * Purchasing shared assets (computer, projector, instruments, vehicle etc.)
 * Community meeting supplies (coffee, snacks etc.)
 * Fund to purchase and maintain a vehicle
+* Hospitality (hosting guests, volunteers & teams)
 * Donate to local churches and ministries
 
 Please feel free to ask specific questions regarding this Team Member Contribution. We want to be as transparent as possible in regards to community finances!
 
-## Budgeting
+## Financial Records & Budgeting
 
 Not everyone knows how to, or has experience with, budgeting. Not only do we want to be good stewards of the money God is entrusting us with, but it is also practically helpful to budget and keep track of our finances.
 
