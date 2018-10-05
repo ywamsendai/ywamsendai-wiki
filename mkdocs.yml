@@ -29,6 +29,7 @@ extra:
 
 nav:
     - Welcome: index.md
+    - Join: join.md
     - Finances: finances.md
     - Fundraising: fundraising.md
     - Japanese Language: language.md
