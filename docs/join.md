@@ -6,7 +6,7 @@ As a team member at YWAM Sendai, you will become an integral part of a pioneerin
 
 You should come ready to pursue God in prayer and worship and be committed to developing a naturally supernatural lifestyle. You should also be flexible as this is a pioneering YWAM community.
 
-# The Process
+## The Process
 
 * Join us on [Riot](tools.md), introduce yourself, share what God has placed on your heart, and ask us questions.
 
