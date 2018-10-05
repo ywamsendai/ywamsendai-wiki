@@ -29,6 +29,7 @@ extra:
 
 nav:
     - Welcome: index.md
+    - Why Japan?: whyjapan.md
     - Join: join.md
     - Finances: finances.md
     - Fundraising: fundraising.md
