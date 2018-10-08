@@ -6,13 +6,13 @@ To help get you set up, there are two options for you to consider:
 
 ## 'SIM Free' Phone with MVNO Carrier (Recommended)
 
-Recently, cheaper carriers have been gaining popularity called MVNO (Mobile Virtual Network Operators) carriers. They run on the top of the traditional carriers while giving customers cheaper and more flexible plans. Recommended carriers are LINE Mobile, Rakuten Mobile, Biglobe, and Aeon Mobile.
+Recently, low-cost carriers have been gaining popularity called MVNO (Mobile Virtual Network Operators) carriers. They run on the top of the traditional carriers while giving customers cheaper and more flexible plans. Recommended carriers are LINE Mobile, Rakuten Mobile, Biglobe, and Aeon Mobile.
 
 If you already own a phone from your home country, it is compatible with GSM SIM cards, and is unlocked*, then you can use that here in Japan. Otherwise, you can purchase a SIM-free (unlocked) smartphone from places such as Amazon or Expansys for around ¥15,000 for a basic smartphone, ¥35,000 for a mid-range smartphone or ¥80,000 for a high-end smartphone.
 
 You can purchase a SIM card from electronic stores or Amazon and set up a plan from around ¥1,300 (1GB of data) or ¥1,800 (3GB of data) per month. These plans can usually be cancelled easily with little to no fee. Be aware that these plans usually come with no included calling time. You will pay extra for what you use.
 
-*Unlocking your smartphone is easy and will save you a lot of money. Most GSM phones can be unlocked so long as you are not still paying for it. The first place to turn is the network carrier to which your phone is locked. They will often unlock it for free upon request. The second place to turn is an IMEI unlock service provider. There are many online, just be cautious of choosing one that is well reviewed. We recommend www.doctorsim.com .
+*Unlocking your smartphone may be easy or difficult, but will save you a lot of money. Most GSM phones can be unlocked so long as you are not still paying for it. The first place to turn is the network carrier to which your phone is locked. They will often unlock it for free upon request. The second place to turn is an IMEI unlock service provider. There are many online, just be cautious of choosing one that is well reviewed. We know of www.doctorsim.com .
 
 ## 2-Year Contract with Traditional Carrier
 
