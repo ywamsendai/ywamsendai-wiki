@@ -14,11 +14,11 @@ Unlocking your smartphone may be easy or difficult, but will save you a lot of m
 
 ### SIM Card
 
-Recently, low-cost carriers have been gaining popularity called MVNO (Mobile Virtual Network Operators) carriers. They run on the top of the traditional carriers while giving customers cheaper and more flexible plans. You can find a list of the most popular plans at [Kakaku.com](http://kakaku.com/mobile_data/sim/ranking.asp?si_option2=1&lid=sim_top_voice_search&si_mindatatraffic=0&si_maxdatatraffic=13).
+Recently, low-cost carriers have been gaining popularity called MVNO (Mobile Virtual Network Operators) carriers. They run on the top of the traditional carriers while giving customers cheaper and more flexible plans. You can find a list of the most popular plans at [Kakaku.com](http://kakaku.com/mobile_data/sim/ranking.asp?si_maxdatatraffic=21&si_option2=1).
 
 It seems that **most of these companies require a Japanese credit card**. If you would like a Japanese credit card, we can help you apply for one. If not, Rakuten Mobile allows you to pay using your Japanese bank account. This would be the easiest option.
 
-You can purchase a SIM card from electronic stores or online and set up a plan from between ¥1,300 (1GB of data) to ¥3,200 (3GB of data) per month, depending on the company. These plans can usually be cancelled easily with little to no fee. Be aware that these plans usually come with no included calling time. You will be charged per minute of calling, though you can also call using LINE for free or little cost.
+You can purchase a SIM card from electronic stores or online and set up a plan from between ¥1,300 (1GB of data) to ¥1,700 (3GB of data) per month, depending on the company. These plans can usually be cancelled easily with little to no fee. Be aware that these plans usually come with no included calling time. You will be charged per minute of calling, though you can also call using LINE for free or little cost.
 
 ## 2-Year Contract with Traditional Carrier
 
