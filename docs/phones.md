@@ -6,7 +6,7 @@ To help get you set up, there are two options for you to consider:
 
 ## 'SIM Free' Phone with MVNO Carrier (Recommended)
 
-Recently, low-cost carriers have been gaining popularity called MVNO (Mobile Virtual Network Operators) carriers. They run on the top of the traditional carriers while giving customers cheaper and more flexible plans. Recommended carriers are LINE Mobile, Rakuten Mobile, Biglobe, and Aeon Mobile.
+Recently, low-cost carriers have been gaining popularity called MVNO (Mobile Virtual Network Operators) carriers. They run on the top of the traditional carriers while giving customers cheaper and more flexible plans. You can find a list of the most popular plans at [Kakaku.com](http://kakaku.com/mobile_data/sim/ranking.asp?si_option2=1&lid=sim_top_voice_search&si_mindatatraffic=0&si_maxdatatraffic=13).
 
 If you already own a phone from your home country, it is compatible with GSM SIM cards, and is unlocked*, then you can use that here in Japan. Otherwise, you can purchase a SIM-free (unlocked) smartphone from places such as Amazon or Expansys for around ¥15,000 for a basic smartphone, ¥35,000 for a mid-range smartphone or ¥80,000 for a high-end smartphone.
 
