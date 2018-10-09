@@ -6,13 +6,19 @@ To help get you set up, there are two options for you to consider:
 
 ## 'SIM Free' Phone with MVNO Carrier (Recommended)
 
+### SIM Card
+
 Recently, low-cost carriers have been gaining popularity called MVNO (Mobile Virtual Network Operators) carriers. They run on the top of the traditional carriers while giving customers cheaper and more flexible plans. You can find a list of the most popular plans at [Kakaku.com](http://kakaku.com/mobile_data/sim/ranking.asp?si_option2=1&lid=sim_top_voice_search&si_mindatatraffic=0&si_maxdatatraffic=13).
 
-If you already own a phone from your home country, it is compatible with GSM SIM cards, and is unlocked*, then you can use that here in Japan. Otherwise, you can purchase a SIM-free (unlocked) smartphone from places such as Amazon or Expansys for around ¥15,000 for a basic smartphone, ¥35,000 for a mid-range smartphone or ¥80,000 for a high-end smartphone.
+It seems that **most of these companies require a Japanese credit card**. If you would like a Japanese credit card, we can help you apply for one. If not, Rakuten Mobile allows you to pay using your Japanese bank account. This would be the easiest option.
 
-You can purchase a SIM card from electronic stores or Amazon and set up a plan from around ¥1,300 (1GB of data) or ¥1,800 (3GB of data) per month. These plans can usually be cancelled easily with little to no fee. Be aware that these plans usually come with no included calling time. You will pay extra for what you use.
+You can purchase a SIM card from electronic stores or online and set up a plan from between ¥1,300 (1GB of data) to ¥3,200 (3GB of data) per month, depending on the company. These plans can usually be cancelled easily with little to no fee. Be aware that these plans usually come with no included calling time. You will be charged per minute of calling, though you can also call using LINE for free or little cost.
 
-*Unlocking your smartphone may be easy or difficult, but will save you a lot of money. Most GSM phones can be unlocked so long as you are not still paying for it. The first place to turn is the network carrier to which your phone is locked. They will often unlock it for free upon request. The second place to turn is an IMEI unlock service provider. There are many online, just be cautious of choosing one that is well reviewed. We know of www.doctorsim.com .
+### Device
+
+If you already own a phone from your home country, it is compatible with GSM SIM cards, and is unlocked, then you can use that here in Japan. Otherwise, you can purchase a SIM-free (unlocked) smartphone from places such as Amazon or Expansys for around ¥15,000 for a basic smartphone, ¥35,000 for a mid-range smartphone or ¥80,000 for a high-end smartphone.
+
+Unlocking your smartphone may be easy or difficult, but will save you a lot of money. Most GSM phones can be unlocked so long as you are not still paying for it. The first place to turn is the network carrier to which your phone is locked. They will often unlock it for free upon request. The second place to turn is an IMEI unlock service provider. There are many online, just be cautious of choosing one that is well reviewed. One such company is [DoctorSIM](https://www.doctorsim.com/).
 
 ## 2-Year Contract with Traditional Carrier
 
