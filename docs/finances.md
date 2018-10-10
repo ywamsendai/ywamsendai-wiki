@@ -47,6 +47,7 @@ Category | Amount
 As each team member is financially supported in order to live in Japan, team members' needs are met. Though this is the case, YWAM Sendai has expenses as a community that are not met because YWAM Sendai does not have its own regular income. In order to meet these needs, we ask that each team member donate a monthly Team Member Contribution. As a guideline, we suggest that this be around **5 to 7% of their monthly income**.
 
 For example:
+
 Category | Income | 5% Member Contribution
 --------- | --------- | ---------
 **Individual** | ¥150,000 | ¥7,500
