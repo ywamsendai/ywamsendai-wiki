@@ -78,3 +78,19 @@ Not everyone knows how to, or has experience with, budgeting. Not only do we wan
 We encourage all of our team members to set monthly budgets and to record income and expenses.
 
 **Coming soon: links to budget template docs**
+
+## Taxes & State Pension
+
+It is important that all of our team members ask their local tax office for information on how to file taxes. It may be the case that you will be considered self employed and a proportion of your income would be taxable. Please do this before arrival.
+
+It may also be worth looking into whether you would like to pay into a state pension in your home country. You will be enrolled into the state pension in Japan as is required for all residents. As it tends to be fairly pricey, you will likely have the option of opting out of making contributions due to your low income. We do recommend you pay into a state pension in either your home country or Japan and that you budget accordingly.
+
+## Working in Japan
+
+As you will likely be on a Religious Workers Visa, there are rules about making money in Japan.
+
+You are permitted to earn money if the purpose is related to religious activities. For example, if a church pays you to teach English or make a website for them.
+
+If you wanted to earn supplimentary income while in Japan by other means unrelated to your missionary work, you must apply for a specific work permit. Though this would only be for work that does not take away your time or focus from your missionary activities.
+
+That's the legal side! Regardless, we expect that all of our team members will be fully supported financially to be in Japan. If you would like to apply for a work permit while in Japan, please discuss this with your assigned elder(s). 
