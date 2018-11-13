@@ -22,6 +22,8 @@ A word of caution: **stay away from something known as romaji!!** These are Japa
 
 The Japanese language and culture blog, Tofugu, is rather helpful. Check out the resources on [this page](https://www.tofugu.com/learn-japanese/)!
 
+We also recommend checking out the OMF language resources on [this page](https://omf.org/asia/japan/resources/japanese-language/). They have resources for learning Christian terminology that are particularly useful for missionaries.
+
 ## And then?
 
 Okay, so maybe you already know hiragana? Or you just learned it in a week or so. (Congrats!) And you're still raising financial support. Which means you have more time to study the language! ;)
@@ -34,6 +36,6 @@ No worries if you don't have time to make it this far before coming! (Just make 
 
 Just keep going through the Tofugu page we linked to earlier and you will make good progress.
 
-In terms of kanji learning, they do recommend Wanikani, which they made themselves. Of course, this smells of bias. And its a bit pricey. But I (Gary) use it and think it works extremely well! You can take a trial for free, which is nice.
+In terms of kanji learning, they do recommend Wanikani, which they made themselves. I (Gary) use it and think it works extremely well! You can take a trial for free, which is nice. They also tend to do a New Year sale where you can get lifetime access for a really good price.
 
 May God guide you and open your mind to this exciting and interesting language!
