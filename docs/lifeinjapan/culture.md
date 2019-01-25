@@ -13,12 +13,19 @@ As a side note: if you are foreign, it is okay to shake hands with people! Just 
 ### Gift Giving
 
 Japan is a gift giving culture. Here are some common occasions to give gifts:
+
 * Vising someone's home
+
 * Seeing people after going away on a trip (usually small gifts from the location you visited)
+
 * Moving into an apartment, mansion or house (giving small gifts to the neighbours on either side, and above and below you)
+
 * Attending a wedding (usually money in a special envelope)
+
 * When wanting to express thankyou
+
 * Women/girls give chocolate to male coworkers and friends (not necessarily romantic) on Valentine's Day
+
 * Men/boys give cookies to female coworkers and friends who gave them chocolate on Valentine's Day (again, not necessarily romantic) on White Day
 
 If you remember to give gifts on these occasions, it will go a long way in communicating your cultural understanding and appreciation.
