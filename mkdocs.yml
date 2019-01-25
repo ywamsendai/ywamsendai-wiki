@@ -30,13 +30,16 @@ extra:
       link: 'https://facebook.com/ywamsendai'
 
 nav:
-    - Welcome: index.md
-    - Why Japan?: whyjapan.md
-    - Join: join.md
-    - Finances: finances.md
-    - Fundraising: fundraising.md
-    - Japanese Language: language.md
-    - Tools: tools.md
-    - Phones: phones.md
-    - Purpose, Beliefs & Values: values.md
-    - Vision & Culture: vision.md
+    - Welcome: 'index.md'
+    - YWAM:
+        - Why Japan?: 'ywam/whyjapan.md'
+        - Join: 'ywam/join.md'
+        - Finances: 'ywam/finances.md'
+        - Fundraising: 'ywam/fundraising.md'
+        - Purpose, Beliefs & Values: 'ywam/values.md'
+        - Vision: 'ywam/vision.md'
+        - Tools: 'ywam/tools.md'
+    - Life in Japan:
+        - Culture: 'lifeinjapan/culture.md'
+        - Language: 'lifeinjapan/language.md'
+        - Phones: 'lifeinjapan/phones.md'
