@@ -2,7 +2,7 @@
 
 Whether this is your first time to Japan, or you have lived here for a while, it is always good to keep in mind some aspects of Japanese culture so we can better love and serve the Japanese people. Below you will find a few cultural pointers for your life in Japan.
 
-## Showing love and respect
+## Greeting
 
 ### Bowing
 
