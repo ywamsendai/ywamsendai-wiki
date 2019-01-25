@@ -36,5 +36,58 @@ Bonus points: If you bring small gifts from your home country to give to people,
 
 When receiving anything from anyone, try to remember to use both hands. Same for when giving something to anyone. This can be a business card (which are still important in Japan!), credit card, cash, envelopes, gifts etc.
 
-### Footwear
+## Footwear
 
+### Shoes
+
+Generally speaking, in Japan shoes are unclean and fit only to wear outside. So whenever you enter a building that has a section of the floor seperating the door area (genkan) with the rest of the building, you must take off your shoes. This is usually people's homes, smaller churches, temples, shrines, Japanese guest houses (ryokan), onsen/sento, some Japanese restaurants, etc. Be aware: this is not optional!
+
+### Slippers
+
+After you have taken off your shoes, you may be given slippers to wear. These are generally to wear in areas with wooden flooring. You must take off your slippers before stepping into these areas:
+
+* Japanese-style rooms with tatami (straw) floors
+
+* Toilet rooms (there is usually separate slippers for in here, try not to get them mixed up!)
+
+* Children's play areas, usually marked off with carpet or padded flooring
+
+## Eating and Drinking
+
+### Chopsticks
+
+In Japan, you will mostly be eating using chopsticks (hashi), so please practice before coming to Japan! Some meals will be eaten using cutlery, rather than chopsticks. If in doubt, observe those around you (this will help you in all situations in Japan!). There are some manners involved with using chopsticks:
+
+* Never stick them upright into a bowl of rice (a Buddhist funeral rite)
+
+* Never pass anything to anyone chopstick to chopstick (another Buddhist funeral rite)
+
+* Don't point them at people, or play with them
+
+### Slurping
+
+It is totally normal to slurp noodles in Japan! Just don't eat everything like this in Japan... Just noodles.
+
+### Drinking
+
+If you are at least 20 years old, you may drink in Japan! This is a great way to get to know the locals. Just don't drink too much, of course!
+
+One custom to keep in mind is that when sharing a bottle of something (beer, sake, wine, etc), it is polite to pour someone else's drink if their glass needs filling. And don't pour your own drink. Keep an eye on everyone else's glass and fill them up. This will communicate respect. Of course, if you feel that someone has drank enough already, don't be obliged to fill their glass. Also, never feel pressured to drink more than you would like. A common non-alcoholic drink to order in those settings would be oolong tea.
+
+### Tipping
+
+This isn't done in Japan! So don't do it, even if you want to be kind. They will chase after you if you try, even if you just left 1 yen!
+
+### Meal-time Phrases
+
+There are a few set words that everyone says in Japan at meal times:
+
+* Itadakimasu (I receive) - This is said before you start eating
+
+* Oishii! (delicious!) - This is said when enjoying the meal (say it a few times throughout the meal - this will really honour the cook!)
+
+* Gochisousamadeshita (It was a feast) - This is said at the end of the meal (usually after everyone is finished)
+
+### Public Behaviour
+
+Coming soon!
