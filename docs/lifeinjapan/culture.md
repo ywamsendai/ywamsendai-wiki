@@ -1,6 +1,16 @@
 # Japanese Culture
 
-Whether this is your first time to Japan, or you have lived here for a while, it is always good to keep in mind some aspects of Japanese culture so we can better love and serve the Japanese people. Below you will find a few cultural pointers for your life in Japan.
+Whether this is your first time to Japan, or you have lived here for a while, it is always good to keep in mind some aspects of Japanese culture so we can better love and serve the Japanese people. Actions definitely speak loader than words in Japan. Below you will find a few cultural pointers for your life in Japan.
+
+## Reading the Air
+
+Out of everything on this page, this point is the most important and will help you greatly in Japan.
+
+There is a slang term in Japanese called 空気読めない or KY. This literally means 'cannot read the air'. People are labelled this if they spoil the atmosphere or are socially awkward. Foreigners are often stereotyped as this.
+
+As you do not know all of the social customs when you first come to Japan, remember one thing: read the air. That is, pay attention to what others are doing. Or more importantly, what are they not doing? For example, is everyone quiet on the train? Then be quiet. If you can learn to do this in any and every situation, this will help you to not get into awkward situations (as much as possible anyway..), and you will find that Japanese people will generally fell more comfortable around you too.
+
+Of course, sometimes God may lead you to talk to someone randomly on the street, or to pray for someone. This is KY, and you should do that! But when not lead by God, read the air. The heart behind this, for our purposes, is to love, respect and serve the Japanese. 
 
 ## Greeting
 
@@ -35,6 +45,24 @@ Bonus points: If you bring small gifts from your home country to give to people,
 ### Using Both Hands
 
 When receiving anything from anyone, try to remember to use both hands. Same for when giving something to anyone. This can be a business card (which are still important in Japan!), credit card, cash, envelopes, gifts etc.
+
+### Seeing People Off
+
+In Japan, it is normal and respectful to properly see people off. You will find that when saying goodbye to a Japanese friend, for example at a train station, they will stand waving/bowing to you until you are out of sight. Or at a Japanese person's home, the host will always come to the door with you (or even follow you outside if you are driving, for example) when saying goodbye. This is a sign of respect and hospitality. So as not to cause unintentional disrespect, it would be good to keep this in mind! This is especially important when saying goodbye to those older than you. Wave/bow until its impossible to see them, and it will leave a good impression!
+
+### Honouring Elders
+
+Japanese culture honours elders, whether in terms of position (those higher than you in the workplace or school, or pastors/priests) or age. Examples of showing honour and respect to elders:
+
+* Using more polite language (keigo)
+
+* Letting elders sit furthest from the door at a restaurant
+
+* Standing when they enter the room
+
+* Sitting down after they sit down
+
+* Offering your seat to them when there is nowhere else for them to sit (like on a train, or in a room)
 
 ## Footwear
 
