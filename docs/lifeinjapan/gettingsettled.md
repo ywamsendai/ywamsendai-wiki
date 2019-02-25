@@ -32,6 +32,8 @@ Known as a “hanko” or “inkan” in Japan, a seal is a stamp of your surnam
 
 In Japan, the Japan Post (JP) Bank is convenient to use whenever it comes to sending money. JP Bank is also known for having no ATM charges! Therefore, we encourage and assist all of our staff to open a JP Bank account upon arrival (this does not cost any money). This will require a trip to a local JP Bank with your passport, residency card and seal. After setting up an account, you can also choose to apply for an online account at home (which we also recommend you do!)
 
+We also recommend you apply for a visa debit card with this account which will make it easier to make payments for things without using cash. You can find out more here: [Mijica](https://www.jp-bank.japanpost.jp/kojin/card/mijica/kj_crd_mij_index.html).
+
 There are also other local banks, such as 77 Bank (which is one of the major banks in Sendai) that may be convenient in the long run for you to use. This could be another lengthy process, but if the need arises, we will also assist you to open an account with them too!
 
 ## Set Up a Phone
