@@ -44,7 +44,7 @@ Category | Amount
 
 ## Team Member Contribution
 
-As each team member is financially supported in order to live in Japan, team members' needs are met. Though this is the case, YWAM Sendai has expenses as a community that are not met because YWAM Sendai does not have its own regular income. In order to meet these needs, we ask that each team member donate a monthly Team Member Contribution. As a guideline, we suggest that this be around **5 of monthly income**.
+As each team member is financially supported in order to live in Japan, team members' needs are met. Though this is the case, YWAM Sendai has expenses as a community that are not met because YWAM Sendai does not have its own regular income. In order to meet these needs, we ask that each team member donate a monthly Team Member Contribution. As a guideline, we suggest that this be around **5% of monthly income**.
 
 You can work out 5% of something by doing [income] x 0.05. For example:
 
@@ -71,6 +71,14 @@ The following are ways in which this money is used:
 
 Please feel free to ask specific questions regarding this Team Member Contribution. We want to be as transparent as possible in regards to community finances!
 
+### How to make contribution
+
+The preferred method of making your member contribution is a bank transfer from your JP Bank account to YWAM Sendai's JP Bank account. This can be easily done online via JP Direct (ゆうちょダイレクト). You can find directions on how to make a transfer [here.](https://www.jp-bank.japanpost.jp/direct/pc/guide/dr_pc_gd_densin.html) (Japanese only).
+
+The YWAM Sendai JP Bank account number is: **10140-65305041**
+
+You can also send this money using a JP Bank ATM, or if all else fails, you can give it in cash to the Finance role (currently Gary). This person can also assist you in making the bank transfers.
+
 ## Financial Records & Budgeting
 
 Not everyone knows how to, or has experience with, budgeting. Not only do we want to be good stewards of the money God is entrusting us with, but it is also practically helpful to budget and keep track of our finances.
@@ -93,4 +101,4 @@ You are permitted to earn money if the purpose is related to religious activitie
 
 If you wanted to earn supplimentary income while in Japan by other means unrelated to your missionary work, you must apply for a specific work permit. Though this would only be for work that does not take away your time or focus from your missionary activities.
 
-That's the legal side! Regardless, we expect that all of our team members will be fully supported financially to be in Japan. If you would like to apply for a work permit while in Japan, please discuss this with your assigned elder(s). 
+That's the legal side! Regardless, we expect that all of our team members will be fully supported financially to be in Japan. If you would like to apply for a work permit while in Japan, please discuss this with the General Lead Link (currently Gary).
