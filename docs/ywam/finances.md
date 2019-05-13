@@ -81,8 +81,8 @@ The YWAM Sendai JP Bank account number is: **10140-65305041**
 You can find directions on how to make a transfer [here.](https://www.jp-bank.japanpost.jp/direct/pc/guide/dr_pc_gd_densin.html)
 
 **ATM**:
-* At the ATM, press the English button
-* Next, press Remittance
+* At the ATM, insert your cashcard or bank book, then press the English button
+* Next, press Remittance and enter your PIN number
 * Input the first 5 numbers of the account number: 10140
 * Next, input the next 8 numbers: 65305041
 * Input the amount you wish to send
