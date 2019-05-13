@@ -34,13 +34,13 @@ Along with monthly financial support, you will also need an amount of money on t
 
 These costs will vary depending on the cost of your rent and how much they require as a deposit.
 
-As a guide, we recommend that you have **at least** one month's RSL amount in the bank when you arrive in Japan, in addition to monthly support and cost of flights:
+As a guide, we recommend that you have between one and two month's worth of the RSL amount in the bank when you arrive in Japan:
 
 Category | Amount
 --------- | ---------
-**Individual** | ¥150,000
-**Couple** | ¥250,000
-**Family** | ¥350,000
+**Individual** | ¥150,000-¥300,000
+**Couple** | ¥250,000-¥500,000
+**Family** | ¥350,000-¥700,000
 
 ## Team Member Contribution
 
@@ -59,7 +59,7 @@ We understand the actual amount will fluctuate month-to-month depending on one's
 The following are ways in which this money is used:
 
 * YWAM Japan National Office monthly fee
-* Fund to purchase and maintain a building (for office, meetings, school lectures, public worship etc.)
+* Fund to purchase and maintain a building (for office, meetings, cafe, school lectures, public worship etc.)
 * Emergency fund (disaster relief etc.)
 * Ministry events
 * Admin costs (printing, website, office supplies etc.)
@@ -73,11 +73,24 @@ Please feel free to ask specific questions regarding this Team Member Contributi
 
 ### How to make contribution
 
-The preferred method of making your member contribution is a bank transfer from your JP Bank account to YWAM Sendai's JP Bank account. This can be easily done online via JP Direct (ゆうちょダイレクト). You can find directions on how to make a transfer [here.](https://www.jp-bank.japanpost.jp/direct/pc/guide/dr_pc_gd_densin.html) (Japanese only).
+The preferred method of making your member contribution is a bank transfer from your JP Bank account to YWAM Sendai's JP Bank account. This can be easily done either online via JP Direct (ゆうちょダイレクト) or via the ATM.
 
 The YWAM Sendai JP Bank account number is: **10140-65305041**
 
-You can also send this money using a JP Bank ATM, or if all else fails, you can give it in cash to the Finance role (currently Gary). This person can also assist you in making the bank transfers.
+**Online** (Japanese only):
+You can find directions on how to make a transfer [here.](https://www.jp-bank.japanpost.jp/direct/pc/guide/dr_pc_gd_densin.html)
+
+**ATM**:
+* At the ATM, press the English button
+* Next, press Remittance
+* Input the first 5 numbers of the account number: 10140
+* Next, input the next 8 numbers: 65305041
+* Input the amount you wish to send
+* Confirm
+* You will be given an option to save this account. Please do this, as it will make this process quick and easy from now on.
+* From now on, after pressing Remittance, you can choose the saved account, then input the amount.
+
+You can also give cash to the Finance role (currently Gary). This person can also assist you in making the bank transfers, so please don't hesitate to ask!
 
 ## Financial Records & Budgeting
 
