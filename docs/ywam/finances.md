@@ -78,9 +78,11 @@ The preferred method of making your member contribution is a bank transfer from 
 The YWAM Sendai JP Bank account number is: **10140-65305041**
 
 **Online** (Japanese only):
+
 You can find directions on how to make a transfer [here.](https://www.jp-bank.japanpost.jp/direct/pc/guide/dr_pc_gd_densin.html)
 
 **ATM**:
+
 * At the ATM, insert your cashcard or bank book, then press the English button
 * Next, press Remittance and enter your PIN number
 * Input the first 5 numbers of the account number: 10140
