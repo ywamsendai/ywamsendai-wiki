@@ -8,7 +8,7 @@ You should come ready to pursue God in prayer and worship and be committed to de
 
 ## The Process
 
-* Join us on [Riot](tools.md), introduce yourself, share what God has placed on your heart, and ask us questions.
+* Connect with us either via [email](mailto:people@ywamsendai.org) or on [Riot](tools.md), introduce yourself, share what God has placed on your heart, and ask us questions.
 
 * You will have had to have completed a YWAM DTS somewhere in the world.
 
