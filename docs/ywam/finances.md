@@ -4,11 +4,11 @@ This page details fundraising goals we feel are good for our team members to aim
 
 ## Financial Support Levels
 
-In YWAM, nobody gets paid by YWAM! In fact, YWAMers pay to work! (See contribution below). In all honesty, we have a value for total reliance on God and to have faith that God is who He says He is - Provider. We believe that God will fully provide for those He calls to the mission field.
+In YWAM, nobody gets paid by YWAM! Finances do not come through YWAM Sendai before going to the missionary. Each member has full responsibility for raising their own financial support and to steward that money well. Of course, we do not truth in people alone for our support. We value total reliance on God and to have faith that God is who He says He is - Provider. We believe that God will fully provide for those He calls to the mission field.
 
-As a mission field, Japan is a particularly expensive place for a missionary. We have seen people come in faith, with hardly any pledged financial support. Actually, God has led YWAMers in this way and provided for them fully! And we believe God is still capable of doing that in Japan! But we have seen people like this struggle, and for whatever reason, their finances do not come in. This is disheartening. But it is especially difficult when people start to get into debt because it is so expensive to live here! We don't know the reasons why God allows for this, but we don't believe its ever God's plan for people to struggle continuously and to get into debt.
+As a mission field, Japan is a particularly expensive place. Though we fully believe that God provides for us, and know that there are those that live day to day without knowing where their next donation will come from, we have seen people like this struggle here in Japan. This is disheartening. It is especially difficult when people start to get into debt because it is so expensive to live here! We don't believe its ever God's plan for people to struggle continuously and to get into debt.
 
-We have prayerfully decided to set financial support levels that our team members are to aim for when fundraising to join our team. We believe reaching these levels of support will allow our community to focus on Jesus and the Japanese people, rather than being distracted by a lack of finances.
+We have prayerfully decided to set financial support levels that our team members are to aim for when fundraising to join our team. We believe reaching these levels of support will allow our community to focus on Jesus and the Japanese people, rather than being distracted by a lack of finances. And as our team members rent property individually from local landlords, we want to ensure that we are a blessing to the local Japanese that don't yet know Jesus, rather than being a burden. 
 
 To keep things simple, we have two levels: **Minimum Support Level (MSL)** and **Recommended Support Level (RSL)**.
 
@@ -16,13 +16,15 @@ The MSL is what we feel to be the very minimum amount of monthly income to have 
 
 The RSL is what we feel to be a moderately comfortable amount of monthly income to have. This allows for more generosity as well as to be able to save for an emergency fund.
 
-We have set different amounts depending on one's circumstances. Here are the current support levels:
+We have set different amounts depending on one's circumstances. Here are the current monthly support levels:
 
 Category | MSL | RSL
 --------- | --------- | ---------
 **Individual** | ¥110,000 | ¥150,000
 **Couple** | ¥190,000 | ¥250,000
-**Family (1 child)** | ¥260,000 | ¥350,000
+**Small Family** | ¥260,000 | ¥350,000
+
+If you are considering joining us shorter term (1 to 2 years), we can consider savings as part of your support by dividing your savings by the number of months you'd like to serve here. Savings should also include moving-in and setup costs (see below). But please do not do this without prayer, as it is much better to raise the full amount in monthly support before your arrival.
 
 ## Moving-in and Setup Costs
 
@@ -116,4 +118,4 @@ You are permitted to earn money if the purpose is related to religious activitie
 
 If you wanted to earn supplimentary income while in Japan by other means unrelated to your missionary work, you must apply for a specific work permit. Though this would only be for work that does not take away your time or focus from your missionary activities.
 
-That's the legal side! Regardless, we expect that all of our team members will be fully supported financially to be in Japan. If you would like to apply for a work permit while in Japan, please discuss this with the General Lead Link (currently Gary).
+That's the legal side! Regardless, we expect that all of our team members will be fully supported financially to be in Japan. If you would like to apply for a work permit while in Japan, please discuss this with Gary & Naoko.
