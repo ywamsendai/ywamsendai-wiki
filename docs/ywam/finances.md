@@ -22,7 +22,7 @@ Category | MSL | RSL
 --------- | --------- | ---------
 **Individual** | ¥110,000 | ¥150,000
 **Couple** | ¥190,000 | ¥250,000
-**Small Family** | ¥260,000 | ¥350,000
+**Small Family** | ¥240,000 | ¥350,000
 
 If you are considering joining us shorter term (1 to 2 years), we can consider savings as part of your support by dividing your savings by the number of months you'd like to serve here. Savings should also include moving-in and setup costs (see below). But please do not do this without prayer, as it is much better to raise the full amount in monthly support before your arrival.
 
