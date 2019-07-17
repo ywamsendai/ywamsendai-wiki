@@ -2,9 +2,9 @@
 
 **Hello there!** This is the place to be in order to learn all about YWAM Sendai!
 
-This wiki acts as a kind-of handbook for our community. We have only just begun writing content, so there isn't much now. But it will grow over time! :)
+This wiki acts as a handbook to our community. We have only just begun writing content, so there isn't much now. But it will grow over time! :)
 
-For those interested in what we are doing: [Join the YWAM Sendai community!](https://ywamsendai.org/join)
+For those interested in hanging out with us online: [Join the YWAM Sendai community!](https://ywamsendai.org/join)
 
 YWAM Sendai website: [ywamsendai.org](https://ywamsendai.org)
 
@@ -32,7 +32,7 @@ Our hope is that this wiki, and Riot.im, will help us in establishing a transpar
 
 ## Feel a call to advance God's Kingdom in North-East Japan?
 
-We would love more people to come and join our core team physically in Sendai, Japan! The harvest is plentiful but the workers are few.
+We would love more people to come and join our team in Sendai, Japan! The harvest is plentiful but the workers are few.
 
 We encourage all future team members to explore this wiki and to keep in regular communication with us on Riot.
 

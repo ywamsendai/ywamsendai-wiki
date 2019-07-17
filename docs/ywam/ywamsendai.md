@@ -1,4 +1,4 @@
-#Vision
+#About YWAM Sendai
 
 This page outlines some of the main values we share as a pioneering missional community in Sendai. We are praying for more people to join us, so please read our values and we welcome you to prayerfully consider joining us!
 
@@ -8,7 +8,7 @@ Tohoku is the northernmost region of Honshu, the main island of Japan, and inclu
 
 The vision to pioneer YWAM in Tohoku has been growing since the 2011 earthquake and tsunami. Since then, we have been taking vision trips there to seek God’s guidance, and sense that Sendai city in Miyagi prefecture is the place to start!
 
-Sendai, populated by over a million people, is the ‘hub’ of Tohoku. We feel Sendai is to be a springboard to pioneering further Operating Locations and ministries in the rest of Tohoku.
+Sendai, populated by over a million people, is the ‘hub’ of Tohoku. We feel Sendai is to be a springboard to pioneering further Operating Locations and ministries in the rest of Tohoku. YWAM Sendai was officially established in Summer/Autumn 2018.
 
 ##Distinctive Values
 
