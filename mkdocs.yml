@@ -14,7 +14,7 @@ theme:
     accent: 'green'
   language: 'en'
   
-google_analytics: ['UA-20132770-3', 'ywamsendai.org']
+google_analytics: ['UA-20132770-5', 'wiki.ywamsendai.org']
 
 extra:
     social:
