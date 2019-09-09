@@ -6,14 +6,14 @@ Each member of our team is supported financially to serve with us in Japan. That
 
 You can make a transfer to us via your bank account (or a transfer service such as TransferWise for cheaper fees). Here are the details you will need:
 
-Bank: Mizuho Bank Ltd.
-Branch: Senju
-Branch number: 527
-Branch address: 2-58 Senju, Adachi-ku, Tokyo, 120-0034, JAPAN
-SWIFT code: MHCBJPJT
-Account number: 1992774
-Account name: Sekaiseinensenkyoukai
-Recipient's address: 2-15-3 Kanmaki-cho, Takatsuki-shi, Osaka-fu, 569-0003, JAPAN
+* Bank: Mizuho Bank Ltd.
+* Branch: Senju
+* Branch number: 527
+* Branch address: 2-58 Senju, Adachi-ku, Tokyo, 120-0034, JAPAN
+* SWIFT code: MHCBJPJT
+* Account number: 1992774
+* Account name: Sekaiseinensenkyoukai
+* Recipient's address: 2-15-3 Kanmaki-cho, Takatsuki-shi, Osaka-fu, 569-0003, JAPAN
 
 Please send us an email telling us you have sent your donation, including the amount and date of transfer, to admin@ywamsendai.org
 
