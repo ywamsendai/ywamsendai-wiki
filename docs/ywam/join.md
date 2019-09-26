@@ -8,7 +8,7 @@ You should come ready to pursue God in prayer and worship and be committed to de
 
 ## The Process
 
-* Connect with us either via [email](mailto:people@ywamsendai.org), introduce yourself, share what God has placed on your heart, and ask us questions.
+* Connect with us via [email](mailto:people@ywamsendai.org), introduce yourself, share what God has placed on your heart, and ask us questions.
 
 * Explore this wiki to find information on Japan culture, YWAM culture, budgeting, language learning tips etc.
 
