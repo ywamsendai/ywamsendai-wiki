@@ -8,18 +8,22 @@ You should come ready to pursue God in prayer and worship and be committed to de
 
 ## The Process
 
-* Connect with us either via [email](mailto:people@ywamsendai.org) or on [Riot](tools.md), introduce yourself, share what God has placed on your heart, and ask us questions.
-
-* You will have had to have completed a YWAM DTS somewhere in the world.
-
-* We will send you an application form. This part will also include us sending character reference forms to three people that know you.
-
-* Once we have everything, we will pray and discuss as a team about whether we feel this is where God wants you to be. And let you know!
-
-* You will then start [fundraising](fundraising.md)! You will find info on how much to raise on the [finances page](finances.md).
+* Connect with us either via [email](mailto:people@ywamsendai.org), introduce yourself, share what God has placed on your heart, and ask us questions.
 
 * Explore this wiki to find information on Japan culture, YWAM culture, budgeting, language learning tips etc.
 
-* Once you have reached at least the Minimum Support Level of financial support, we will start the visa process!
+* You will have had to have completed a YWAM DTS somewhere in the world to start the application process.
 
-Chat to us on Riot for more information!
+* Stage 1: We will send you an application form. Once you complete this, we will send character reference forms to three people that know you.
+
+* Once we have received the references, we will pray and discuss as a team about whether we feel this is where God wants you to be.
+
+* Stage 2: If we feel peace about moving forward, we will send you a visa, medical, and criminal record check form. Only the YWAM Sendai leaders will have access to this information.
+
+* Once we have received this, the leaders will pray and discuss whether now is the right time for you to join us in Japan, or if there is anything else you should do before coming.
+
+* Stage 3: If you pass both stages, you will then start [fundraising](fundraising.md)! You will find info on how much to raise on the [finances page](finances.md).
+
+* Once you have reached at least the Minimum Support Level of financial support, you will pass this stage and we will start the visa process!
+
+You will be guided through this process and can ask questions anytime!
