@@ -20,7 +20,7 @@ We have set different amounts depending on one's circumstances. Here are the cur
 
 Category | MSL | RSL
 --------- | --------- | ---------
-**Individual** | ¥110,000 | ¥150,000
+**Individual** | ¥120,000 | ¥180,000
 **Couple** | ¥190,000 | ¥250,000
 **Small Family** | ¥240,000 | ¥350,000
 
@@ -36,13 +36,13 @@ Along with monthly financial support, you will also need an amount of money on t
 
 These costs will vary depending on the cost of your rent and how much they require as a deposit.
 
-As a guide, we recommend that you have between one and two month's worth of the RSL amount in the bank when you arrive in Japan:
+As a guide, we recommend that you have at least two month's worth of the RSL amount in the bank when you arrive in Japan:
 
 Category | Amount
 --------- | ---------
-**Individual** | ¥150,000-¥300,000
-**Couple** | ¥250,000-¥500,000
-**Family** | ¥350,000-¥700,000
+**Individual** | ¥360,000
+**Couple** | ¥500,000
+**Family** | ¥700,000
 
 ## Team Member Contribution
 

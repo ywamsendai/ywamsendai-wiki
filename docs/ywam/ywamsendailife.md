@@ -16,7 +16,7 @@ Once a week, we also meet in small groups. These are gender-based groups where w
 
 ### Worship & Intercession
 
-Every Monday morning from 9:00-11:00 we meet together for worship and a devotional to start the week. Every Wednesday from 13:30 to 14:30, we meet to interceed for what is on God's heart. We also worship and intercede on the streets of the red light district of Sendai (Kokubuncho) every Thursday evening.
+Every Monday morning from 9:00 to 11:00 we meet together for worship and a devotional to start the week. Every Wednesday from 13:30 to 14:30, we meet to interceed for what is on God's heart. We also worship and intercede on the streets of the red light district of Sendai (Kokubuncho) every Thursday evening.
 
 ### Team Meeting
 
