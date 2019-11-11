@@ -40,8 +40,8 @@ As a guide, we recommend that you have at least two month's worth of the RSL amo
 
 Category | Amount
 --------- | ---------
-**Individual** | ¥360,000
-**Couple** | ¥500,000
+**Individual** | ¥480,000
+**Couple** | ¥520,000
 **Family** | ¥700,000
 
 ## Team Member Contribution
