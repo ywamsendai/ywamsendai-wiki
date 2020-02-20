@@ -2,19 +2,17 @@
 
 This page details fundraising goals we feel are good for our team members to aim for, details the YWAM Sendai Team Member Contribution, and gives some tips on budgeting.
 
-## Financial Support Levels
+## Financial Support
 
 In YWAM, nobody gets paid by YWAM! Finances do not come through YWAM Sendai before going to the missionary. Each member has full responsibility for raising their own financial support and to steward that money well. Of course, we do not truth in people alone for our support. We value total reliance on God and to have faith that God is who He says He is - Provider. We believe that God will fully provide for those He calls to the mission field.
 
 As a mission field, Japan is a particularly expensive place. Though we fully believe that God provides for us, and know that there are those that live day to day without knowing where their next donation will come from, we have seen people like this struggle here in Japan. This is disheartening. It is especially difficult when people start to get into debt because it is so expensive to live here! We don't believe its ever God's plan for people to struggle continuously and to get into debt.
 
-We have prayerfully decided to set financial support levels that our team members are to aim for when fundraising to join our team. We believe reaching these levels of support will allow our community to focus on Jesus and the Japanese people, rather than being distracted by a lack of finances. And as our team members rent property individually from local landlords, we want to ensure that we are a blessing to the local Japanese that don't yet know Jesus, rather than being a burden. 
+In order to help each team member raise enough financial support to live in Japan, we have two levels of financial support to keep in mind when fundraising: **Minimum Support Level (MSL)** and **Recommended Support Level (RSL)**.
 
-To keep things simple, we have two levels: **Minimum Support Level (MSL)** and **Recommended Support Level (RSL)**.
+The MSL is what we feel to be the minimum amount of monthly income to have in order to live in Japan. We will not start a new team member's visa process until they have reached this level. We believe raising at least this amount will allow our community to focus on God and the Japanese people, rather than being distracted by a lack of finances. And as our team members rent property individually from local landlords, we want to ensure that we are a blessing to the local Japanese that don't yet know Jesus, rather than being a burden.
 
-The MSL is what we feel to be the very minimum amount of monthly income to have in order to live in Japan. We will not start a new team member's visa process until they have reached this level.
-
-The RSL is what we feel to be a moderately comfortable amount of monthly income to have. This allows for more generosity as well as to be able to save for an emergency fund.
+The RSL is what we feel to be a moderately comfortable amount of monthly income to have. This allows for more generosity as well as to be able to save for an emergency fund and pay into a pension.
 
 We have set different amounts depending on one's circumstances. Here are the current monthly support levels:
 
@@ -46,17 +44,9 @@ Category | Amount
 
 ## Team Member Contribution
 
-As each team member is financially supported in order to live in Japan, team members' needs are met. Though this is the case, YWAM Sendai has expenses as a community that are not met because YWAM Sendai does not have its own regular income. In order to meet these needs, we ask that each team member donate a monthly Team Member Contribution. As a guideline, we suggest that this be around **5% of monthly income**.
+As each team member is financially supported in order to live in Japan, team members' needs are met. Though this is the case, YWAM Sendai has expenses as a community that are not met because YWAM Sendai does not have its own regular income. In order to meet these needs, we ask that each team member donate a monthly Team Member Contribution. As a guideline, we suggest that this be around **¥6,000 per person**.
 
-You can work out 5% of something by doing [income] x 0.05. For example:
-
-Category | Income | 5% Member Contribution
---------- | --------- | ---------
-**Individual** | ¥150,000 | ¥7,500
-**Couple** | ¥250,000 | ¥12,500
-**Family** | ¥350,000 | ¥17,500
-
-We understand the actual amount will fluctuate month-to-month depending on one's financial support: some months will be higher or lower than others. We ask that this will be done prayerfully with a heart of thanks for what God has provided for us as individuals. And we encourage generosity! We do not see this as an "administration fee" or "staff fee" like a mission organisation would have (remember: we are a movement), but as a way we can together give to further God's kingdom in Sendai through our own community.
+We ask that this will be done prayerfully with a heart of thanks for what God has provided for us as individuals. This is a way we can together give to further God's kingdom in Sendai through our own community.
 
 The following are ways in which this money is used:
 
