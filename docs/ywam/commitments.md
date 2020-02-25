@@ -36,7 +36,7 @@ One good way to learn is to pursue opportunities to be immersed in Japanese-only
 
 To learn this language requires discipline and good strategy. We encourage each staff to set achievable goals in language study and to stick to a study schedule. We are in this together, so we ask everyone to keep each other accountable. As we want to become a bilingual YWAM base, we also challenge each other to speak in Japanese together. A great way to practice (and stay humble!).
 
-There are many opportunities to practice and learn the language in Sendai. Please seek them out! Read [this page](lifeinjapan/language.md) for some pointers in (what we think) is the right direction to get you started.
+There are many opportunities to practice and learn the language in Sendai. Please seek them out! Read [this page](../lifeinjapan/language.md) for some pointers in (what we think) is the right direction to get you started.
 
 ## Be Wise with Time!
 
