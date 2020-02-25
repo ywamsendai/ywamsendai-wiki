@@ -20,6 +20,8 @@ ALl of us here at YWAM Sendai are called by God not just as individuals, but to 
 
 Being part of a team also means being committed to serving wholeheartedly the vision and goals of YWAM Sendai (prioritizing team schedule, being quick to help out etc.). We choose to hold each other accountable and call each other higher when necessary (pointing to these expectations when necessary!).
 
+As we all live in seperate homes, we need to communicate well both in person and online. So you can be extrovert or introvert and still participate. Yay! But seriously, lets aim to over-communicate, rather than under-communicate. Especially as our community grows (and pioneers new communities!). We have a document to show you how to have a [Riot](tools.md) with us! ;)
+
 ## Be Part of the Body!
 
 We are the Body of Christ. This is true. We want YWAM Sendai to live like the Bible, without hinderance. We will worship, pray, eat, minister, work laugh, interceed, love, sing, cry, study.. together! After all, we are the Church, right?
@@ -57,19 +59,3 @@ While trusting in God alone for our needs, we believe it is good stewardship of 
 We ask all of our team members to make a monthly contribution to our community. Don't worry, its not filling the base leader's pockets. YWAM Sendai does not have its own income and relies on these monthly donations in order to function as a team. Please read [this page to find out what its used for](finances.md). 
 
 There is always need for ongoing fundraising. This is a combination of the rise of living expenses here, as well as support being dropped back home. It is vital to communicate regularly to supporters and churches, both for prayer support and for financial support. It is also important to make trips to visit supporters and churches around once every two years for a month or two in order to renew connections with supporters, churches, family and friends.
-
-## Be a Good Communicator!
-
-Don't you just love it when a team communicates really well together? It's great! Our expectation is that you will fit right in to the community and actively participate in discussions, meetings etc. Our community communicates both in person, and online! So you can be extrovert or introvert and still participate. Yay! But seriously, lets aim to over-communicate, rather than under-communicate. Especially as our community grows (and pioneers new communities!). 
-
-We have a document to show you how to have a [Riot](tools.md) with us! ;)
-
-
-
-###Prayer
-
-Everything we do needs to be birthed out of prayer. Each of our team members hear from God. We need to commit to spending time with God and turning our ears towards Him. Prayer looks different for each person. But setting time aside daily for Him is essential. Our personal time with God is priority, though we also value praying together as a community also.
-
-###Acts of Service
-
-###Roles & Circles
