@@ -1,34 +1,99 @@
-site_name: 'YWAM Sendai Wiki'
+# Project information
+site_name: YWAM Sendai Wiki
 site_url: https://wiki.ywamsendai.org
-site_author: 'YWAM Sendai'
-site_description: 'Learn about YWAM Sendai'
-repo_name: '/ywamsendai-wiki'
+site_author: YWAM Sendai
+site_description: Learn about YWAM Sendai
+
+# Repository
+repo_name: ywamsendai/ywamsendai-wiki
 repo_url: https://github.com/ywamsendai/ywamsendai-wiki/
 edit_uri: edit/master/docs/
 docs_dir: docs
 
-theme:
-  name: 'material'
-  palette:
-    primary: 'green'
-    accent: 'green'
-  language: 'en'
-  
-google_analytics: ['UA-20132770-5', 'wiki.ywamsendai.org']
+# Copyright
+copyright: Copyright &copy; 2020 YWAM Sendai
 
+theme:
+  name: material
+
+  # Don't include MkDocs' JavaScript
+  include_search_page: false
+  search_index_only: true
+
+  # Default values, taken from mkdocs_theme.yml
+  language: en
+  features:
+    - tabs
+    #- instant
+  palette:
+    primary: green
+    accent: green
+  font:
+    text: Roboto
+    code: Roboto Mono
+  icon:
+    logo: logo
+  favicon: assets/favicon.png
+
+# Plugins
+plugins:
+  - search
+  - minify:
+      minify_html: true
+
+# Customization
 extra:
     social:
-    - type: 'comment-o'
-      link: 'https://www.ywamsendai.org'
-    - type: 'medium'
-      link: 'https://medium.com/ywamsendai'
-    - type: 'twitter'
-      link: 'https://twitter.com/ywamsendai'
-    - type: 'github'
-      link: 'https://github.com/ywamsendai'
-    - type: 'facebook'
-      link: 'https://facebook.com/ywamsendai'
+    - icon: fontawesome/regular/comment
+      link: https://www.ywamsendai.org
+    - icon: fontawesome/brands/medium
+      link: https://medium.com/ywamsendai
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/ywamsendai
+    - icon: fontawesome/brands/github
+      link: https://github.com/ywamsendai
+    - icon: fontawesome/brands/facebook
+      link: https://facebook.com/ywamsendai
 
+# Extensions
+markdown_extensions:
+  - markdown.extensions.admonition
+  - markdown.extensions.attr_list
+  - markdown.extensions.codehilite:
+      guess_lang: false
+  - markdown.extensions.def_list
+  - markdown.extensions.footnotes
+  - markdown.extensions.meta
+  - markdown.extensions.toc:
+      permalink: true
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  # - pymdownx.highlight:
+  #     linenums_style: pymdownx-inline
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: ywamsendai
+      repo: ywamsendai-wiki
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.snippets:
+      check_paths: true
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+# Page tree
 nav:
     - Welcome: 'index.md'
     - YWAM:
@@ -49,3 +114,7 @@ nav:
         - Getting Settled: 'lifeinjapan/gettingsettled.md'
         - Disaster Preparation: 'lifeinjapan/disaster.md'
         - Phones: 'lifeinjapan/phones.md'
+
+
+# Google Analytics
+google_analytics: ['UA-20132770-5', 'wiki.ywamsendai.org']

@@ -10,13 +10,13 @@ YWAM Sendai website: [ywamsendai.org](https://ywamsendai.org)
 
 ## What is Christianity like in North-East Japan?
 
-The Japanese are one of the largest unreached people groups in the world. In North-East Japan, or Tohoku, there are many areas with no churches, missionaries, or Christians. 
+The Japanese are one of the largest unreached people groups in the world. In North-East Japan, or Tohoku, there are many areas with no churches, missionaries, or Christians.
 
 ## Enter: YWAM Sendai!
 
 YWAM Sendai is a local expression of the global YWAM movement. We are pioneering a missional community in Sendai, the hub of North-East Japan, in order to communicate God's love to the Japanese in a way they will understand.
 
-There are two ways to be involved in our community, and both ways are essential in order for us to achieve our vision to reach the Japanese people! You can either be a **Supporter** (external partner) or a **Missionary** (Sendai-based core team member). 
+There are two ways to be involved in our community, and both ways are essential in order for us to achieve our vision to reach the Japanese people! You can either be a **Supporter** (external partner) or a **Missionary** (Sendai-based core team member).
 
 ## Supporters and Missionaries: We are in this together!
 
