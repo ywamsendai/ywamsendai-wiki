@@ -6,31 +6,6 @@ Japan is a country that experiences natural phenomena on a regular basis, such a
 
 Make sure you have a disaster early-warning app installed on your phone. Yahoo Japan has a popular app called 防災速報. For those that don't know Japanese, Yurekuru Call is a recommended one in English.
 
-## Home
-
-### Furniture
-
-Make sure that tall furniture such as bookshelves are secured to the wall or ceiling. You can get extendable devices to place on the top of them that push them up against the ceiling.
-
-Also make sure you don't have breakable items, such as photo frames, mugs, or clocks on a high place (especially not near where you sleep!).
-
-### Emergency Supplies
-
-After a disaster, around 90% of people will live in their homes. Evacuation centres give priority to those that have had their homes damaged. In the case of disaster, utilities may all be cut off. In this case, it would be good to have up to one week's worth of supplies stocked at home for emergencies.
-
-Stock the following items per adult:
-
-* Long-life water: 10.5 to 21L (most important item to have)
-* Long-life emergency food: rice (such as alpha rice), canned food, biscuits, chocolate bars, dried bread etc for one week
-* 28 to 49 simple toilets (the average number of excretions per adult for 7 days)
-* Hygiene products: Toilet paper, tissue paper, wet tissues, bandages etc.
-* Radio
-* Flashlight (preferably waterproof)
-* Raincoat
-* Whistle
-* First-aid equipment (bands, bandages, antiseptic solutions, regular medicine, etc.)
-* For families with infants: prepare formula milk, disposable nappies, baby bottles, etc.
-
 ## Evacuation
 
 In the case of your home being damaged, you may have to live in an evacuation centre.
@@ -68,3 +43,23 @@ You can also purchase ready-made emergency bags online. For example:
 Be aware of the location and route of your designated evacuation point.
 
 For example, the evacuation points around Ayashi station are Hirose Middle School and Ayashi Primary School.
+
+## Home
+
+### Furniture
+
+Make sure that tall furniture such as bookshelves are secured to the wall or ceiling. You can get extendable devices to place on the top of them that push them up against the ceiling.
+
+Also make sure you don't have breakable items, such as photo frames, mugs, or clocks on a high place (especially not near where you sleep!).
+
+### Emergency Supplies
+
+After a disaster, around 90% of people will live in their homes. Evacuation centres give priority to those that have had their homes damaged. In the case of disaster, utilities may all be cut off. In this case, it would be good to have up to one week's worth of supplies stocked at home for emergencies.
+
+Stock the following items (in addition to emergency bag) per adult to extend the emergency bag stock to last a whole week (extra 4 to 6 days depending on emergency bag stock):
+
+* Long-life water: extra 9 to 15L
+* Long-life emergency food: extra rice (such as alpha rice), canned food, biscuits, chocolate bars, dried bread etc
+* Extra 24 to 28 simple toilets
+* Extra hygiene products: Toilet paper, tissue paper, wet tissues, bandages etc.
+* For families with infants: prepare extra formula milk, disposable nappies, baby bottles, etc.
