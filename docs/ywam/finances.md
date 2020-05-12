@@ -44,13 +44,12 @@ Category | Amount
 
 ## Team Member Contribution
 
-As each team member is financially supported in order to live in Japan, team members' needs are met. Though this is the case, YWAM Sendai has expenses as a community that are not met because YWAM Sendai does not have its own regular income. In order to meet these needs, we ask that each team member donate a monthly Team Member Contribution. As a guideline, we suggest that this be around **¥6,000 per person**.
+As each team member is financially supported in order to live in Japan, team members' needs are met. Though this is the case, YWAM Sendai has expenses as a community that are not met because YWAM Sendai does not have its own regular income. In order to meet these needs, we ask that each team member donate a monthly Team Member Contribution. As a guideline, we suggest that this be around **¥5,000 per person**.
 
 We ask that this will be done prayerfully with a heart of thanks for what God has provided for us as individuals. This is a way we can together give to further God's kingdom in Sendai through our own community.
 
 The following are ways in which this money is used:
 
-* YWAM Japan National Office monthly fee
 * Fund to purchase and maintain a building (for office, meetings, cafe, school lectures, public worship etc.)
 * Emergency fund (disaster relief etc.)
 * Ministry events
@@ -60,6 +59,7 @@ The following are ways in which this money is used:
 * Fund to purchase and maintain a vehicle
 * Hospitality (hosting guests, volunteers & teams)
 * Donate to local churches and ministries
+* 5% of donation goes to YWAM Japan National Office
 
 Please feel free to ask specific questions regarding this Team Member Contribution. We want to be as transparent as possible in regards to community finances!
 
@@ -75,6 +75,8 @@ You can find directions on how to make a transfer [here.](https://www.jp-bank.ja
 
 **ATM**:
 
+Please note there will be a fee of ¥152 per transfer.
+
 * At the ATM, insert your cashcard or bank book, then press the English button
 * Next, press Remittance and enter your PIN number
 * Input the first 5 numbers of the account number: 10140
@@ -85,6 +87,16 @@ You can find directions on how to make a transfer [here.](https://www.jp-bank.ja
 * From now on, after pressing Remittance, you can choose the saved account, then input the amount.
 
 You can also give cash to the Finance role (currently Gary). This person can also assist you in making the bank transfers, so please don't hesitate to ask!
+
+## YWAM Japan National Office Fee
+
+Each YWAM Japan staff member is required to send **¥1,000** to the YWAM Japan National Office each month. It is each staff member's responsibility to send this.
+
+### How to make payment
+
+The YWAM Japan National Office JP Bank account number is: **10180-66612671**
+
+You can send via the same methods as the YWAM Sendai contribution (online or ATM).
 
 ## Financial Records & Budgeting
 
