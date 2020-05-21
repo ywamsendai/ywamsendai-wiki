@@ -20,7 +20,7 @@ Category | MSL | RSL
 --------- | --------- | ---------
 **Individual** | ¥140,000 | ¥240,000
 **Couple** | ¥160,000 | ¥260,000
-**Small Family** | ¥250,000 | ¥350,000
+**Small Family** | ¥220,000 | ¥320,000
 
 If you are considering joining us shorter term (1 to 2 years), we can consider savings as part of your support by dividing your savings by the number of months you'd like to serve here. Savings should also include moving-in and setup costs (see below). But please do not do this without prayer, as it is much better to raise the full amount in monthly support before your arrival.
 
@@ -29,7 +29,7 @@ If you are considering joining us shorter term (1 to 2 years), we can consider s
 Along with monthly financial support, you will also need an amount of money on top of that when starting life in Japan. Here is an example of some initial costs:
 
 * Flight to Japan
-* Initial fees for moving into an apartment (this can cost anywhere from an extra 2 to 4 months worth of rent!)
+* Initial fees for moving into an apartment (this can cost anywhere from an extra 2 to 4 months worth of rent)
 * Furnature & appliances (and any devices such as a Japan-compatible mobile phone if you don't already have one)
 
 These costs will vary depending on the cost of your rent and how much they require as a deposit.
@@ -40,16 +40,15 @@ Category | Amount
 --------- | ---------
 **Individual** | ¥480,000
 **Couple** | ¥520,000
-**Family** | ¥700,000
+**Family** | ¥640,000
 
-## Team Member Contribution
+## Staff Fee
 
-As each team member is financially supported in order to live in Japan, team members' needs are met. Though this is the case, YWAM Sendai has expenses as a community that are not met because YWAM Sendai does not have its own regular income. In order to meet these needs, we ask that each team member donate a monthly Team Member Contribution. As a guideline, we suggest that this be around **¥5,000 per person**.
-
-We ask that this will be done prayerfully with a heart of thanks for what God has provided for us as individuals. This is a way we can together give to further God's kingdom in Sendai through our own community.
+As each team member is financially supported in order to live in Japan, team members' needs are met. Though this is the case, YWAM Sendai has expenses as a community that are not met because YWAM Sendai does not have its own regular income. In order to meet these needs, we ask that each staff member pay a monthly staff fee of **¥6,000**.
 
 The following are ways in which this money is used:
 
+* ¥1,000 goes to YWAM Japan National Office
 * Fund to purchase and maintain a building (for office, meetings, cafe, school lectures, public worship etc.)
 * Emergency fund (disaster relief etc.)
 * Ministry events
@@ -59,9 +58,8 @@ The following are ways in which this money is used:
 * Fund to purchase and maintain a vehicle
 * Hospitality (hosting guests, volunteers & teams)
 * Donate to local churches and ministries
-* 5% of donation goes to YWAM Japan National Office
 
-Please feel free to ask specific questions regarding this Team Member Contribution. We want to be as transparent as possible in regards to community finances!
+Please feel free to ask specific questions regarding this staff fee. We want to be as transparent as possible in regards to community finances!
 
 ### How to make contribution
 
@@ -88,19 +86,9 @@ Please note there will be a fee of ¥152 per transfer.
 
 You can also give cash to the Finance role (currently Gary). This person can also assist you in making the bank transfers, so please don't hesitate to ask!
 
-## YWAM Japan National Office Fee
-
-Each YWAM Japan staff member is required to send **¥1,000** to the YWAM Japan National Office each month. It is each staff member's responsibility to send this.
-
-### How to make payment
-
-The YWAM Japan National Office JP Bank account number is: **10180-66612671**
-
-You can send via the same methods as the YWAM Sendai contribution (online or ATM).
-
 ## Financial Records & Budgeting
 
-Not everyone knows how to, or has experience with, budgeting. Not only do we want to be good stewards of the money God is entrusting us with, but it is also practically helpful to budget and keep track of our finances.
+Not everyone has experience with budgeting. Not only do we want to be good stewards of the money God is entrusting us with, but it is also practically helpful to budget and keep track of our finances.
 
 We encourage all of our team members to set monthly budgets and to record income and expenses.
 
