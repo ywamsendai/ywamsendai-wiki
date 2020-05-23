@@ -21,6 +21,7 @@ Before you move into actually understanding, learning, and being proficient in t
 If your mother tongue is not Japanese, then the sounds you make when you speak will not sound natural when you speak Japanese. This is a cold fact. Even when you think a sound *is* the same as your mother tongue, chances are there is subtle difference. But don't be discouraged! Once you realise this, then you can understand just *what are* the Japanese sounds. You can then begin to learn and practice in order to train your tongue. It is probably optimal to do this, even briefly, before moving on to the kana. This is so you don't develop bad pronunciation habits.
 
 At the very least, please check out these short videos before moving on:
+
 * [Japanese writing systems + pitch accent](https://www.youtube.com/watch?v=ReTQSh15GII)
 * [Japanese consonants](https://www.youtube.com/watch?v=Raq0eo0znLY)
 * [Japanese vowels](https://www.youtube.com/watch?v=-xcJnHR9MKo)
@@ -76,11 +77,25 @@ If you are an incoming new staff, it would be good to begin this process as soon
 
 ### 1. Kanji
 
-First, it is recommended you start learning kanji as it will make learning vocab easier in the long run. As there are thousands of them, and they can look extremely complex, learning kanji can seem very daunting. But as long as you have a good system in place, you will be surprised by how many you can understand in a short amount of time!
+First, it is recommended you start learning kanji as it will make learning vocab and grammar easier in the long run. As there are thousands of them, and they can look extremely complex, learning kanji can seem very daunting. But as long as you have a good system in place, you will be surprised by how many you can understand in a short amount of time!
 
-#### Choose a system, and stick with it
+At this point, the most important thing to keep in mind is that you want to recognise as many kanji as you can in a relatively short amount of time. It will take years of using kanji in order to actually learn them along with all their readings. So try not to get bogged down by memorising all of their sounds or stroke orders. Right now, you need to decide which system you will use. Then you need to stick with it. You will be investing a few hundred hours into this, so make sure you understand your options.
 
-Coming soon...
+Here are a few good options for you to consider:
+
+* **[WaniKani](https://www.wanikani.com/)** is a fantastic Spaced Repetition System (SRS) that uses mnemonics in order to teach you around 2,000 kanji and around 6,000 vocab using those kanji. It breaks down each kanji into radicals, making the learning process much easier. This tool is highly recommended as it walks you through the whole process in a fun way--levelling up as you progress. WaniKani requires a monthly subscription which costs $9 per month, but there is an annual New Year sale which costs $299 for lifetime access (previous months paid for during that year are subtracted from the amount too).
+
+* **[Read the Kanji](https://www.readthekanji.com/#tour)** breaks the kanji up by JLPT level which is convenient. If you learnt kana using this, then you already know how it works. The issue is that it doesn't break down the kanji into radicals, meaning you will have to do that yourself, and you have to know which desks to choose. But it does attempt to make the process interesting by levelling up as you progress. Read the Kanji requires a monthly subscription which costs $5 per month.
+
+* You can also add your own desks to **Anki**--a free SRS application. A good deck to add to the software is **[All In One Kanji Desk (RTK Order)](https://ankiweb.net/shared/info/215365929)**. This will teach you 3,000 kanji. If you learn 5 new cards each day, it will take you 2 years to complete the deck. It would also be good to go through this **[Kanji Radical](https://ankiweb.net/shared/info/1044119361)** deck too to make the learning process much easier. This system is free, but will require much more time, work, and self discipline in order for it to be effective.
+
+Once you have chosen your system, stick with it! **Do your reviews every day.** Don't spend time writing the kanji at this point (this will slow you down considerably, and handwriting is seldom done today). Focus on being able to **recognise the meaning** of the kanji, memorise at least the **most common reading**, and **learn common vocab** that use the kanji.
+
+Start the process of learning grammar once you have learnt around 300 kanji.
+
+### 2. Grammar
+
+Now that you have some kanji under your belt, it is time to start learning grammar.
 
 ## And then?
 
