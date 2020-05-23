@@ -66,11 +66,21 @@ Download [Drops](https://languagedrops.com/language/learn-japanese) on your smar
 
 This resource is great because it is optimised for your *long term memory*. (Note: don't use Drops for anything other than kana as there are better resources for the rest of your language learning.)
 
-This part will likely take around a month or so. You can do this while moving forward with your kanji learning.
+This part will likely take around a month or so. You can do this while moving forward with your kanji, vocab, and grammar learning.
 
 ## B. Build a Vocab and Grammar Base (~6 months)
 
+In order to prepare you for immersion in the language while living in Japan, you will need a strong base of vocabulary and grammar. So now you know the sounds and kana, it is time to start learning both of these.
 
+If you are an incoming new staff, it would be good to begin this process as soon as you can while fundraising.
+
+### 1. Kanji
+
+First, it is recommended you start learning kanji as it will make learning vocab easier in the long run. As there are thousands of them, and they can look extremely complex, learning kanji can seem very daunting. But as long as you have a good system in place, you will be surprised by how many you can understand in a short amount of time!
+
+#### Choose a system, and stick with it
+
+Coming soon...
 
 ## And then?
 
