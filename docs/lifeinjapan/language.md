@@ -89,25 +89,35 @@ Here are a few good options for you to consider:
 
 * You can also add your own desks to **Anki**--a free SRS application. A good deck to add to the software is **[All In One Kanji Desk (RTK Order)](https://ankiweb.net/shared/info/215365929)**. This will teach you 3,000 kanji. If you learn 5 new cards each day, it will take you 2 years to complete the deck. It would also be good to go through this **[Kanji Radical](https://ankiweb.net/shared/info/1044119361)** deck too to make the learning process much easier. This system is free, but will require much more time, work, and self discipline in order for it to be effective.
 
-Once you have chosen your system, stick with it! **Do your reviews every day.** Don't spend time writing the kanji at this point (this will slow you down considerably, and handwriting is seldom done today). Focus on being able to **recognise the meaning** of the kanji, memorise at least the **most common reading**, and **learn common vocab** that use the kanji.
+Once you have chosen your system, stick with it! **Do your reviews every day.** Don't spend time writing the kanji at this point (this will slow you down considerably, and handwriting is seldom done today). Focus on being able to **recognise the meaning** of the kanji, memorise the **most common reading**, and **learn common vocab** that use the kanji.
 
 Start the process of learning grammar once you have learnt around 300 kanji.
 
 ### 2. Grammar
 
-Now that you have some kanji under your belt, it is time to start learning grammar.
+Now that you have some kanji under your belt, it is time to start learning grammar. It is said that, for Westerners, Japanese is one of the hardest languages to learn. This is especially the case because Japanese [sentence structure](https://8020japanese.com/japanese-sentence-structure/) is very different. But once you understand the basic concepts, its actually [very simple](https://smilenihongo.com/basic-japanese-sentence-structure).
+
+As you begin to learn grammar, remember this: it's okay to feel frustrated. You may at some points feel dumb. "Why aren't I getting it!?" You may also realise you keep forgetting what you have learnt. But this is okay. It is not just you. Japanese is hard! But you will get there.
+
+At the point, the goal is to have a basic understanding of Japanese grammar. This, along with going through your kanji and vocab reviews, will enable you to stumble through native Japanese content. That is when a lot of things will actually *click*, and learning Japanese transitions from a chore to actually having fun. You will also feel more confident when practicing your speaking and listening with Japanese people.
+
+Here, we will outline an effective action plan, which will take around 6 months:
+
+1. Purchase Japanese grammar textbooks. We recommend Genki I and Genki II. Get both the textbooks and the workbooks.
+
+2. Work through [one section](http://genki.japantimes.co.jp/about_en/about06_en) per day. (e.g. Numbers on one day, then Time the next, then Telephone numbers etc.) There are 137 sections in total. (ignore the reading and writing section of the book.)
+
+3. Complete the corresponding sections in the workbook with a one week delay. (e.g. complete the Numbers section 7 days after doing it in the textbook.) This will help you retain the grammar points in your memory.
+
+4. Take the weekends off. Use this time to consume Japanese media. Make note of content you'd like to use in the future for study.
+
+
 
 ## And then?
 
-Okay, so maybe you already know hiragana? Or you just learned it in a week or so. (Congrats!) And you're still raising financial support. Which means you have more time to study the language! ;)
-
-Seriously, the more ground work on this you do before you arrive, the better. A solid foundation will really help!
+The more ground work on this you do before you arrive, the better. A solid foundation will really help!
 
 Before getting into the nitty-gritty of Japanese grammar, it is good to learn to read basic kanji, touch up a little more on pronunciation, learn to read katakana, and practice typing it too. If you can work on these things *before* coming to Japan, it will help immensely as you then can focus on grammar without the distraction of learning these basic things from scratch.
-
-Just keep going through the Tofugu page we linked to earlier and you will make good progress.
-
-In terms of kanji learning, they do recommend WaniKani, which they made themselves. I (Gary) use it and think it works extremely well! You can take a trial for free, which is nice. They also tend to do a New Year sale where you can get lifetime access for a really good price.
 
 The Japanese language and culture blog, Tofugu, is rather helpful. Check out the resources on [this page](https://www.tofugu.com/learn-japanese/)!
 
