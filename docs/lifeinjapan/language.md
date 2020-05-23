@@ -4,13 +4,34 @@ As you may have guessed, in Japan people use Japanese to communicate! Japanese i
 
 As we want to reach the Japanese people with the gospel and speak heart-to-heart, we need to communicate fluently in Japanese. This is a high value for our community and we aim to transition YWAM Sendai to function bilingually in Japanese and English as soon as possible. As we are still in the early stages of pioneering YWAM Sendai, and our team is mostly made up of new missionaries to Japan, we are currently functioning in English.
 
-One measurable goal for all of our non-Japanese team members is to reach N2 (second highest) level on the Japanese Language Proficiency Test (JLPT). This is the standard language test set by the Japanese government. This is the level many businesses in Japan require of their non-Japanese staff.
+It is expected that all of our non-Japanese team members will spend a good portion of their time during fundraising (before coming) and during the first year or two in Japan studying the language. We will help each person set measurable goals to work towards. Of course, this will look different depending on the person. That being the case, this page outlines what we think is an effective way of learning this language.
 
-It is expected that all of our non-Japanese team members will spend a good portion of their time during the first couple of years in Japan studying the language. Of course, this will look different depending on the person. This could involve self-study, language classes, and conversation practice. Likely a mixture! We will help each person set measurable goals to work towards.
+Much of this page is based on the fantastic research by redditor [SuikaCider](https://www.reddit.com/user/SuikaCider/) which can be found [here](https://docs.google.com/document/d/10bRzVblKVOsQJjTc2PIi1Gbj_LrsJCkMkh0SutXCZdI/edit#).
 
-Before even coming to Japan, below you will find some tips on developing a good foundation.
+## First: Build Your Foundation
 
-## First things first: Hiragana
+Before you move into actually understanding, learning, and being proficient in the Japanese language (a life-long process!), you need to establish a solid foundation. There are key aspects of the language that, if you grasp them early on, will help you greatly moving forward. These are **pronunciation and kana**. If possible, we strongly encourage all new staff to understand and learn these two things before coming to Japan.
+
+## Pronunciation
+
+If your mother tongue is not Japanese, then the sounds you make when you speak will not sound natural when you speak Japanese. This is a cold fact. Even when you think a sound *is* the same as your mother tongue, chances are there is subtle difference. But don't be discouraged! Once you realise this, then you can understand just *what are* the Japanese sounds. You can then begin to learn and practice in order to train your tongue. It is probably optimal to do this, even briefly, before moving on to the kana. This is so you don't develop bad pronunciation habits.
+
+At the very least, please check out these short videos before moving on:
+[Japanese writing systems + pitch accent](https://www.youtube.com/watch?v=ReTQSh15GII)
+[Japanese consonants](https://www.youtube.com/watch?v=Raq0eo0znLY)
+[Japanese vowels](https://www.youtube.com/watch?v=-xcJnHR9MKo)
+
+Understanding these concepts will help you to speak naturally in order to make your Japanese both easy to understand and pleasant to listen to for the native Japanese listener. [Reading this article](http://www.antimoon.com/how/pronuncwhy.htm) may help to see this importance for clearly.
+
+[This article on Tofugu](https://www.tofugu.com/japanese/japanese-pronunciation/) will expand on the concepts you were introduced to in the above videos.
+
+Finally, IWTYAL has a [few simple tips](https://www.iwillteachyoualanguage.com/learn/japanese/japanese-tips/japanese-pronunciation) to quickly level-up your Japanese pronunciation.
+
+You don't have to completely understand pronunciation before moving on. But having a basic understanding of these concepts will help you sound more natural in the long run.
+
+As you proceed to learn kana, keep in mind these concepts in order to solidify your understanding and to train your tongue to sound more natural.
+
+## Kana
 
 Hiragana and Katakana are the basic syllabic scripts that make up the Japanese writing system, along with Kanji (Chinese characters). Think English alphabet. Kind of. But different.
 
@@ -21,8 +42,6 @@ We pretty much **require all new team members to read hiragana before they arriv
 A word of caution: **stay away from something known as romaji!!** These are Japanese sounds in latin alphabet. Your brain will use this as a crutch. Pretend it does not exist. Seriously. **Learn hiragana!**
 
 The Japanese language and culture blog, Tofugu, is rather helpful. Check out the resources on [this page](https://www.tofugu.com/learn-japanese/)!
-
-There is also a very thorough method of learning Japanese written by redditor [SuikaCider](https://www.reddit.com/user/SuikaCider/) which can be found [here](https://docs.google.com/document/d/10bRzVblKVOsQJjTc2PIi1Gbj_LrsJCkMkh0SutXCZdI/edit#).
 
 We also recommend checking out the OMF language resources on [this page](https://omf.org/asia/japan/resources/japanese-language/). They have resources for learning Christian terminology that are particularly useful for missionaries.
 
