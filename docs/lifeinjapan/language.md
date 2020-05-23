@@ -95,6 +95,8 @@ Start the process of learning grammar once you have learnt around 300 kanji.
 
 ### 2. Grammar
 
+#### Focus on the grammar, hope for native content
+
 Now that you have some kanji under your belt, it is time to start learning grammar. It is said that, for Westerners, Japanese is one of the hardest languages to learn. This is especially the case because Japanese [sentence structure](https://8020japanese.com/japanese-sentence-structure/) is very different. But once you understand the basic concepts, its actually [very simple](https://smilenihongo.com/basic-japanese-sentence-structure).
 
 As you begin to learn grammar, remember this: it's okay to feel frustrated. You may at some points feel dumb. "Why aren't I getting it!?" You may also realise you keep forgetting what you have learnt. But this is okay. It is not just you. Japanese is hard! But you will get there.
@@ -111,16 +113,16 @@ Here, we will outline an effective action plan, which will take around 6 months:
 
 4. Take the weekends off. Use this time to consume Japanese media. Make note of content you'd like to use in the future for study.
 
+#### Focus on native content, refine grammar
+
+You have now finished Genki II! You may be thinking "but I am not sure I remember everything!" Don't worry. This is normal. The task now is to review what you have learnt, while learning more advanced grammar.
 
 
-## And then?
 
-The more ground work on this you do before you arrive, the better. A solid foundation will really help!
 
-Before getting into the nitty-gritty of Japanese grammar, it is good to learn to read basic kanji, touch up a little more on pronunciation, learn to read katakana, and practice typing it too. If you can work on these things *before* coming to Japan, it will help immensely as you then can focus on grammar without the distraction of learning these basic things from scratch.
+## Christian-Specific Japanese
 
-The Japanese language and culture blog, Tofugu, is rather helpful. Check out the resources on [this page](https://www.tofugu.com/learn-japanese/)!
+We recommend checking out the OMF language resources on [this page](https://omf.org/asia/japan/resources/japanese-language/). They have resources for learning Christian terminology that are particularly useful for missionaries.
 
-We also recommend checking out the OMF language resources on [this page](https://omf.org/asia/japan/resources/japanese-language/). They have resources for learning Christian terminology that are particularly useful for missionaries.
 
 May God guide you and open your mind to this exciting and interesting language!
