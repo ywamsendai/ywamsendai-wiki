@@ -145,4 +145,8 @@ OMF has compiled helpful language resources on [this page](https://omf.org/asia/
 
 ## Stage Two: Immersion
 
-Coming soon!
+By now, you have taken *at least* 6 months to build your Japanese language foundation. This is a great milestone: well done! The first stage was all about studying, memorising, and cramming. The next stage becomes more personal, as you explore native Japanese content and speak with native speakers.
+
+This can also be a difficult stage as there aren't really any set tasks for you to complete and work through. You're on your own! But your determination, and the help of God, will get you through to proficiency!
+
+### 1. Reading
