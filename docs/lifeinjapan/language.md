@@ -115,14 +115,34 @@ Here, we will outline an effective action plan, which will take around 6 months:
 
 #### Focus on native content, refine grammar
 
-You have now finished Genki II! You may be thinking "but I am not sure I remember everything!" Don't worry. This is normal. The task now is to review what you have learnt, while learning more advanced grammar.
+You have now finished Genki II! You may be thinking "but I am not sure I remember everything!" Don't worry. This is normal. The task now is to review what you have learnt and fill any gaps you may have.
 
+Here, we will outline an action plan for progressing in your grammar studies. Note that the following should *not* be time-consuming. This should only take 10 to 20 mins per day.
 
+1. Purchase Shin Kanzen Master’s N4 Grammar review book. This is broken up into 58 topical units that you can go through, one per day (like you did with Genki). There is a review test every 5 units, but skip that until you finish the book. This will help with memory retention.
 
+2. Once you finish, pick up Shin Kanzen Master’s N4 Reading Comprehension book. This book is fantastic, and will help you to see how comfortable you are with the Genki grammar points you have learned. Do one per day.
 
-## Christian-Specific Japanese
+3. Next, attempt a [JLPT N4 practice test](https://www.jlpt.jp/e/samples/sampleindex.html)!
 
-We recommend checking out the OMF language resources on [this page](https://omf.org/asia/japan/resources/japanese-language/). They have resources for learning Christian terminology that are particularly useful for missionaries.
+You now have a solid foundation! You should now be ready to find resources independently. In terms of grammar, try to move on to stage two (immersion).
 
+### 3. Vocabulary
 
-May God guide you and open your mind to this exciting and interesting language!
+#### Construct a vocab core
+
+One of the best ways to build your vocabulary is to immerse yourself in the language, especially through reading or listening to books. But at this point, you don't know enough vocab to read. The aim of this section is to enable you to feel comfortable enough to explore simple native content.
+
+If you are using WaniKani, then continue to work through your reviews and new lessons every day! WaniKani will give you a great vocab core (around 6,000 words!)
+
+If you are not using WaniKani, Anki is probably your best tool. Install [Anki](https://www.youtube.com/watch?v=Ih67nqyLEkg) and then download the [Core2k](https://ankiweb.net/shared/info/2141233552) deck. Adjust the settings so that Anki will give you 11 new cards per day. You can be done in 182 days!
+
+#### Christian vocab
+
+Not only is it important to learn common Japanese vocab, you should also learn Christian vocab. This is essential for worshipping, praying, reading the Bible, and sharing the Gospel--all in Japanese!
+
+OMF has compiled helpful language resources on [this page](https://omf.org/asia/japan/resources/japanese-language/). They have resources for learning Christian terminology that are particularly useful for missionaries.
+
+## Stage Two: Immersion
+
+Coming soon!
