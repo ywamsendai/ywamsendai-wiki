@@ -4,7 +4,7 @@ As you may have guessed, in Japan people use Japanese to communicate! Japanese i
 
 As we want to reach the Japanese people with the gospel and speak heart-to-heart, we need to communicate fluently in Japanese. This is a high value for our community and we aim to transition YWAM Sendai to function bilingually in Japanese and English as soon as possible. As we are still in the early stages of pioneering YWAM Sendai, and our team is mostly made up of new missionaries to Japan, we are currently functioning in English.
 
-It is expected that all of our non-Japanese team members will spend a good portion of their time during fundraising (before coming) and during the first year or two in Japan studying the language. We will help each person set measurable goals to work towards. Of course, this will look different depending on the person. That being the case, this page outlines what we think is an effective way of learning this language.
+It is expected that all of our non-Japanese team members will spend a good portion of their time during fundraising (before coming) and during the first year or so in Japan studying the language. We will help each person set measurable goals to work towards. Of course, this will look different depending on the person. That being the case, this page outlines what we think is an effective way of learning this language.
 
 Much of this page is based on the fantastic research by redditor [SuikaCider](https://www.reddit.com/user/SuikaCider/) which can be found [here](https://docs.google.com/document/d/10bRzVblKVOsQJjTc2PIi1Gbj_LrsJCkMkh0SutXCZdI/edit#).
 
@@ -73,29 +73,44 @@ This part will likely take around a month or so. You can do this while moving fo
 
 In order to prepare you for immersion in the language while living in Japan, you will need a strong base of vocabulary and grammar. So now you know the sounds and kana, it is time to start learning both of these.
 
-If you are an incoming new staff, it would be good to begin this process as soon as you can while fundraising.
+If you are an incoming new staff, it would be good to begin this process as soon as you can while fundraising. If you are already in Japan, see how this compares with what you are doing to study the language and adapt your systems if necessary. Your goal is not to study everything until you feel you understand everything! Your goal is to be just comfortable *enough* with the language that you can explore native content and talk with native speakers. This is when the *real* learning happens!
 
-### 1. Kanji
+### 1. Kanji and Vocab
 
 First, it is recommended you start learning kanji as it will make learning vocab and grammar easier in the long run. As there are thousands of them, and they can look extremely complex, learning kanji can seem very daunting. But as long as you have a good system in place, you will be surprised by how many you can understand in a short amount of time!
 
+It is also worth learning vocabulary along with the kanji. This is because vocab includes kanji, and learning vocab will also teach you the different readings for the kanji.
+
 At this point, the most important thing to keep in mind is that you want to recognise as many kanji as you can in a relatively short amount of time. It will take years of using kanji in order to actually learn them along with all their readings. So try not to get bogged down by memorising all of their sounds or stroke orders. Right now, you need to decide which system you will use. Then you need to stick with it. You will be investing a few hundred hours into this, so make sure you understand your options.
 
-Here are a few good options for you to consider:
+To make things simple, here are a couple of good options for you to consider:
 
-* **[WaniKani](https://www.wanikani.com/)** is a fantastic Spaced Repetition System (SRS) that uses mnemonics in order to teach you around 2,000 kanji and around 6,000 vocab using those kanji. It breaks down each kanji into radicals, making the learning process much easier. This tool is highly recommended as it walks you through the whole process in a fun way--levelling up as you progress. WaniKani requires a monthly subscription which costs $9 per month, but there is an annual New Year sale which costs $299 for lifetime access (previous months paid for during that year are subtracted from the amount too).
+#### WaniKani
 
-* **[Read the Kanji](https://www.readthekanji.com/#tour)** breaks the kanji up by JLPT level which is convenient. If you learnt kana using this, then you already know how it works. The issue is that it doesn't break down the kanji into radicals, meaning you will have to do that yourself, and you have to know which desks to choose. But it does attempt to make the process interesting by levelling up as you progress. Read the Kanji requires a monthly subscription which costs $5 per month.
+**[WaniKani](https://www.wanikani.com/)** is a fantastic Spaced Repetition System (SRS) that uses mnemonics in order to teach you around 2,000 kanji and around 6,000 vocab using those kanji. It breaks down each kanji into radicals, making the learning process much easier. This tool is highly recommended as it walks you through the whole process in a fun way--levelling up as you progress.
 
-* You can also add your own desks to **Anki**--a free SRS application. A good deck to add to the software is **[All In One Kanji Desk (RTK Order)](https://ankiweb.net/shared/info/215365929)**. This will teach you 3,000 kanji. If you learn 5 new cards each day, it will take you 2 years to complete the deck. It would also be good to go through this **[Kanji Radical](https://ankiweb.net/shared/info/1044119361)** deck too to make the learning process much easier. This system is free, but will require much more time, work, and self discipline in order for it to be effective.
+WaniKani requires a monthly subscription which costs $9 per month, but there is an annual New Year sale which costs $299 for lifetime access (previous months paid for during that year are subtracted from the amount too). Though it costs money, it is much cheaper than language school, and we think it is worth it. If you can, budget this into your monthly support target.
 
-Once you have chosen your system, stick with it! **Do your reviews every day.** Don't spend time writing the kanji at this point (this will slow you down considerably, and handwriting is seldom done today). Focus on being able to **recognise the meaning** of the kanji, memorise the **most common reading**, and **learn common vocab** that use the kanji.
+#### Anki
 
-Start the process of learning grammar once you have learnt around 300 kanji.
+If you would rather something that is free, we recommend [Anki](https://ankiweb.net/about). This is a free SRS application that you can [add your own decks to](https://www.youtube.com/watch?v=Ih67nqyLEkg). You can find many pre-made decks on the Anki website.
+
+Here are a couple of strong decks we recommend you work through if you choose this path:
+
+**Kanji Radicals:** [Kanji Radical](https://ankiweb.net/shared/info/1044119361). Radicals are parts of kanji. Learning these will help learning kanji much easier.
+
+**Kanji:** [All In One Kanji Desk (RTK Order)](https://ankiweb.net/shared/info/215365929). This will teach you 3,000 kanji. Adjust the settings so that Anki will give you 5 new cards per day to start with. As you get more comfortable, you can increase this in the future.
+
+**Vocab:** [Core2k](https://ankiweb.net/shared/info/2141233552). This will teach you 2,000 of the most commonly used words. Adjust the settings so that Anki will give you 11 new cards per day. You can be done in around 182 days! Maybe start using this deck after you have been going through the kanji deck for around 1 week.
+
+
+Once you have chosen your system, stick with it! **Do your reviews every day.** Don't spend time writing the kanji at this point (this will slow you down considerably, and handwriting is seldom done today. You can come back to this in the future). Focus on being able to **recognise the meaning** of the kanji, and memorise the **most common reading**.
+
+Give yourself around 1 week to get comfortable learning kanji and vocab before moving on to grammar. Don't hurry into this. Grammar is going to be a big commitment!
 
 ### 2. Grammar
 
-#### Focus on the grammar, hope for native content
+#### Study elementary grammar
 
 Now that you have some kanji under your belt, it is time to start learning grammar. It is said that, for Westerners, Japanese is one of the hardest languages to learn. This is especially the case because Japanese [sentence structure](https://8020japanese.com/japanese-sentence-structure/) is very different. But once you understand the basic concepts, its actually [very simple](https://smilenihongo.com/basic-japanese-sentence-structure).
 
@@ -113,35 +128,19 @@ Here, we will outline an effective action plan, which will take around 6 months:
 
 4. Take the weekends off. Use this time to consume Japanese media. Make note of content you'd like to use in the future for study.
 
-#### Focus on native content, refine grammar
+#### Fill in the gaps
 
 You have now finished Genki II! You may be thinking "but I am not sure I remember everything!" Don't worry. This is normal. The task now is to review what you have learnt and fill any gaps you may have.
 
 Here, we will outline an action plan for progressing in your grammar studies. Note that the following should *not* be time-consuming. This should only take 10 to 20 mins per day.
 
-1. Purchase Shin Kanzen Master’s N4 Grammar review book. This is broken up into 58 topical units that you can go through, one per day (like you did with Genki). There is a review test every 5 units, but skip that until you finish the book. This will help with memory retention.
+1. Purchase [新完全マスター文法 日本語能力試験Ｎ４](https://www.3anet.co.jp/np/books/3606/) grammar review book. This is broken up into 58 topical units that you can go through, one per day (like you did with Genki). There is a review test every 5 units, but skip that until you finish the book. This will help with memory retention.
 
-2. Once you finish, pick up Shin Kanzen Master’s N4 Reading Comprehension book. This book is fantastic, and will help you to see how comfortable you are with the Genki grammar points you have learned. Do one per day.
+2. Once you finish, pick up [新完全マスター読解 日本語能力試験Ｎ４](https://www.3anet.co.jp/np/books/3616/) reading comprehension book. This book is fantastic, and will help you to see how comfortable you are with the Genki grammar points you have learned. Do one per day.
 
-3. Next, attempt a [JLPT N4 practice test](https://www.jlpt.jp/e/samples/sampleindex.html)!
+3. Next, attempt a [JLPT N4 practice test](https://www.jlpt.jp/e/samples/sampleindex.html) and see how you get on!
 
 You now have a solid foundation! You should now be ready to find resources independently. In terms of grammar, try to move on to stage two (immersion).
-
-### 3. Vocabulary
-
-#### Construct a vocab core
-
-One of the best ways to build your vocabulary is to immerse yourself in the language, especially through reading or listening to books. But at this point, you don't know enough vocab to read. The aim of this section is to enable you to feel comfortable enough to explore simple native content.
-
-If you are using WaniKani, then continue to work through your reviews and new lessons every day! WaniKani will give you a great vocab core (around 6,000 words!)
-
-If you are not using WaniKani, Anki is probably your best tool. Install [Anki](https://www.youtube.com/watch?v=Ih67nqyLEkg) and then download the [Core2k](https://ankiweb.net/shared/info/2141233552) deck. Adjust the settings so that Anki will give you 11 new cards per day. You can be done in 182 days!
-
-#### Christian vocab
-
-Not only is it important to learn common Japanese vocab, you should also learn Christian vocab. This is essential for worshipping, praying, reading the Bible, and sharing the Gospel--all in Japanese!
-
-OMF has compiled helpful language resources on [this page](https://omf.org/asia/japan/resources/japanese-language/). They have resources for learning Christian terminology that are particularly useful for missionaries.
 
 ## Stage Two: Immersion
 
@@ -149,4 +148,13 @@ By now, you have taken *at least* 6 months to build your Japanese language found
 
 This can also be a difficult stage as there aren't really any set tasks for you to complete and work through. You're on your own! But your determination, and the help of God, will get you through to proficiency!
 
+## A. Input
+
 ### 1. Reading
+
+
+#### Christian-specific Japanese
+
+Not only is it important to learn common Japanese vocab, you should also learn Christian vocab. This is essential for worshipping, praying, reading the Bible, and sharing the Gospel--all in Japanese!
+
+OMF has compiled helpful language resources on [this page](https://omf.org/asia/japan/resources/japanese-language/). They have resources for learning Christian terminology that are particularly useful for missionaries.
