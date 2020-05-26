@@ -93,7 +93,7 @@ WaniKani requires a monthly subscription which costs $9 per month, but there is 
 
 #### Anki
 
-If you would rather something that is free, we recommend [Anki](https://ankiweb.net/about). This is a free SRS application that you can [add your own decks to](https://www.youtube.com/watch?v=Ih67nqyLEkg). You can find many pre-made decks on the Anki website.
+If you would rather something that is free, we recommend [Anki](https://apps.ankiweb.net/). This is a free SRS application that you can [add your own decks to](https://www.youtube.com/watch?v=Ih67nqyLEkg). You can find many pre-made decks on the Anki website.
 
 Here are a couple of strong decks we recommend you work through if you choose this path:
 
@@ -142,6 +142,14 @@ Here, we will outline an action plan for progressing in your grammar studies. No
 
 You now have a solid foundation! You should now be ready to find resources independently. In terms of grammar, try to move on to stage two (immersion).
 
+#### Intermediate resources
+
+If you have attempted to study using native content and you're hitting a wall, here are some textbooks that will give you more structure. Like with Genki, work through one grammar point per day. **Try not to use these before you explore the immersion section below!**
+
+1. First, there is [An Integrated Approach to Intermediate Japanese](http://ij.japantimes.co.jp/en/about.jsp). This is commonly thought of as "Genki III".
+
+2. If you still need more structured learning, you can then pick up [Tobira: Gateway to Advanced Japanese](https://www.9640.jp/nihongo/en/detail/?447).
+
 ## Stage Two: Immersion
 
 By now, you have taken *at least* 6 months to build your Japanese language foundation. This is a great milestone: well done! The first stage was all about studying, memorising, and cramming. The next stage becomes more personal, as you explore native Japanese content and speak with native speakers.
@@ -152,6 +160,24 @@ This can also be a difficult stage as there aren't really any set tasks for you 
 
 ### 1. Reading
 
+You should now be at the level where you can at least skim through basic native content to see what you understand, and what you don't understand. While reading, make note of any words and grammar structures you don't understand. You can then add words to your flashcards and Google grammar structures to learn what they mean.
+
+Here are some places to find easier to read native content:
+
+[NHK Easy News](https://www3.nhk.or.jp/news/easy/)
+[Matcha](https://matcha-jp.com/easy)
+[Watanoc](http://watanoc.com/)
+[Satori Reader](https://www.satorireader.com/)
+[LingQ’s Mini Stories](https://www.lingq.com/en/learn-japanese-online/courses/411402/)
+[Other NHK](https://www3.nhk.or.jp/nhkworld/en/learnjapanese/)
+
+### 2. Listening
+
+
+
+## B. Output
+
+## Need to incorporate this into the guide somewhere...
 
 #### Christian-specific Japanese
 
