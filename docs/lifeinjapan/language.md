@@ -1,7 +1,5 @@
 # Japanese Language
 
-As you may have guessed, in Japan people use Japanese to communicate! Japanese is a wonderful(ly complex) language and we are blessed with an opportunity to learn it!
-
 As we want to reach the Japanese people with the gospel and speak heart-to-heart, we need to communicate fluently in Japanese. This is a high value for our community and we aim to transition YWAM Sendai to function bilingually in Japanese and English as soon as possible. As we are still in the early stages of pioneering YWAM Sendai, and our team is mostly made up of new missionaries to Japan, we are currently functioning in English.
 
 It is expected that all of our non-Japanese team members will spend a good portion of their time during fundraising (before coming) and during the first year or so in Japan studying the language. We will help each person set measurable goals to work towards. Of course, this will look different depending on the person. That being the case, this page outlines what we think is an effective way of learning this language.
@@ -10,11 +8,17 @@ Much of this page is based on the fantastic research by redditor [SuikaCider](ht
 
 ## Stage One: Build Your Foundation
 
+This stage is all about studying and learning as much as you can. The main purpose of this stage is to give you vocab and grammar that you can feel familiar enough with to use to explore native content and talk with native speakers (immersion) in stage two.
+
+We don't particularly recommend language school or personal tutors for this stage as they are usually expensive and can move very slowly. Language classes and tutors would be much more effective once you have built your foundation and have reached an intermediate level of comprehension.
+
+Note: This stage one plan assumes you have a basic understanding of English. If you have difficulty with English, please search for strong resources recommended in a language you feel more comfortable with. And let us know so we can include it in this guide!
+
 ## A. Kana and Their Sounds (~1-2 weeks)
 
 Before you move into actually understanding, learning, and being proficient in the Japanese language (a life-long process!), you need to establish a solid foundation. There are key aspects of the language that, if you grasp them early on, will help you greatly moving forward. These are **pronunciation and kana**.
 
-**We strongly encourage (if not require) all new staff to understand and learn these two things before coming to Japan.** This will help you immensely once you are in Japan!
+**We expect all new staff to at least understand and learn these two things before coming to Japan.** This will help you immensely once you are in Japan!
 
 ### 1. Pronunciation
 
@@ -46,7 +50,7 @@ Learning the kana is probably the simplest part of learning the language! :) It'
 
 Don't spend a lot of time on learning the kana though. Your aim at this point is simply to be loosely familiar with them. They will be reinforced and become second nature as you move forward with learning the language.
 
-A word of caution: **stay away from something known as romaji!!** These are Japanese sounds in written latin alphabet (like English). Your brain will use this as a crutch and your pronunciation and reading will suffer. Pretend it does not exist. Seriously.
+A word of caution: **stay away romaji!** These are Japanese sounds in written latin alphabet (like English). Your brain will use this as a crutch and your pronunciation and reading will suffer. Pretend it does not exist.
 
 #### Build passive recognition
 
@@ -164,18 +168,29 @@ You should now be at the level where you can at least skim through basic native 
 
 Here are some places to find easier to read native content:
 
-[NHK Easy News](https://www3.nhk.or.jp/news/easy/)
-[Matcha](https://matcha-jp.com/easy)
-[Watanoc](http://watanoc.com/)
-[Satori Reader](https://www.satorireader.com/)
-[LingQ’s Mini Stories](https://www.lingq.com/en/learn-japanese-online/courses/411402/)
-[Other NHK](https://www3.nhk.or.jp/nhkworld/en/learnjapanese/)
+[NHK Easy News](https://www3.nhk.or.jp/news/easy/) |  [Matcha](https://matcha-jp.com/easy) | [Watanoc](http://watanoc.com/) | [Satori Reader](https://www.satorireader.com/) | [LingQ’s Mini Stories](https://www.lingq.com/en/learn-japanese-online/courses/411402/) | [Other NHK](https://www3.nhk.or.jp/nhkworld/en/learnjapanese/)
 
 ### 2. Listening
 
+Here are some resources you can use to advance your listening capability.
 
+[Good YouTube channel for beginner listening](https://www.youtube.com/channel/UCIciBLpZ6BP2XNYTFXb6eRQ) | [Good YouTube channel for intermediate listening](https://www.youtube.com/channel/UCjQdQA4j4LyCDqZH6IJQRDQ) | [TBS News](https://news.tbs.co.jp/) | [Listen to a dramatised Japanese Bible](https://graceandmercy.or.jp/app/)
 
 ## B. Output
+
+Its time to output everything you have been learning and inputting! The best way to do this is to make native Japanese friends! Here are some ways you can do this:
+
+* Meet people at church
+* Find local club activities where you can do various things with local people, such as sports, cooking, knitting, reading manga, language exchange etc.
+* Strike up conversations with random people on the street
+
+When you meet people who you think would be interested in hanging out, add them to Line, then ask them to go out for coffee or something! Be intentional with speaking only Japanese.
+
+If you desire to talk with someone who will intentionally correct your Japanese and teach you about grammar points, the following may be worth considering:
+
+* Finding a local language tutor
+* Attending local intermediate/advanced Japanese classes or conversation groups
+* Find a language tutor on [iTalki](https://www.italki.com/teachers/japanese)
 
 ## Need to incorporate this into the guide somewhere...
 
