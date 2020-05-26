@@ -91,7 +91,7 @@ To make things simple, here are a couple of good options for you to consider:
 
 #### WaniKani
 
-**[WaniKani](https://www.wanikani.com/)** is a fantastic Spaced Repetition System (SRS) that uses mnemonics in order to teach you around 2,000 kanji and around 6,000 vocab using those kanji. It breaks down each kanji into radicals, making the learning process much easier. This tool is highly recommended as it walks you through the whole process in a fun way--levelling up as you progress.
+[WaniKani](https://www.wanikani.com/) is a fantastic Spaced Repetition System (SRS) that uses mnemonics in order to teach you around 2,000 kanji and around 6,000 vocab using those kanji. It breaks down each kanji into radicals, making the learning process much easier. This tool is highly recommended as it walks you through the whole process in a fun way--levelling up as you progress.
 
 WaniKani requires a monthly subscription which costs $9 per month, but there is an annual New Year sale which costs $299 for lifetime access (previous months paid for during that year are subtracted from the amount too). Though it costs money, it is much cheaper than language school, and we think it is worth it. If you can, budget this into your monthly support target.
 
@@ -99,7 +99,7 @@ WaniKani requires a monthly subscription which costs $9 per month, but there is 
 
 If you would rather something that is free, we recommend [Anki](https://apps.ankiweb.net/). This is a free SRS application that you can [add your own decks to](https://www.youtube.com/watch?v=Ih67nqyLEkg). You can find many pre-made decks on the Anki website.
 
-Here are a couple of strong decks we recommend you work through if you choose this path:
+Here are some strong decks we recommend you work through if you choose this path:
 
 **Kanji Radicals:** [Kanji Radical](https://ankiweb.net/shared/info/1044119361). Radicals are parts of kanji. Learning these will help learning kanji much easier.
 
@@ -124,7 +124,7 @@ At the point, the goal is to have a basic understanding of Japanese grammar. Thi
 
 Here, we will outline an effective action plan, which will take around 6 months:
 
-1. Purchase Japanese grammar textbooks. We recommend Genki I and Genki II. Get both the textbooks and the workbooks.
+1. Purchase Japanese grammar textbooks. We recommend [Genki I and Genki II](http://genki.japantimes.co.jp). Get both the textbooks and the workbooks. (You can use other textbooks if you already have them, such as Minna no Nihongo. Just use them in a similar way as outlined here.)
 
 2. Work through [one section](http://genki.japantimes.co.jp/about_en/about06_en) per day. (e.g. Numbers on one day, then Time the next, then Telephone numbers etc.) There are 137 sections in total. (ignore the reading and writing section of the book.)
 
