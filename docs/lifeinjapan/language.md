@@ -1,6 +1,6 @@
 # Japanese Language
 
-As we want to reach the Japanese people with the gospel and speak heart-to-heart, we need to communicate fluently in Japanese. This is a high value for our community and we aim to transition YWAM Sendai to function bilingually in Japanese and English as soon as possible. As we are still in the early stages of pioneering YWAM Sendai, and our team is mostly made up of new missionaries to Japan, we are currently functioning in English.
+As we want to reach the Japanese people with the gospel and speak heart-to-heart, we need to communicate fluently in Japanese. This is a high value for our community and we aim to transition YWAM Sendai to function bilingually in Japanese and English as soon as possible. As we are still in the early stages of pioneering YWAM Sendai, and our team is mostly made up of new missionaries to Japan, we currently function mostly in English.
 
 It is expected that all of our non-Japanese team members will spend a good portion of their time during fundraising (before coming) and during the first year or so in Japan studying the language. We will help each person set measurable goals to work towards. Of course, this will look different depending on the person. That being the case, this page outlines what we think is an effective way of learning this language.
 
@@ -8,11 +8,13 @@ Much of this page is based on the fantastic research by redditor [SuikaCider](ht
 
 ## Stage One: Build Your Foundation
 
-This stage is all about studying and learning as much as you can. The main purpose of this stage is to give you vocab and grammar that you can feel familiar enough with to use to explore native content and talk with native speakers (immersion) in stage two.
+The best way to learn Japanese (and any new language) is to be immersed in the Japanese language. Immersed in native text, native sounds, and native conversation. But if you don't have any familiarity with the language, being immersed will be difficult for you. It will be too foreign and overwhelming for you to take much of it in.
+
+This stage is all about laying a strong foundation of vocab and grammar so that you can feel familiar just *enough* with Japanese so that you feel able to explore native content and talk with native speakers. You will then be ready for stage two: immersion.
 
 We don't particularly recommend language school or personal tutors for this stage as they are usually expensive and can move very slowly. Language classes and tutors would be much more effective once you have built your foundation and have reached an intermediate level of comprehension.
 
-Note: This stage one plan assumes you have a basic understanding of English. If you have difficulty with English, please search for strong resources recommended in a language you feel more comfortable with. And let us know so we can include it in this guide!
+Note: This stage one plan assumes you have a basic understanding of English. If you have difficulty with English, please Google strong resources recommended in a language you feel more comfortable with. And let us know so we can include it in this guide!
 
 ## A. Kana and Their Sounds (~1-2 weeks)
 
@@ -124,9 +126,13 @@ At the point, the goal is to have a basic understanding of Japanese grammar. Thi
 
 Here, we will outline an effective action plan, which will take around 6 months:
 
-1. Purchase Japanese grammar textbooks. We recommend [Genki I and Genki II](http://genki.japantimes.co.jp). Get both the textbooks and the workbooks. (You can use other textbooks if you already have them, such as Minna no Nihongo. Just use them in a similar way as outlined here.)
+1. Purchase Japanese grammar textbooks and workbooks.
 
-2. Work through [one section](http://genki.japantimes.co.jp/about_en/about06_en) per day. (e.g. Numbers on one day, then Time the next, then Telephone numbers etc.) There are 137 sections in total. (ignore the reading and writing section of the book.)
+For English speakers, we recommend [Genki I and II](http://genki.japantimes.co.jp). Get both the textbooks and the workbooks.
+
+For those whose first language is not English, we recommend [Minna no Nihongo Shokyu I and II ](https://www.3anet.co.jp/np/en/books/2300/) as you can also purchase a translation book in your own language for explanations. Also get the [workbook](https://www.3anet.co.jp/np/en/books/2350/) and [audio files](https://www.3anet.co.jp/np/en/resrcs/230020/).
+
+2. Work through [one section](http://genki.japantimes.co.jp/about_en/about06_en) per day. (e.g. Numbers on one day, then Time the next, then Telephone numbers etc.) There are 137 sections in total in Genki I & II. (ignore the reading and writing section of the book.) If using Minna no Nihongo, follow it in a similar way.
 
 3. Complete the corresponding sections in the workbook with a one week delay. (e.g. complete the Numbers section 7 days after doing it in the textbook.) This will help you retain the grammar points in your memory.
 
@@ -134,13 +140,13 @@ Here, we will outline an effective action plan, which will take around 6 months:
 
 #### Fill in the gaps
 
-You have now finished Genki II! You may be thinking "but I am not sure I remember everything!" Don't worry. This is normal. The task now is to review what you have learnt and fill any gaps you may have.
+You have now finished Genki/Minna no Nihongo! You may be thinking "but I am not sure I remember everything!" Don't worry. This is normal. The task now is to review what you have learnt and fill any gaps you may have.
 
 Here, we will outline an action plan for progressing in your grammar studies. Note that the following should *not* be time-consuming. This should only take 10 to 20 mins per day.
 
-1. Purchase [新完全マスター文法 日本語能力試験Ｎ４](https://www.3anet.co.jp/np/books/3606/) grammar review book. This is broken up into 58 topical units that you can go through, one per day (like you did with Genki). There is a review test every 5 units, but skip that until you finish the book. This will help with memory retention.
+1. Purchase [新完全マスター文法 日本語能力試験Ｎ４](https://www.3anet.co.jp/np/books/3606/) grammar review book. This is broken up into 58 topical units that you can go through, one per day (like you did with Genki/Minna no Nihongo). There is a review test every 5 units, but skip that until you finish the book. This will help with memory retention.
 
-2. Once you finish, pick up [新完全マスター読解 日本語能力試験Ｎ４](https://www.3anet.co.jp/np/books/3616/) reading comprehension book. This book is fantastic, and will help you to see how comfortable you are with the Genki grammar points you have learned. Do one per day.
+2. Once you finish, pick up [新完全マスター読解 日本語能力試験Ｎ４](https://www.3anet.co.jp/np/books/3616/) reading comprehension book. This book is fantastic, and will help you to see how comfortable you are with the grammar points you have learned. Do one per day.
 
 3. Next, attempt a [JLPT N4 practice test](https://www.jlpt.jp/e/samples/sampleindex.html) and see how you get on!
 
@@ -148,7 +154,7 @@ You now have a solid foundation! You should now be ready to find resources indep
 
 #### Intermediate resources
 
-If you have attempted to study using native content and you're hitting a wall, here are some textbooks that will give you more structure. Like with Genki, work through one grammar point per day. **Try not to use these before you explore the immersion section below!**
+If you have attempted to study using native content and you're hitting a wall, here are some textbooks that will give you more structure. Like with Genki/Minna no Nihongo, work through one grammar point per day. **Try not to use these before you explore the immersion section below!**
 
 1. First, there is [An Integrated Approach to Intermediate Japanese](http://ij.japantimes.co.jp/en/about.jsp). This is commonly thought of as "Genki III".
 
