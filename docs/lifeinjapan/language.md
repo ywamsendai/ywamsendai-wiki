@@ -6,7 +6,7 @@ It is expected that all of our non-Japanese team members will spend a good porti
 
 Much of this page is based on the fantastic research by redditor [SuikaCider](https://www.reddit.com/user/SuikaCider/) which can be found [here](https://docs.google.com/document/d/10bRzVblKVOsQJjTc2PIi1Gbj_LrsJCkMkh0SutXCZdI/edit#).
 
-## Stage One: Build Your Foundation
+## 1. Beginner: Build Your Foundation
 
 The best way to learn Japanese (and any new language) is to be immersed in the Japanese language. Immersed in native text, native sounds, and native conversation. But if you don't have any familiarity with the language, being immersed will be difficult for you. It will be too foreign and overwhelming for you to take much of it in.
 
@@ -152,15 +152,7 @@ Here, we will outline an action plan for progressing in your grammar studies. No
 
 You now have a solid foundation! You should now be ready to find resources independently. In terms of grammar, try to move on to stage two (immersion).
 
-#### Intermediate resources
-
-If you have attempted to study using native content and you're hitting a wall, here are some textbooks that will give you more structure. Like with Genki/Minna no Nihongo, work through one grammar point per day. **Try not to use these before you explore the immersion section below!**
-
-1. First, there is [An Integrated Approach to Intermediate Japanese](http://ij.japantimes.co.jp/en/about.jsp). This is commonly thought of as "Genki III".
-
-2. If you still need more structured learning, you can then pick up [Tobira: Gateway to Advanced Japanese](https://www.9640.jp/nihongo/en/detail/?447).
-
-## Stage Two: Immersion
+## 2. Intermediate: Immersion
 
 By now, you have taken *at least* 6 months to build your Japanese language foundation. This is a great milestone: well done! The first stage was all about studying, memorising, and cramming. The next stage becomes more personal, as you explore native Japanese content and speak with native speakers.
 
@@ -197,6 +189,34 @@ If you desire to talk with someone who will intentionally correct your Japanese 
 * Finding a local language tutor
 * Attending local intermediate/advanced Japanese classes or conversation groups
 * Find a language tutor on [iTalki](https://www.italki.com/teachers/japanese)
+
+## C. Intermediate Study & Review
+
+### 1. Structured Study Resources (Optional)
+
+If you have begun to study using native content and you're hitting a wall, here are some textbooks that will give you more structure. Like with Genki/Minna no Nihongo, work through one grammar point per day. **Try not to use these before you have attempted to study via immersion as outlined above.**
+
+1. First, there is [An Integrated Approach to Intermediate Japanese](http://ij.japantimes.co.jp/en/about.jsp). This is commonly thought of as "Genki III".
+
+2. If you still need more structured learning, you can then pick up [Tobira: Gateway to Advanced Japanese](https://www.9640.jp/nihongo/en/detail/?447).
+
+### 2. Review Resources
+
+Once you have been immersing for a while and you feel like you have made some progress, it is good to review to find any holes you have in your grammar and vocab.
+
+Just like we have outlined at the end of the beginner grammar section earlier, we recommend working through the following books, in order. This review should take less than 20 minutes per day. If this becomes too difficult, that is an indication you need to study some more either via immersion or the structured resources outlined above. You can also find other JLPT review books by other companies too.
+
+1. Work through the [新完全マスター文法 日本語能力試験Ｎ３](https://www.3anet.co.jp/np/books/3604/) grammar review book.
+
+2. Once you finish, work through the [新完全マスター読解 日本語能力試験Ｎ３](https://www.3anet.co.jp/np/books/3614/) reading comprehension book.
+
+3. When you feel ready, work through the [新完全マスター文法 日本語能力試験Ｎ２](https://www.3anet.co.jp/np/books/3602/) grammar review book.
+
+4. Once you finish, work through the [新完全マスター読解 日本語能力試験Ｎ２](https://www.3anet.co.jp/np/books/3612/) reading comprehension book.
+
+5. Though you are already at a good level of comprehension, you may wish to review further by working through the [新完全マスター文法 日本語能力試験Ｎ１](https://www.3anet.co.jp/np/books/3600/) grammar review book.
+
+6. Once you finish, work through the [新完全マスター読解 日本語能力試験Ｎ１](https://www.3anet.co.jp/np/books/3610/) reading comprehension book.
 
 ## Need to incorporate this into the guide somewhere...
 
