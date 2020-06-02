@@ -2,23 +2,19 @@
 
 As we want to reach the Japanese people with the gospel and speak heart-to-heart, we need to communicate fluently in Japanese. This is a high value for our community and we aim to transition YWAM Sendai to function bilingually in Japanese and English as soon as possible. As we are still in the early stages of pioneering YWAM Sendai, and our team is mostly made up of new missionaries to Japan, we currently function mostly in English.
 
-It is expected that all of our non-Japanese team members will spend a good portion of their time during fundraising (before coming) and during the first year or so in Japan studying the language. We will help each person set measurable goals to work towards. Of course, this will look different depending on the person. That being the case, this page outlines what we think is an effective way of learning this language.
+**It is expected that all of our non-Japanese team members will spend a good portion of their time during fundraising (before coming) and during the first year or so in Japan studying the language.** We will help each person set measurable goals to work towards. Of course, this will look different depending on the person. That being the case, this page outlines what we think is an effective way of learning this language.
+
+If you are already in Japan, see how this compares with what you are doing to study the language and adapt your methods if you find something helpful here. Your goal is not to study everything until you feel you understand everything! Your goal is to be just comfortable *enough* with the language that you can explore native content and talk with native speakers. This is when the *real* learning happens!
 
 Much of this page is based on the fantastic research by redditor [SuikaCider](https://www.reddit.com/user/SuikaCider/) which can be found [here](https://docs.google.com/document/d/10bRzVblKVOsQJjTc2PIi1Gbj_LrsJCkMkh0SutXCZdI/edit#).
 
-## 1. Beginner: Build Your Foundation
+Note: This plan assumes you have a basic understanding of English. If you have difficulty with English, please Google strong resources recommended in a language you feel more comfortable with. And let us know so we can include it in this guide!
 
-The best way to learn Japanese (and any new language) is to be immersed in the Japanese language. Immersed in native text, native sounds, and native conversation. But if you don't have any familiarity with the language, being immersed will be difficult for you. It will be too foreign and overwhelming for you to take much of it in.
+## Level 1 | Preparing the Ground (Pre-Beginner)
 
-This stage is all about laying a strong foundation of vocab and grammar so that you can feel familiar just *enough* with Japanese so that you feel able to explore native content and talk with native speakers. You will then be ready for stage two: immersion.
+**Approx. time in level: up to 1 to 2 weeks.**
 
-We don't particularly recommend language school or personal tutors for this stage as they are usually expensive and can move very slowly. Language classes and tutors would be much more effective once you have built your foundation and have reached an intermediate level of comprehension.
-
-Note: This stage one plan assumes you have a basic understanding of English. If you have difficulty with English, please Google strong resources recommended in a language you feel more comfortable with. And let us know so we can include it in this guide!
-
-## A. Kana and Their Sounds (~1-2 weeks)
-
-Before you move into actually understanding, learning, and being proficient in the Japanese language (a life-long process!), you need to establish a solid foundation. There are key aspects of the language that, if you grasp them early on, will help you greatly moving forward. These are **pronunciation and kana**.
+Before you move into actually understanding, learning, and being proficient in the Japanese language (a life-long process!), you need to establish the essential "makeup" of the language. These are key aspects of the language that, if you grasp them early on, will help you greatly moving forward. These are **pronunciation and kana**.
 
 **We expect all new staff to at least understand and learn these two things before coming to Japan.** This will help you immensely once you are in Japan!
 
@@ -75,11 +71,15 @@ This resource is great because it is optimised for your *long term memory*. (Not
 
 This part will likely take around a month or so. You can do this while moving forward with your kanji, vocab, and grammar learning.
 
-## B. Build a Vocab and Grammar Base (~6 months)
+## Level 2 | Build Your Foundation (Beginner)
 
-In order to prepare you for immersion in the language while living in Japan, you will need a strong base of vocabulary and grammar. So now you know the sounds and kana, it is time to start learning both of these.
+**Approx. time in level: around 6 months.**
 
-If you are an incoming new staff, it would be good to begin this process as soon as you can while fundraising. If you are already in Japan, see how this compares with what you are doing to study the language and adapt your systems if necessary. Your goal is not to study everything until you feel you understand everything! Your goal is to be just comfortable *enough* with the language that you can explore native content and talk with native speakers. This is when the *real* learning happens!
+The best way to learn Japanese (and any new language) is to be immersed in the Japanese language. Immersed in native text, native sounds, and native conversation. But if you don't have any familiarity with the language, being immersed will be difficult for you. It will be too foreign and overwhelming for you to take much of it in.
+
+Now that you know the sounds and kana, this level is all about building a strong foundation of vocab and grammar so that you can feel familiar *just enough* with Japanese so that you feel able to explore native content and talk with native speakers. You will then be ready for Level 3: immersion.
+
+We don't particularly recommend language school or personal tutors at this stage as they are usually expensive and can move very slowly. Language classes and tutors would be much more effective once you have built your foundation and have reached an intermediate level of comprehension.
 
 ### 1. Kanji and Vocab
 
@@ -150,17 +150,17 @@ Here, we will outline an action plan for progressing in your grammar studies. No
 
 3. Next, attempt a [JLPT N4 practice test](https://www.jlpt.jp/e/samples/sampleindex.html) and see how you get on!
 
-You now have a solid foundation! You should now be ready to find resources independently. In terms of grammar, try to move on to stage two (immersion).
+You now have a solid foundation! You should now be ready to find resources independently. In terms of grammar, try to move on to the next level (immersion).
 
-## 2. Intermediate: Immersion
+## Level 3 | Immersion (Intermediate)
 
 By now, you have taken *at least* 6 months to build your Japanese language foundation. This is a great milestone: well done! The first stage was all about studying, memorising, and cramming. The next stage becomes more personal, as you explore native Japanese content and speak with native speakers.
 
 This can also be a difficult stage as there aren't really any set tasks for you to complete and work through. You're on your own! But your determination, and the help of God, will get you through to proficiency!
 
-## A. Input
+### 1. Input
 
-### 1. Reading
+#### a. Reading
 
 You should now be at the level where you can at least skim through basic native content to see what you understand, and what you don't understand. While reading, make note of any words and grammar structures you don't understand. You can then add words to your flashcards and Google grammar structures to learn what they mean.
 
@@ -168,13 +168,13 @@ Here are some places to find easier to read native content:
 
 [NHK Easy News](https://www3.nhk.or.jp/news/easy/) |  [Matcha](https://matcha-jp.com/easy) | [Watanoc](http://watanoc.com/) | [Satori Reader](https://www.satorireader.com/) | [LingQ’s Mini Stories](https://www.lingq.com/en/learn-japanese-online/courses/411402/) | [Other NHK](https://www3.nhk.or.jp/nhkworld/en/learnjapanese/)
 
-### 2. Listening
+#### b. Listening
 
 Here are some resources you can use to advance your listening capability.
 
 [Good YouTube channel for beginner listening](https://www.youtube.com/channel/UCIciBLpZ6BP2XNYTFXb6eRQ) | [Good YouTube channel for intermediate listening](https://www.youtube.com/channel/UCjQdQA4j4LyCDqZH6IJQRDQ) | [TBS News](https://news.tbs.co.jp/) | [Listen to a dramatised Japanese Bible](https://graceandmercy.or.jp/app/)
 
-## B. Output
+### 2. Output
 
 Its time to output everything you have been learning and inputting! The best way to do this is to make native Japanese friends! Here are some ways you can do this:
 
@@ -190,9 +190,9 @@ If you desire to talk with someone who will intentionally correct your Japanese 
 * Attending local intermediate/advanced Japanese classes or conversation groups
 * Find a language tutor on [iTalki](https://www.italki.com/teachers/japanese)
 
-## C. Intermediate Study & Review
+### 3. Intermediate Study & Review
 
-### 1. Structured Study Resources (Optional)
+#### a. Structured Study Resources (Optional)
 
 If you have begun to study using native content and you're hitting a wall, here are some textbooks that will give you more structure. Like with Genki/Minna no Nihongo, work through one grammar point per day. **Try not to use these before you have attempted to study via immersion as outlined above.**
 
@@ -200,7 +200,7 @@ If you have begun to study using native content and you're hitting a wall, here 
 
 2. If you still need more structured learning, you can then pick up [Tobira: Gateway to Advanced Japanese](https://www.9640.jp/nihongo/en/detail/?447).
 
-### 2. Review Resources
+#### b. Review Resources
 
 Once you have been immersing for a while and you feel like you have made some progress, it is good to review to find any holes you have in your grammar and vocab.
 
@@ -217,6 +217,7 @@ Just like we have outlined at the end of the beginner grammar section earlier, w
 5. Though you are already at a good level of comprehension, you may wish to review further by working through the [新完全マスター文法 日本語能力試験Ｎ１](https://www.3anet.co.jp/np/books/3600/) grammar review book.
 
 6. Once you finish, work through the [新完全マスター読解 日本語能力試験Ｎ１](https://www.3anet.co.jp/np/books/3610/) reading comprehension book.
+
 
 ## Need to incorporate this into the guide somewhere...
 
