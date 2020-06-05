@@ -4,9 +4,9 @@ As we want to reach the Japanese people with the gospel and speak heart-to-heart
 
 **It is expected that all of our non-Japanese team members will spend a good portion of their time during fundraising (before coming) and during the first year or so in Japan studying the language.** We will help each person set measurable goals to work towards. Of course, this will look different depending on the person. That being the case, this page outlines what we think is an effective way of learning this language.
 
-If you are already in Japan, see how this compares with what you are doing to study the language and adapt your methods if you find something helpful here. Your goal is not to study everything until you feel you understand everything! Your goal is to be just comfortable *enough* with the language that you can explore native content and talk with native speakers. This is when the *real* learning happens!
+Your goal is not to study until you feel you understand everything! Your goal is to be just comfortable *enough* with the language that you can explore native content and talk with native speakers. Immersion in the language is when the *real* learning happens!
 
-Much of this page is based on the fantastic research by redditor [SuikaCider](https://www.reddit.com/user/SuikaCider/) which can be found [here](https://docs.google.com/document/d/10bRzVblKVOsQJjTc2PIi1Gbj_LrsJCkMkh0SutXCZdI/edit#).
+Much of this page is based on the fantastic research by redditor [SuikaCider](https://www.reddit.com/user/SuikaCider/) which can be found [here](https://docs.google.com/document/d/10bRzVblKVOsQJjTc2PIi1Gbj_LrsJCkMkh0SutXCZdI/edit#). There are also heavy influences from the [Mass Immersion Approach](https://massimmersionapproach.com/) and [Tofugu's Learn Japanese](https://www.tofugu.com/learn-japanese/) guide.
 
 Note: This plan assumes you have a basic understanding of English. If you have difficulty with English, please Google strong resources recommended in a language you feel more comfortable with. And let us know so we can include it in this guide!
 

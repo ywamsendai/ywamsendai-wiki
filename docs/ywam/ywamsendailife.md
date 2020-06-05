@@ -6,21 +6,21 @@ Here is a glimpse of what life is like as a Sendai YWAMer.
 
 We have the following times set in the weekly schedule in order to build a sense of community within our team.
 
-### Community Meals
+### Community Meals & Fun Night
 
-We believe there is something special about cooking and eating together. Currently, we eat two lunches and two dinners together every week. The whole community gets involved in buying groceries, cooking, and cleaning up. Its lots of fun, and a great way to get to know each other! We also celebrate birthdays and other occasions together too.
+We believe there is something special about eating together. Currently, we eat two lunches and one evening meal together every week.
 
-### Small Groups
+For the lunches, we bring our own bentos and we practice Japanese intentionally during one of those times.
 
-Once a week, we also meet in small groups. These are gender-based groups where we get together to pray, read the Bible and have fun getting to know each other!
+Most Friday evenings, we cook a meal together. This is followed by an evening of games or watching a film. Its lots of fun, and a great way to get to know each other! We also celebrate birthdays and other occasions together too.
 
 ### Worship & Intercession
 
-Every Monday morning from 9:00 to 11:00 we meet together for worship and a devotional to start the week. Every Wednesday from 13:30 to 14:30, we meet to interceed for what is on God's heart. We also worship and intercede on the streets of the red light district of Sendai (Kokubuncho) every Thursday evening.
+Every Tuesday morning from 10:00 to 12:00 we meet together for worship and a devotional to start the week. Every Thursday from 11:00 to 12:00, we meet to intercede for what is on God's heart. We also payer walk on the streets of Sendai every Wednesday afternoon.
 
 ### Team Meeting
 
-Every Friday from 15:30 to 16:30, we have our team meeting where we share testimonies, hear reports from the various ministry groups and departments, and note upcoming schedule-related things. We also pray for incoming and outgoing staff during this time also.
+Every Wednesday from 10:00 to 11:00, we have our team meeting where we share testimonies, hear reports from the various ministry groups and departments, and note upcoming schedule-related things. We also pray for incoming and outgoing staff during this time also.
 
 ## Time Management
 
@@ -32,7 +32,7 @@ This section details our policy on time away, holidays, and furlough.
 
 ### Sabbath
 
-All staff are encouraged to take one full day off per week. This is usually Saturday or Sunday. If staff have ministry related things planned on both of those days, they are encouraged to discuss a different time off on a weekday with the YWAM Sendai leaders.
+All staff are encouraged to take one full day off per week. This is usually Saturday or Monday.
 
 ### Holidays
 

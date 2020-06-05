@@ -2,7 +2,7 @@
 
 If you feel you may be called to Japan, and if you are willing to drop everything and follow the leading of Holy Spirit to love the Japanese, then we would love to have you join our team!
 
-As a team member at YWAM Sendai, you will become an integral part of a pioneering missional community where your giftings and personality will shape our culture and influence how we reach the Japanese.
+As a team member at YWAM Sendai, you will become an integral part of a pioneering missional community where your gifting and personality will shape our culture and influence how we reach the Japanese.
 
 Please make sure to [read this page](commitments.md) for expectations and commitments of all our staff.
 
@@ -24,7 +24,7 @@ Above all, you should come ready to pursue God in prayer and worship and be comm
 
 * Once we have received these completed forms, the leaders will pray and discuss whether now is the right time for you to join us in Japan, or if there is anything else you should do before coming.
 
-* Stage 3: If you pass both stages, you will then start [fundraising](fundraising.md)! You will find info on how much to raise on the [finances page](finances.md).
+* Stage 3: If you pass both stages, you will then start [fundraising](fundraising.md)! You will find info on how much to raise on the [finances page](finances.md). This is also a good time to get stuck into [language study](../lifeinjapan/language.md) if you haven't already.
 
 * Once you have reached at least the Minimum Support Level of financial support, you will pass this stage and we will start the visa process!
 
