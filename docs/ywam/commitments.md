@@ -20,7 +20,7 @@ All of us here at YWAM Sendai are called by God not just as individuals, but to 
 
 Being part of a team also means being committed to serving wholeheartedly the vision and goals of YWAM Sendai (prioritizing team schedule, being quick to help out etc.). We choose to hold each other accountable and call each other higher when necessary (pointing to these expectations when necessary!).
 
-As we all live in separate homes, we need to communicate well both in person and online. So you can be extrovert or introvert and still participate. Yay! But seriously, lets aim to over-communicate, rather than under-communicate. Especially as our community grows (and pioneers new communities!). We have a document to show you how to have a [Riot](tools.md) with us! ;)
+As we all live in separate homes, we need to communicate well both in person and online. So you can be extrovert or introvert and still participate. Yay! But seriously, lets aim to over-communicate, rather than under-communicate. Especially as our community grows (and pioneers new communities!). We have a document to show you how to be in your [Element](tools.md) with us! ;)
 
 ## Be Japanese!
 

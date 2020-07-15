@@ -4,9 +4,9 @@
 
 This wiki acts as a handbook to our community. We have only just begun writing content, so there isn't much now. But it will grow over time! :)
 
-For those interested in hanging out with us online: [Join the YWAM Sendai community!](https://ywamsendai.org/join)
+For those interested in hanging out with us online: [Join the YWAM Sendai community!](https://www.ywamsendai.org/join)
 
-YWAM Sendai website: [ywamsendai.org](https://ywamsendai.org)
+YWAM Sendai website: [ywamsendai.org](https://www.ywamsendai.org)
 
 ## What is Christianity like in North-East Japan?
 
@@ -26,9 +26,9 @@ Traditionally, there has been a disconnect between the Supporters (those sending
 
 Of course, to be a Supporter does not just mean giving financially. We also needs your prayers and wisdom too! So whether you'd like to financially support one of our team members or YWAM Sendai in general, or whether you want to commit to pray for us and the Japanese people, or even if you'd just like to find out more about what we are doing and to say hello, you're very welcome to be a part of our community in some way! We need you!
 
-[Join our community here on Riot.im](https://ywamsendai.org/join) and introduce yourself! :)
+[Join our community here on Element](https://www.ywamsendai.org/join) and introduce yourself! :)
 
-Our hope is that this wiki, and Riot.im, will help us in establishing a transparent community that will aid us in spreading the Gospel to the Japanese!
+Our hope is that this wiki, and Element, will help us in establishing a transparent community that will aid us in spreading the Gospel to the Japanese!
 
 ## Feel a call to advance God's Kingdom in North-East Japan?
 
@@ -36,4 +36,4 @@ We would love more people to come and join our team in Sendai, Japan! The harves
 
 We encourage all future team members to explore this wiki and to keep in regular communication with us on Riot.
 
-[Get in touch!](https://ywamsendai.org/join) :)
+[Get in touch!](https://www.ywamsendai.org/join) :)
