@@ -173,6 +173,12 @@ Using Anki, follow these steps:
 * Adjust the settings so that Anki will give you 11 new cards per day. You can be done in around 182 days!
 * Install the [MIA Japanese](https://ankiweb.net/shared/info/278530045) addon, which will help with pitch accent (read [this](https://massimmersionapproach.com/table-of-contents/anki/mia-japanese-addon/#mass-generation) for more information)
 
+#### Christian-specific Japanese
+
+Not only is it important to learn common Japanese vocab, you should also learn Christian vocab. This is essential for worshipping, praying, reading the Bible, and sharing the Gospel--all in Japanese!
+
+OMF has compiled helpful language resources on [this page](https://omf.org/asia/japan/resources/japanese-language/). They have resources for learning Christian terminology that are particularly useful for missionaries.
+
 ## Stage 2 | Immersion (Intermediate)
 
 By now, you have taken *at least* 6 months to build your Japanese language foundation. This is a great milestone: well done! The first stage was all about studying, memorising, and cramming. The next stage becomes more personal, as you explore native Japanese content and speak with native speakers.
@@ -238,12 +244,3 @@ Just like we have outlined at the end of the beginner grammar section earlier, w
 5. Though you are already at a good level of comprehension, you may wish to review further by working through the [新完全マスター文法 日本語能力試験Ｎ１](https://www.3anet.co.jp/np/books/3600/) grammar review book.
 
 6. Once you finish, work through the [新完全マスター読解 日本語能力試験Ｎ１](https://www.3anet.co.jp/np/books/3610/) reading comprehension book.
-
-
-## Need to incorporate this into the guide somewhere...
-
-#### Christian-specific Japanese
-
-Not only is it important to learn common Japanese vocab, you should also learn Christian vocab. This is essential for worshipping, praying, reading the Bible, and sharing the Gospel--all in Japanese!
-
-OMF has compiled helpful language resources on [this page](https://omf.org/asia/japan/resources/japanese-language/). They have resources for learning Christian terminology that are particularly useful for missionaries.
