@@ -10,8 +10,8 @@ Much of this page is based on the fantastic research by redditor [SuikaCider](ht
 
 ## Stage 1 | Building a Foundation (Beginner)
 
-**Defined by:** Study and memorisation
-**Purpose:** Help you feel comfortable *enough* with the language to begin immersion
+* **Defined by:** Study and memorisation
+* **Purpose:** Help you feel comfortable *enough* with the language to begin immersion
 
 The best way to learn Japanese (and any new language) is to be immersed in the Japanese language. Immersed in native text, native sounds, and native conversation. But if you don't have any familiarity with the language, being immersed will be difficult for you. It will be too foreign and overwhelming for you to take much of it in.
 
@@ -21,8 +21,8 @@ We don't particularly recommend language school or personal tutors at this stage
 
 ### 1. Pronunciation
 
-**Approx. time:** 1 to 2 weeks (along with kana)
-**Staff note:** We expect all new staff to have a basic understanding of Japanese pronunciation before coming to Japan.
+* **Approx. time:** 1 to 2 weeks (along with kana)
+* **Staff note:** We expect all new staff to have a basic understanding of Japanese pronunciation before coming to Japan.
 
 If your mother tongue is not Japanese, the sounds you make when you speak will not sound natural when you speak Japanese. This is a cold fact. Even when you think a sound *is* the same as your mother tongue, chances are there is subtle difference. But don't be discouraged! Once you realise this, then you can understand just *what are* the Japanese sounds. You can then begin to learn and practice in order to train your tongue. It is probably optimal to do this, even briefly, before moving on to the kana. This is so you don't develop bad pronunciation habits.
 
@@ -44,8 +44,8 @@ As you proceed to learn kana, keep these concepts in mind to solidify your under
 
 ### 2. Kana
 
-**Approx. time:** 1 to 2 weeks (along with kana)
-**Staff note:** We expect all new staff to be able to read both hiragana and katakana before coming to Japan.
+* **Approx. time:** 1 to 2 weeks (along with kana)
+* **Staff note:** We expect all new staff to be able to read both hiragana and katakana before coming to Japan.
 
 Time to attach the sounds you have learnt to Japanese symbols. Hiragana and katakana are the basic syllabic scripts that make up the Japanese writing system, along with Kanji (Chinese characters).
 
@@ -80,9 +80,9 @@ This part will likely take around a month or so. You can do this while moving fo
 
 ### 3. Kanji
 
-**When to start:** After understanding pronunciation and kana
-**Approx. time:** 6 months (along with grammar and vocab)
-**Staff note:** We expect all new staff to be making good progress with kanji memorisation before coming to Japan
+* **When to start:** After understanding pronunciation and kana
+* **Approx. time:** 6 months (along with grammar and vocab)
+* **Staff note:** We expect all new staff to be making good progress with kanji memorisation before coming to Japan
 
 Before learning grammar and vocabulary, we recommended you start learning kanji as it will make learning grammar and vocab easier in the long run. As there are thousands of them, and they can look extremely complex, learning kanji can seem very daunting. But as long as you have a good system in place, you will be surprised by how many you can understand in a short amount of time!
 
@@ -117,9 +117,9 @@ Give yourself around 1 week to get comfortable learning kanji before moving on t
 
 ### 4. Grammar
 
-**When to start:** After around 1 week of learning kanji
-**Approx. time:** 6 months (along with grammar and vocab)
-**Staff note:** We expect all new staff to be making good progress with elementary grammar before coming to Japan
+* **When to start:** After around 1 week of learning kanji
+* **Approx. time:** 6 months (along with grammar and vocab)
+* **Staff note:** We expect all new staff to be making good progress with elementary grammar before coming to Japan
 
 #### Study elementary grammar
 
@@ -159,9 +159,9 @@ You now have a solid foundation! You should now be ready to find resources indep
 
 ### 5. Vocab
 
-**When to start:** After around 1 week of learning grammar
-**Approx. time:** 6 months (along with grammar and vocab)
-**Staff note:** We expect all new staff to be making good progress on building a vocab core before coming to Japan
+* **When to start:** After around 1 week of learning grammar
+* **Approx. time:** 6 months (along with grammar and vocab)
+* **Staff note:** We expect all new staff to be making good progress on building a vocab core before coming to Japan
 
 The best way to build up vocabulary is to be immersed in the language (e.g. reading books). But when everything is above your level, this is impossible! So our aim is to build up a core of vocab that will help native content feel tolerable (stage 2).
 
@@ -180,6 +180,9 @@ Not only is it important to learn common Japanese vocab, you should also learn C
 OMF has compiled helpful language resources on [this page](https://omf.org/asia/japan/resources/japanese-language/). They have resources for learning Christian terminology that are particularly useful for missionaries.
 
 ## Stage 2 | Immersion (Intermediate)
+
+* **Defined by:** Exploring and immersing
+* **Purpose:** Learn through native content
 
 By now, you have taken *at least* 6 months to build your Japanese language foundation. This is a great milestone: well done! The first stage was all about studying, memorising, and cramming. The next stage becomes more personal, as you explore native Japanese content and speak with native speakers.
 
