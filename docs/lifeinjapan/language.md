@@ -2,25 +2,29 @@
 
 As we want to reach the Japanese people with the gospel and speak heart-to-heart, we need to communicate fluently in Japanese. This is a high value for our community and we aim to transition YWAM Sendai to function bilingually in Japanese and English as soon as possible. As we are still in the early stages of pioneering YWAM Sendai, and our team is mostly made up of new missionaries to Japan, we currently function mostly in English.
 
-**It is expected that all of our non-Japanese team members will spend a good portion of their time during fundraising (before coming) and during the first year or so in Japan studying the language.** We will help each person set measurable goals to work towards. Of course, this will look different depending on the person. That being the case, this page outlines what we think is an effective way of learning this language.
+**It is expected that all of our non-Japanese team members will spend a good portion of their time during fundraising (before coming) and while in Japan studying the language.** We will help each person set measurable goals to work towards. Of course, this will look different depending on the person. That being the case, this page outlines what we think is an effective way of learning this language.
 
 Your goal is not to study until you feel you understand everything! Your goal is to be just comfortable *enough* with the language that you can explore native content and talk with native speakers. Immersion in the language is when the *real* learning happens!
 
 Much of this page is based on the fantastic research by redditor [SuikaCider](https://www.reddit.com/user/SuikaCider/) which can be found [here](https://docs.google.com/document/d/10bRzVblKVOsQJjTc2PIi1Gbj_LrsJCkMkh0SutXCZdI/edit#). There are also heavy influences from the [Mass Immersion Approach](https://massimmersionapproach.com/) and [Tofugu's Learn Japanese](https://www.tofugu.com/learn-japanese/) guide.
 
-Note: This plan assumes you have a basic understanding of English. If you have difficulty with English, please Google strong resources recommended in a language you feel more comfortable with. And let us know so we can include it in this guide!
+## Stage 1 | Building a Foundation (Beginner)
 
-## Level 1 | Preparing the Ground (Pre-Beginner)
+**Defined by:** Study and memorisation
+**Purpose:** Help you feel comfortable *enough* with the language to begin immersion
 
-**Approx. time in level: up to 1 to 2 weeks.**
+The best way to learn Japanese (and any new language) is to be immersed in the Japanese language. Immersed in native text, native sounds, and native conversation. But if you don't have any familiarity with the language, being immersed will be difficult for you. It will be too foreign and overwhelming for you to take much of it in.
 
-Before you move into actually understanding, learning, and being proficient in the Japanese language (a life-long process!), you need to establish the essential "makeup" of the language. These are key aspects of the language that, if you grasp them early on, will help you greatly moving forward. These are **pronunciation and kana**.
+This stage is all about building a strong foundation so that you can feel familiar *just enough* with Japanese so that you feel able to explore native content and talk with native speakers. You will then be ready for immersion (stage 2).
 
-**We expect all new staff to at least understand and learn these two things before coming to Japan.** This will help you immensely once you are in Japan!
+We don't particularly recommend language school or personal tutors at this stage as they are usually expensive and can move very slowly. Language classes and tutors would be much more effective once you have built your foundation and have reached an intermediate level of comprehension.
 
 ### 1. Pronunciation
 
-If your mother tongue is not Japanese, then the sounds you make when you speak will not sound natural when you speak Japanese. This is a cold fact. Even when you think a sound *is* the same as your mother tongue, chances are there is subtle difference. But don't be discouraged! Once you realise this, then you can understand just *what are* the Japanese sounds. You can then begin to learn and practice in order to train your tongue. It is probably optimal to do this, even briefly, before moving on to the kana. This is so you don't develop bad pronunciation habits.
+**Approx. time:** 1 to 2 weeks (along with kana)
+**Staff note:** We expect all new staff to have a basic understanding of Japanese pronunciation before coming to Japan.
+
+If your mother tongue is not Japanese, the sounds you make when you speak will not sound natural when you speak Japanese. This is a cold fact. Even when you think a sound *is* the same as your mother tongue, chances are there is subtle difference. But don't be discouraged! Once you realise this, then you can understand just *what are* the Japanese sounds. You can then begin to learn and practice in order to train your tongue. It is probably optimal to do this, even briefly, before moving on to the kana. This is so you don't develop bad pronunciation habits.
 
 At the very least, please check out these short videos before moving on:
 
@@ -36,19 +40,22 @@ Finally, IWTYAL has a [few simple tips](https://www.iwillteachyoualanguage.com/l
 
 You don't have to completely understand pronunciation before moving on. But having a basic understanding of these concepts will help you sound more natural in the long run.
 
-As you proceed to learn kana, keep in mind these concepts in order to solidify your understanding and to train your tongue to sound more natural.
+As you proceed to learn kana, keep these concepts in mind to solidify your understanding and to train your tongue to sound more natural.
 
 ### 2. Kana
 
-Time to attach the sounds you have learnt to Japanese symbols. Hiragana and Katakana are the basic syllabic scripts that make up the Japanese writing system, along with Kanji (Chinese characters).
+**Approx. time:** 1 to 2 weeks (along with kana)
+**Staff note:** We expect all new staff to be able to read both hiragana and katakana before coming to Japan.
 
-Every sound in Japanese can be written in kana. Thankfully, hiragana and katakana share the exact same sounds. As a rule of thumb, Hiragana (the curvy characters) are used for Japanese words and grammar particles, while Katakana (the straight characters) are used for imported words. Like foreign names.
+Time to attach the sounds you have learnt to Japanese symbols. Hiragana and katakana are the basic syllabic scripts that make up the Japanese writing system, along with Kanji (Chinese characters).
+
+Every sound in Japanese can be written in kana. Thankfully, hiragana and katakana share the exact same sounds. As a rule of thumb, Hiragana (the curvy characters) are used for Japanese words and grammar particles, while Katakana (the sharp characters) are used for imported words. Like foreign names.
 
 Learning the kana is probably the simplest part of learning the language! :) It's all about memorisation. If you focus, you will learn them in a relatively short amount of time. Read out loud as you memorise the characters in order to practice good pronunciation.
 
 Don't spend a lot of time on learning the kana though. Your aim at this point is simply to be loosely familiar with them. They will be reinforced and become second nature as you move forward with learning the language.
 
-A word of caution: **stay away romaji!** These are Japanese sounds in written latin alphabet (like English). Your brain will use this as a crutch and your pronunciation and reading will suffer. Pretend it does not exist.
+A word of caution: **stay away from romaji!** These are Japanese sounds in written latin alphabet (like English). Your brain will use this as a crutch and your pronunciation and reading will suffer. Pretend it does not exist.
 
 #### Build passive recognition
 
@@ -69,52 +76,50 @@ Download [Drops](https://languagedrops.com/language/learn-japanese) on your smar
 
 This resource is great because it is optimised for your *long term memory*. (Note: don't use Drops for anything other than kana as there are better resources for the rest of your language learning.)
 
-This part will likely take around a month or so. You can do this while moving forward with your kanji, vocab, and grammar learning.
+This part will likely take around a month or so. You can do this while moving forward with your kanji, grammar, and vocab learning.
 
-## Level 2 | Build Your Foundation (Beginner)
+### 3. Kanji
 
-**Approx. time in level: around 6 months.**
+**When to start:** After understanding pronunciation and kana
+**Approx. time:** 6 months (along with grammar and vocab)
+**Staff note:** We expect all new staff to be making good progress with kanji memorisation before coming to Japan
 
-The best way to learn Japanese (and any new language) is to be immersed in the Japanese language. Immersed in native text, native sounds, and native conversation. But if you don't have any familiarity with the language, being immersed will be difficult for you. It will be too foreign and overwhelming for you to take much of it in.
+Before learning grammar and vocabulary, we recommended you start learning kanji as it will make learning grammar and vocab easier in the long run. As there are thousands of them, and they can look extremely complex, learning kanji can seem very daunting. But as long as you have a good system in place, you will be surprised by how many you can understand in a short amount of time!
 
-Now that you know the sounds and kana, this level is all about building a strong foundation of vocab and grammar so that you can feel familiar *just enough* with Japanese so that you feel able to explore native content and talk with native speakers. You will then be ready for Level 3: immersion.
+At this point, the most important thing to keep in mind is that you want to recognise as many kanji as you can in a relatively short amount of time. It will take years of using kanji in order to actually learn them along with all their readings. So try not to get bogged down by memorising their sounds or stroke orders. Just focus on being able to recognise the meaning of each kanji.
 
-We don't particularly recommend language school or personal tutors at this stage as they are usually expensive and can move very slowly. Language classes and tutors would be much more effective once you have built your foundation and have reached an intermediate level of comprehension.
-
-### 1. Kanji and Vocab
-
-First, it is recommended you start learning kanji as it will make learning vocab and grammar easier in the long run. As there are thousands of them, and they can look extremely complex, learning kanji can seem very daunting. But as long as you have a good system in place, you will be surprised by how many you can understand in a short amount of time!
-
-It is also worth learning vocabulary along with the kanji. This is because vocab includes kanji, and learning vocab will also teach you the different readings for the kanji.
-
-At this point, the most important thing to keep in mind is that you want to recognise as many kanji as you can in a relatively short amount of time. It will take years of using kanji in order to actually learn them along with all their readings. So try not to get bogged down by memorising all of their sounds or stroke orders. Right now, you need to decide which system you will use. Then you need to stick with it. You will be investing a few hundred hours into this, so make sure you understand your options.
+Right now, you need to decide which system you will use, and stick with it. You will be investing a few hundred hours into this, so make sure you understand your options.
 
 To make things simple, here are a couple of good options for you to consider:
 
-#### WaniKani
-
-[WaniKani](https://www.wanikani.com/) is a fantastic Spaced Repetition System (SRS) that uses mnemonics in order to teach you around 2,000 kanji and around 6,000 vocab using those kanji. It breaks down each kanji into radicals, making the learning process much easier. This tool is highly recommended as it walks you through the whole process in a fun way--levelling up as you progress.
-
-WaniKani requires a monthly subscription which costs $9 per month, but there is an annual New Year sale which costs $299 for lifetime access (previous months paid for during that year are subtracted from the amount too). Though it costs money, it is much cheaper than language school, and we think it is worth it. If you can, budget this into your monthly support target.
-
 #### Anki
 
-If you would rather something that is free, we recommend [Anki](https://apps.ankiweb.net/). This is a free SRS application that you can [add your own decks to](https://www.youtube.com/watch?v=Ih67nqyLEkg). You can find many pre-made decks on the Anki website.
+Our first recommendation is [Anki](https://apps.ankiweb.net/). This is a free Spaced Repetition System (SRS) application that you can [add your own decks to](https://www.youtube.com/watch?v=Ih67nqyLEkg). You can find many pre-made decks on the Anki website.
 
-Here are some strong decks we recommend you work through if you choose this path:
+If you go this route, follow these steps:
 
-**Kanji Radicals:** [Kanji Radical](https://ankiweb.net/shared/info/1044119361). Radicals are parts of kanji. Learning these will help learning kanji much easier.
+* Install Anki, along with [these add-ons](https://massimmersionapproach.com/table-of-contents/anki/low-key-anki/low-key-anki-summary-and-installation/) (scroll down to Installation (Anki 2.1))
+* Install [All In One Kanji Desk (RTK Order)](https://ankiweb.net/shared/info/215365929). This will teach you 3,000 kanji.
+* In Anki, go to Browser > search by card type > “card:Recall” > suspend all of the recall cards.
+* In deck settings, set "new" cards to 5 per day. As you get more comfortable, you can gradually increase this to 20 per day.
+* Skim over the information on each card, but only worry about **recognising the meaning**.
 
-**Kanji:** [All In One Kanji Desk (RTK Order)](https://ankiweb.net/shared/info/215365929). This will teach you 3,000 kanji. Adjust the settings so that Anki will give you 5 new cards per day to start with. As you get more comfortable, you can increase this in the future.
+#### WaniKani
 
-**Vocab:** [Core2k](https://ankiweb.net/shared/info/2141233552). This will teach you 2,000 of the most commonly used words. Adjust the settings so that Anki will give you 11 new cards per day. You can be done in around 182 days! Maybe start using this deck after you have been going through the kanji deck for around 1 week.
+If Anki sounds too complicated, we recommend [WaniKani](https://www.wanikani.com/). This is a great Spaced Repetition System (SRS) that uses mnemonics in order to teach you around 2,000 kanji and around 6,000 vocab using those kanji. It breaks down each kanji into radicals, making the learning process much easier. A cool thing about WaniKani is that it walks you through the whole process in a fun way--levelling up as you progress.
+
+WaniKani requires a monthly subscription which costs $9 per month, but there is an annual New Year sale which costs $299 for lifetime access (previous months paid for during that year are subtracted from the amount too). Though it costs money, we think it is worth it if Anki seems too complicated. Budget this into your monthly support target if you need to.
 
 
-Once you have chosen your system, stick with it! **Do your reviews every day.** Don't spend time writing the kanji at this point (this will slow you down considerably, and handwriting is seldom done today. You can come back to this in the future). Focus on being able to **recognise the meaning** of the kanji, and memorise the **most common reading**.
+Once you have chosen your system, stick with it! **Do your reviews every day.** Don't spend time writing the kanji at this point (this will slow you down considerably, and handwriting is seldom done today. You can come back to this in the future). Again, focus on being able to **recognise the meaning** of the kanji.
 
-Give yourself around 1 week to get comfortable learning kanji and vocab before moving on to grammar. Don't hurry into this. Grammar is going to be a big commitment!
+Give yourself around 1 week to get comfortable learning kanji before moving on to grammar. Don't hurry into this. Grammar is going to be a big commitment!
 
-### 2. Grammar
+### 4. Grammar
+
+**When to start:** After around 1 week of learning kanji
+**Approx. time:** 6 months (along with grammar and vocab)
+**Staff note:** We expect all new staff to be making good progress with elementary grammar before coming to Japan
 
 #### Study elementary grammar
 
@@ -152,7 +157,23 @@ Here, we will outline an action plan for progressing in your grammar studies. No
 
 You now have a solid foundation! You should now be ready to find resources independently. In terms of grammar, try to move on to the next level (immersion).
 
-## Level 3 | Immersion (Intermediate)
+### 5. Vocab
+
+**When to start:** After around 1 week of learning grammar
+**Approx. time:** 6 months (along with grammar and vocab)
+**Staff note:** We expect all new staff to be making good progress on building a vocab core before coming to Japan
+
+The best way to build up vocabulary is to be immersed in the language (e.g. reading books). But when everything is above your level, this is impossible! So our aim is to build up a core of vocab that will help native content feel tolerable (stage 2).
+
+Note: If you are using WaniKani, you will already be learning vocab. Just continue with that and skip this bit!
+
+Using Anki, follow these steps:
+
+* Add the [Core2k](https://ankiweb.net/shared/info/2141233552) deck to Anki. This will teach you 2,000 of the most commonly used words.
+* Adjust the settings so that Anki will give you 11 new cards per day. You can be done in around 182 days!
+* Install the [MIA Japanese](https://ankiweb.net/shared/info/278530045) addon, which will help with pitch accent (read [this](https://massimmersionapproach.com/table-of-contents/anki/mia-japanese-addon/#mass-generation) for more information)
+
+## Stage 2 | Immersion (Intermediate)
 
 By now, you have taken *at least* 6 months to build your Japanese language foundation. This is a great milestone: well done! The first stage was all about studying, memorising, and cramming. The next stage becomes more personal, as you explore native Japanese content and speak with native speakers.
 
