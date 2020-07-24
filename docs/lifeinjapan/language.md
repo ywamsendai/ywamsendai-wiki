@@ -23,8 +23,6 @@ The best way to learn Japanese (and any new language) is to be immersed in the J
 
 This stage is all about building a strong foundation so that you can feel familiar *just enough* with Japanese so that you feel able to explore native content and talk with native speakers. You will then be ready for immersion (stage 2), which is when the *real* learning happens!
 
-We don't particularly recommend language school or personal tutors at this stage as they are usually expensive and can move very slowly. Language classes and tutors would be much more effective once you have built your foundation and have reached an intermediate level of comprehension.
-
 ### 1. Pronunciation
 
 * **Approx. time:** 1 to 2 weeks (along with kana)
@@ -120,10 +118,10 @@ Give yourself around 1 week to get comfortable learning kanji before moving on t
 
 ### 4. Grammar
 
+#### a. Study elementary grammar
+
 * **When to start:** After around 1 week of learning kanji
 * **Approx. time:** 6 months (along with grammar and vocab)
-
-#### Study elementary grammar
 
 Now that you have some kanji under your belt, it is time to start learning grammar. It is said that, for Westerners, Japanese is one of the hardest languages to learn. This is especially the case because Japanese [sentence structure](https://8020japanese.com/japanese-sentence-structure/) is very different. But once you understand the basic concepts, its actually [very simple](https://smilenihongo.com/basic-japanese-sentence-structure).
 
@@ -157,7 +155,37 @@ Here, we will outline an action plan for progressing in your grammar studies. No
 
 3. Next, attempt a [JLPT N4 practice test](https://www.jlpt.jp/e/samples/sampleindex.html) and see how you get on!
 
-You now have a solid foundation! You should now be ready to find resources independently. In terms of grammar, try to move on to the next level (immersion).
+You now have a solid foundation! You should now be ready to find resources independently. In terms of grammar, try to move on to the next stage (immersion).
+
+#### b. Intermediate Study & Review
+
+#### Structured Study Resources (Optional)
+
+**This is totally optional. Don't use these before you have attempted to study via immersion! If you feel you *have* been making progress, check out the Review Resources below instead.**
+
+If you have begun to study using native content and you're hitting a wall, here are some textbooks that will give you more structure. Like with Genki/Minna no Nihongo, work through one grammar point per day.
+
+1. First, there is [An Integrated Approach to Intermediate Japanese](http://ij.japantimes.co.jp/en/about.jsp). This is commonly thought of as "Genki III".
+
+2. If you still need more structured learning, you can then pick up [Tobira: Gateway to Advanced Japanese](https://www.9640.jp/nihongo/en/detail/?447).
+
+#### Review Resources
+
+Once you have been immersing for a while and you feel like you have made some progress, it is good to review to find any holes you have in your grammar and vocab.
+
+Just like we have outlined at the end of the beginner grammar section, we recommend working through the following books, in order. This review should take less than 20 minutes per day. If this becomes too difficult, that is an indication you need to study some more either via immersion or the structured resources outlined above. You can also find other JLPT review books by other companies too.
+
+1. Work through the [新完全マスター文法 日本語能力試験Ｎ３](https://www.3anet.co.jp/np/books/3604/) grammar review book.
+
+2. Once you finish, work through the [新完全マスター読解 日本語能力試験Ｎ３](https://www.3anet.co.jp/np/books/3614/) reading comprehension book.
+
+3. When you feel ready, work through the [新完全マスター文法 日本語能力試験Ｎ２](https://www.3anet.co.jp/np/books/3602/) grammar review book.
+
+4. Once you finish, work through the [新完全マスター読解 日本語能力試験Ｎ２](https://www.3anet.co.jp/np/books/3612/) reading comprehension book.
+
+5. Though you are already at a good level of comprehension, you may wish to review further by working through the [新完全マスター文法 日本語能力試験Ｎ１](https://www.3anet.co.jp/np/books/3600/) grammar review book.
+
+6. Once you finish, work through the [新完全マスター読解 日本語能力試験Ｎ１](https://www.3anet.co.jp/np/books/3610/) reading comprehension book.
 
 ### 5. Vocab
 
@@ -209,46 +237,70 @@ Here are some resources you can use to advance your listening capability.
 
 ### 2. Output
 
-Its time to output what you have been learning and inputting!
+Its time to output what you have been learning and inputting! Here are some areas that will help you to do this more naturually:
 
-The best way to do this is to make native Japanese friends! Here are some ways you can do this:
+#### Mouthwork
 
-* Meet people at church
-* Find local club activities where you can do various things with local people, such as sports, cooking, knitting, reading manga, language exchange etc.
-* Strike up conversations with random people on the street
+1. Say all of the kana out loud over and over. How do you sound? Are you having any difficulties?
 
-When you meet people who you think would be interested in hanging out, add them to Line, then ask them to go out for coffee or something! Be intentional with speaking only Japanese.
+2. Find [recordings of individual words](https://forvo.com/search/%E3%83%A1%E3%83%AD%E3%83%B3%E3%83%91%E3%83%B3/) and repeat. Can you keep up with their speed? If not, why? Work your way to sentences.
 
-If you desire to talk with someone who will intentionally correct your Japanese and teach you about grammar points, the following may be worth considering:
+3. Practice [tongue twisters](https://www.nihongomaster.com/blog/10-japanese-tongue-twisters-audio/). If you can handle these, you can handle normal speech!
 
-* Finding a local language tutor
-* Attending local intermediate/advanced Japanese classes or conversation groups
-* Find a language tutor on [iTalki](https://www.italki.com/teachers/japanese)
+#### Scripting
 
-### 3. Intermediate Study & Review
+1. Write a self introduction in your native language, then translate it into Japanese. Get it corrected by someone who knows Japanese and create a recording. Memorise it.
 
-#### a. Structured Study Resources (Optional)
+2. After your introduction, do the same thing with your testimony.
 
-If you have begun to study using native content and you're hitting a wall, here are some textbooks that will give you more structure. Like with Genki/Minna no Nihongo, work through one grammar point per day. **Try not to use these before you have attempted to study via immersion as outlined above.**
+3. Next, do the same thing with different things that will help enrich your conversation (i.e. jokes, speeches, poems, anything). Get comfortable stringing together Japanese sounds.
 
-1. First, there is [An Integrated Approach to Intermediate Japanese](http://ij.japantimes.co.jp/en/about.jsp). This is commonly thought of as "Genki III".
+#### Early conversations
 
-2. If you still need more structured learning, you can then pick up [Tobira: Gateway to Advanced Japanese](https://www.9640.jp/nihongo/en/detail/?447).
+1. Find a patient language exchange partner, or book a language tutor on [iTalki](https://www.italki.com/teachers/japanese).
 
-#### b. Review Resources
+2. Stumble through the conversation. Just get through and treat it like a game. You will mess up a lot. Its okay.
 
-Once you have been immersing for a while and you feel like you have made some progress, it is good to review to find any holes you have in your grammar and vocab.
+3. Keep track of ideas you don't know how to express and figure them out as you go.
 
-Just like we have outlined at the end of the beginner grammar section earlier, we recommend working through the following books, in order. This review should take less than 20 minutes per day. If this becomes too difficult, that is an indication you need to study some more either via immersion or the structured resources outlined above. You can also find other JLPT review books by other companies too.
+4. Focus on practicing conjugations and simple sentence structures.
 
-1. Work through the [新完全マスター文法 日本語能力試験Ｎ３](https://www.3anet.co.jp/np/books/3604/) grammar review book.
+#### Conversations
 
-2. Once you finish, work through the [新完全マスター読解 日本語能力試験Ｎ３](https://www.3anet.co.jp/np/books/3614/) reading comprehension book.
+1. If you have a language exchange partner or tutor, don't just talk. Observe any feedback closely.
 
-3. When you feel ready, work through the [新完全マスター文法 日本語能力試験Ｎ２](https://www.3anet.co.jp/np/books/3602/) grammar review book.
+2. Find things you can't express well and look for answers in your input.
 
-4. Once you finish, work through the [新完全マスター読解 日本語能力試験Ｎ２](https://www.3anet.co.jp/np/books/3612/) reading comprehension book.
+3. Ask partner or tutor to summarise your ideas. Pay attention to how they reword your speech.
 
-5. Though you are already at a good level of comprehension, you may wish to review further by working through the [新完全マスター文法 日本語能力試験Ｎ１](https://www.3anet.co.jp/np/books/3600/) grammar review book.
+4. If you don't know how to say something, just ask your partner or tutor! Ask lots of questions.
 
-6. Once you finish, work through the [新完全マスター読解 日本語能力試験Ｎ１](https://www.3anet.co.jp/np/books/3610/) reading comprehension book.
+5. Place yourself in Japanese-only situations where you are forced to respond to people in Japanese. Make friends and try to speak only Japanese with them.
+
+#### Christian-focused output
+
+1. Practice saying out loud the Lord's prayer (主の祈り) and memorise it:
+
+天にいます私たちの父よ。
+御名があがめられますように。
+御国が来ますように。
+みこころが天で行なわれるように地でも行なわれますように。
+私たちの日ごとの糧をきょうもお与えください。
+私たちの負いめをお赦しください。
+私たちも、私たちに負いめのある人たちを赦しました。
+私たちを試みに会わせないで、悪からお救いください。
+国と力と栄えは、とこしえにあなたのものだからです。
+アーメン
+
+2. Do the same thing with the Apostles Creed (使徒信経):
+
+わたしは、天地の造り主、全能の父である神を信じます。
+
+また、その独り子、わたしたちの主イエス・キリストを信じます。主は聖霊によって宿り、おとめマリヤから生まれ、ポンテオ・ピラトのもとで苦しみを受け、十字架につけられ、死んで葬られ、よみに降り、三日目に死人のうちからよみがえり、天に昇られました。そして全能の父である神の右に座しておられます。そこから主は生きている人と死んだ人とを審くために来られます。
+
+また、聖霊を信じます。聖なる公会、聖徒の交わり、罪の赦し、体のよみがえり、永遠の命を信じます。
+アーメン。
+
+3. Write out the Gospel message in your native language, then translate it into Japanese. Create a recording and memorise it.
+
+4. Do the same thing with other Bible messages, prayers, testimonies, and your own psalms.
