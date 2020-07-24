@@ -2,27 +2,32 @@
 
 As we want to reach the Japanese people with the gospel and speak heart-to-heart, we need to communicate fluently in Japanese. This is a high value for our community and we aim to transition YWAM Sendai to function bilingually in Japanese and English as soon as possible. As we are still in the early stages of pioneering YWAM Sendai, and our team is mostly made up of new missionaries to Japan, we currently function mostly in English.
 
-**It is expected that all of our non-Japanese team members will spend a good portion of their time during fundraising (before coming) and while in Japan studying the language.** We will help each person set measurable goals to work towards. Of course, this will look different depending on the person. That being the case, this page outlines what we think is an effective way of learning this language.
+This page outlines what we think is an effective way of learning this language. Much of this page is based on the fantastic research by redditor [SuikaCider](https://www.reddit.com/user/SuikaCider/) which can be found [here](https://docs.google.com/document/d/10bRzVblKVOsQJjTc2PIi1Gbj_LrsJCkMkh0SutXCZdI/edit#). There are also heavy influences from the [Mass Immersion Approach](https://massimmersionapproach.com/) and [Tofugu's Learn Japanese](https://www.tofugu.com/learn-japanese/) guide.
 
-Your goal is not to study until you feel you understand everything! Your goal is to be just comfortable *enough* with the language that you can explore native content and talk with native speakers. Immersion in the language is when the *real* learning happens!
+In summary, here are stages you will go through as you learn the language:
 
-Much of this page is based on the fantastic research by redditor [SuikaCider](https://www.reddit.com/user/SuikaCider/) which can be found [here](https://docs.google.com/document/d/10bRzVblKVOsQJjTc2PIi1Gbj_LrsJCkMkh0SutXCZdI/edit#). There are also heavy influences from the [Mass Immersion Approach](https://massimmersionapproach.com/) and [Tofugu's Learn Japanese](https://www.tofugu.com/learn-japanese/) guide.
+1. Stage 1 | Building a Foundation (Beginner) - gain familiarity through studying
+2. Stage 2 | Immersion (Intermediate) - explore native content
+3. Stage 3 | Subconscious Learning (Advanced) - learning becomes a by-product from enjoying native content
+4. Stage 2+ | Refining - realising and working on weak areas
+
+If you are an incoming staff to Japan, please dedicate time to studying the language while you fundraise. **A good goal would be for you to be close to stage 2 when you come to Japan.** Completing stage 1 will help you to feel much more comfortable in Japanese-only settings and you can enjoy immersing yourself.
 
 ## Stage 1 | Building a Foundation (Beginner)
 
 * **Defined by:** Study and memorisation
 * **Purpose:** Help you feel comfortable *enough* with the language to begin immersion
+* **Staff note:** Try to make good progress in this stage before coming to Japan
 
 The best way to learn Japanese (and any new language) is to be immersed in the Japanese language. Immersed in native text, native sounds, and native conversation. But if you don't have any familiarity with the language, being immersed will be difficult for you. It will be too foreign and overwhelming for you to take much of it in.
 
-This stage is all about building a strong foundation so that you can feel familiar *just enough* with Japanese so that you feel able to explore native content and talk with native speakers. You will then be ready for immersion (stage 2).
+This stage is all about building a strong foundation so that you can feel familiar *just enough* with Japanese so that you feel able to explore native content and talk with native speakers. You will then be ready for immersion (stage 2), which is when the *real* learning happens!
 
 We don't particularly recommend language school or personal tutors at this stage as they are usually expensive and can move very slowly. Language classes and tutors would be much more effective once you have built your foundation and have reached an intermediate level of comprehension.
 
 ### 1. Pronunciation
 
 * **Approx. time:** 1 to 2 weeks (along with kana)
-* **Staff note:** We expect all new staff to have a basic understanding of Japanese pronunciation before coming to Japan.
 
 If your mother tongue is not Japanese, the sounds you make when you speak will not sound natural when you speak Japanese. This is a cold fact. Even when you think a sound *is* the same as your mother tongue, chances are there is subtle difference. But don't be discouraged! Once you realise this, then you can understand just *what are* the Japanese sounds. You can then begin to learn and practice in order to train your tongue. It is probably optimal to do this, even briefly, before moving on to the kana. This is so you don't develop bad pronunciation habits.
 
@@ -45,7 +50,6 @@ As you proceed to learn kana, keep these concepts in mind to solidify your under
 ### 2. Kana
 
 * **Approx. time:** 1 to 2 weeks (along with kana)
-* **Staff note:** We expect all new staff to be able to read both hiragana and katakana before coming to Japan.
 
 Time to attach the sounds you have learnt to Japanese symbols. Hiragana and katakana are the basic syllabic scripts that make up the Japanese writing system, along with Kanji (Chinese characters).
 
@@ -82,7 +86,6 @@ This part will likely take around a month or so. You can do this while moving fo
 
 * **When to start:** After understanding pronunciation and kana
 * **Approx. time:** 6 months (along with grammar and vocab)
-* **Staff note:** We expect all new staff to be making good progress with kanji memorisation before coming to Japan
 
 Before learning grammar and vocabulary, we recommended you start learning kanji as it will make learning grammar and vocab easier in the long run. As there are thousands of them, and they can look extremely complex, learning kanji can seem very daunting. But as long as you have a good system in place, you will be surprised by how many you can understand in a short amount of time!
 
@@ -119,7 +122,6 @@ Give yourself around 1 week to get comfortable learning kanji before moving on t
 
 * **When to start:** After around 1 week of learning kanji
 * **Approx. time:** 6 months (along with grammar and vocab)
-* **Staff note:** We expect all new staff to be making good progress with elementary grammar before coming to Japan
 
 #### Study elementary grammar
 
@@ -161,7 +163,6 @@ You now have a solid foundation! You should now be ready to find resources indep
 
 * **When to start:** After around 1 week of learning grammar
 * **Approx. time:** 6 months (along with grammar and vocab)
-* **Staff note:** We expect all new staff to be making good progress on building a vocab core before coming to Japan
 
 The best way to build up vocabulary is to be immersed in the language (e.g. reading books). But when everything is above your level, this is impossible! So our aim is to build up a core of vocab that will help native content feel tolerable (stage 2).
 
@@ -198,6 +199,8 @@ Here are some places to find easier to read native content:
 
 [NHK Easy News](https://www3.nhk.or.jp/news/easy/) |  [Matcha](https://matcha-jp.com/easy) | [Watanoc](http://watanoc.com/) | [Satori Reader](https://www.satorireader.com/) | [LingQ’s Mini Stories](https://www.lingq.com/en/learn-japanese-online/courses/411402/) | [Other NHK](https://www3.nhk.or.jp/nhkworld/en/learnjapanese/)
 
+It would also be good to start becoming familiar with a Japanese translation of the Bible. One of the most common translations is the [新改訳聖書](https://www.seisho.or.jp/) (New Japanese Bible). Look up familiar passages and see what you can understand!
+
 #### b. Listening
 
 Here are some resources you can use to advance your listening capability.
@@ -206,7 +209,9 @@ Here are some resources you can use to advance your listening capability.
 
 ### 2. Output
 
-Its time to output everything you have been learning and inputting! The best way to do this is to make native Japanese friends! Here are some ways you can do this:
+Its time to output what you have been learning and inputting!
+
+The best way to do this is to make native Japanese friends! Here are some ways you can do this:
 
 * Meet people at church
 * Find local club activities where you can do various things with local people, such as sports, cooking, knitting, reading manga, language exchange etc.
