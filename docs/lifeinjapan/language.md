@@ -206,7 +206,9 @@ Using Anki, follow these steps:
 
 Not only is it important to learn common Japanese vocab, you should also learn Christian vocab. This is essential for worshipping, praying, reading the Bible, and sharing the Gospel--all in Japanese!
 
-OMF has compiled helpful language resources on [this page](https://omf.org/asia/japan/resources/japanese-language/). They have resources for learning Christian terminology that are particularly useful for missionaries.
+We have created a document that lists useful Christian vocab and phrases, as well as the Lord's Prayer and Apostles Creed [here](https://docs.google.com/document/d/13n2YVf6eZs9nfGdxVOATAf4Bze8jZVNfpf7NtTN3QkI/edit?usp=sharing).
+
+OMF has also compiled some helpful language resources on [this page](https://omf.org/asia/japan/resources/japanese-language/).
 
 ## Stage 2 | Immersion (Intermediate)
 
@@ -279,28 +281,6 @@ Its time to output what you have been learning and inputting! Here are some area
 
 #### Christian-focused output
 
-1. Practice saying out loud the Lord's prayer (主の祈り) and memorise it:
+1. Write out the Gospel message in your native language, then translate it into Japanese. Create a recording and memorise it.
 
-天にいます私たちの父よ。
-御名があがめられますように。
-御国が来ますように。
-みこころが天で行なわれるように地でも行なわれますように。
-私たちの日ごとの糧をきょうもお与えください。
-私たちの負いめをお赦しください。
-私たちも、私たちに負いめのある人たちを赦しました。
-私たちを試みに会わせないで、悪からお救いください。
-国と力と栄えは、とこしえにあなたのものだからです。
-アーメン
-
-2. Do the same thing with the Apostles Creed (使徒信経):
-
-わたしは、天地の造り主、全能の父である神を信じます。
-
-また、その独り子、わたしたちの主イエス・キリストを信じます。主は聖霊によって宿り、おとめマリヤから生まれ、ポンテオ・ピラトのもとで苦しみを受け、十字架につけられ、死んで葬られ、よみに降り、三日目に死人のうちからよみがえり、天に昇られました。そして全能の父である神の右に座しておられます。そこから主は生きている人と死んだ人とを審くために来られます。
-
-また、聖霊を信じます。聖なる公会、聖徒の交わり、罪の赦し、体のよみがえり、永遠の命を信じます。
-アーメン。
-
-3. Write out the Gospel message in your native language, then translate it into Japanese. Create a recording and memorise it.
-
-4. Do the same thing with other Bible messages, prayers, testimonies, and your own psalms.
+2. Do the same thing with other Bible messages, prayers, testimonies, and your own psalms.
