@@ -6,9 +6,9 @@ We always aim to streamline processes and transfer between tools if it increases
 
 ##Chat
 
-The YWAM Sendai community mainly communicates through Element (an open-source chat application).
+The YWAM Sendai community mainly communicates through the [Matrix](https://matrix.org/) protocol--an open network for secure, decentralized communication.
 
-Link to our Element community: [https://app.element.io/#/group/+ywamsendai:matrix.org](https://app.element.io/#/group/+ywamsendai:matrix.org)
+While there are [multiple apps](https://matrix.to/#/#ywamsendai:matrix.org) you can use in order to connect to Matrix, we mostly use the open-source Element: [https://app.element.io/#/group/+ywamsendai:matrix.org](https://app.element.io/#/group/+ywamsendai:matrix.org)
 
 ###Element tutorial for YWAM Sendai community members
 
@@ -26,6 +26,4 @@ Link to our Element community: [https://app.element.io/#/group/+ywamsendai:matri
 
 ###Support
 
-If you run into any problems, or need to ask a question, find Gary on Element:
-
-@garys:matrix.org
+If you run into any problems, or need to ask a question, pop Gary a message: @garys:matrix.org
