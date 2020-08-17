@@ -10,7 +10,7 @@ Let us know if you have any questions about anything on this page, and please st
 
 * Inform us that you have reached at least the [Minimum Support Level](finances.md) of financial support and would like to begin this process
 
-* You send us all required documents via both email and physical mail (detailed below).
+* You send us all required documents via **both** email and physical mail (detailed below).
 
 * We then apply for a Certificate of Eligibility (CoE) from Japanese Immigration once we receive your documents (can take 6 to 12 weeks).
 
@@ -20,7 +20,7 @@ Let us know if you have any questions about anything on this page, and please st
 
 * Usually within a few days, you can return to the Embassy or Consulate to pick up your passport with your visa! This likely must be done in person, but sometimes they give you the option to receive it via mail. You can check this with them.
 
-* You can now book your flight to Japan! (Please don’t purchase your airline ticket until your visa is issued in case of unexpected delays).
+* You can now book your flight to Japan! (**Note: please don’t purchase your airline ticket until your visa is issued in case of unexpected delays**).
 
 * You must enter Japan within 3 months of receiving your visa.
 
@@ -45,4 +45,4 @@ Please send all printed documents to the given mailing address, and email scanne
 
 * If any of these documents are in another language other than English or Japanese, please provide a translation of everything written on the document into English or Japanese for us.
 
-* The second Church letter states that your church provides financial support of you during your time in Japan. This assurance is very important to the Immigration Department, who would be concerned that immigrants become stranded or destitute while in Japan. It isn’t that your church must technically promise to support your every need, because your missionary support will most likely come from many supporters. But in the spirit of the law, if one organisation will officially vouch for you, the Japanese Government will be more comfortable to grant the visa. YWAM Japan must also vouch for you in this way. This letter is not a legally binding document requiring your church to meet your every need. Each missionary to Japan needs a church to stand with him officially, but in reality we understand that God is our source. We will provide a letter you can give to your pastor to explain this. If your church is extremely uncomfortable with this, please let us know and we can try an alternate wording.
+* The second Church letter states that your church provides financial support of you during your time in Japan. This assurance is very important to the Immigration Department, who would be concerned that immigrants become stranded or destitute while in Japan. It isn’t that your church must technically promise to support your every need, because your missionary support will most likely come from many supporters. But in the spirit of the law, if one organisation will officially vouch for you, the Japanese Government will be more comfortable to grant the visa. YWAM Japan must also vouch for you in this way. This letter is **not** a legally binding document requiring your church to meet your every need. Each missionary to Japan needs a church to stand with him officially, but in reality we understand that God is our source. We will provide a letter you can give to your pastor to explain this. If your church is extremely uncomfortable with this, please let us know and we can try an alternate wording.
