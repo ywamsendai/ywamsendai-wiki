@@ -31,7 +31,7 @@ Category | Hours per Week | Description
 **YWAM Sendai Functioning** | 7 hours (20% of time) | All scheduled meetings, weekly worship and training, weekly intercession, role-related work, etc.
 **Ministry** | 28 hours (80% of time) | Event prep, kokubuncho, DTS/school prep, meeting Japanese people, prayer walking, evangelism, language study (no more than 14 hours) etc.
 
-**Note on Language Study:** For all new non-Japanese speaking staff, up to 50% of ministry time can be spent studying the Japanese language for the first year in Japan – leaving at least 14 hours for ministry. Language study will continue to be important moving forward, but will depend on the level of comprehension.
+**Note on Language Study:** For all new non-Japanese speaking staff, up to 50% of ministry time can be spent studying the Japanese language for the first year in Japan – leaving at least 14 hours for ministry. After the first year, please discuss with the YWAM Sendai leaders about how much time to spend on language study.
 
 ## Communication
 
