@@ -4,7 +4,7 @@ For those that commit to join us as full-time staff, we have the following commi
 
 ## Be a YWAMer!
 
-To join our team, you would have had to have completed a DTS. The hope is that some of the YWAM 'DNA' rubbed off on to you there. Our expectation is that you will not only know what YWAM is about, but you will live it. You will pursue God and people as set out in our [YWAM Purpose, Beliefs & Values](values.md).
+To join our team, you would have had to have completed a DTS. Our expectation is that you will not only know what YWAM is about, but you will live it. You will pursue God and people as set out in our [YWAM Purpose, Beliefs & Values](values.md).
 
 We ask all of our team members, new and old, to refresh themselves regularly on what it means to be a YWAMer.
 
@@ -20,11 +20,11 @@ All of us here at YWAM Sendai are called by God not just as individuals, but to 
 
 Being part of a team also means being committed to serving wholeheartedly the vision and goals of YWAM Sendai (prioritizing team schedule, being quick to help out etc.). We choose to hold each other accountable and call each other higher when necessary (pointing to these expectations when necessary!).
 
-As we all live in separate homes, we need to communicate well both in person and online. So you can be extrovert or introvert and still participate. Yay! But seriously, lets aim to over-communicate, rather than under-communicate. Especially as our community grows (and pioneers new communities!). We have a document to show you how to be in your [Element](tools.md) with us! ;)
+As we all live in separate homes, we need to communicate well both in person and online. We need to aim to over-communicate, rather than under-communicate. Especially as our community grows (and pioneer new communities!). We have a document to show you how to be in your [Element](tools.md) with us! ;)
 
 ## Be Japanese!
 
-Joining our team means God brought you to Japan in order to love the Japanese people. In order to do this, you will need to both speak to and listen to people's hearts. If you don't know the language or the culture, your ability to love (to communicate) is severely handicapped! :( Our expectation is that you will develop a passion to learn this culture and language, and to keep learning even when it gets tough. Its worth it! You can do it!
+Joining our team means God brought you to Japan in order to love the Japanese people. In order to do this, you will need to both speak to and listen to people's hearts. If you don't know the language or the culture, your ability to love (to communicate) is severely handicapped! Our expectation is that you will develop a passion to learn this culture and language, and to keep learning even when it gets tough. Its worth it! You can do it!
 
 One good way to learn is to pursue opportunities to be immersed in Japanese-only settings (e.g. church). This can be difficult, especially at the beginning--but it is worth it! Also, food is a huge part of Japanese culture. We encourage our staff to try everything at least twice (even if you're not too sure!) and cook Japanese food at home and as a community. This attitude will speak volumes!
 
@@ -46,7 +46,7 @@ Category | Hours per Week | Description
 --------- | --------- | ---------
 **YWAM Sendai Functioning** | 7 hours (20% of time) | All scheduled meetings, weekly worship and training, weekly intercession, role-related work, etc.
 **Ministry** | 28 hours (80% of time) | Event prep, kokubuncho, DTS/school prep, meeting Japanese people, prayer walking, evangelism, etc.
-**Language Study** | Up to 14 hours (50% of ministry) | For all new non-Japanese speaking staff: up to 50% of ministry time studying the Japanese language for up to 2 years, working towards achieving JLPT N2 – leaving at least 14 hours for ministry
+**Language Study** | Up to 14 hours (50% of ministry) | For all new non-Japanese speaking staff: up to 50% of ministry time studying the Japanese language for around 1 year – leaving at least 14 hours for ministry. (This does not apply to those here short-term or those looking to transition out of YWAM Japan.)
 
 ## Be Wise with Money!
 
