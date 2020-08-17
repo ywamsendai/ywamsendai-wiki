@@ -37,16 +37,6 @@ Category | Hours per Week | Description
 
 As we all live in separate homes, we need to communicate well both in person and online. We need to aim to over-communicate, rather than under-communicate. Especially as our community grows (and pioneer new communities!). All staff are expected to be active and attentive to all communication done over [Element](tools.md).
 
-## Japanese Language & Culture
-
-Joining our team means God brought you to Japan in order to love the Japanese people. In order to do this, you will need to both speak to and listen to people's hearts. All staff are expected to develop a passion to learn Japanese culture and language, and to keep learning even when it gets tough.
-
-One good way to learn is to pursue opportunities to be immersed in Japanese-only settings (e.g. church). This can be difficult, especially at the beginning--but it is worth it! Also, food is a huge part of Japanese culture. We encourage our staff to try everything at least twice (even if you're not too sure!) and cook Japanese food at home and as a community. This attitude will speak volumes!
-
-Learning this language requires discipline and good strategy. We encourage each staff to set achievable goals in language study and to stick to a study schedule. We are in this together, so we ask everyone to keep each other accountable. As we want to become a bilingual YWAM base, we also challenge each other to speak in Japanese together. A great way to practice (and stay humble!).
-
-There are many opportunities to practice and learn the language in Sendai. Please seek them out! Read [this page](../lifeinjapan/language.md) for a suggested plan to learn this language.
-
 ## Money
 
 All staff are required to raise a minimum amount of monthly support in order to join us. You can find this information [here](finances.md).
@@ -57,6 +47,36 @@ All staff are also required to make staff fee payments each month, currently set
 
 There is always need for ongoing [fundraising](fundraising.md). This is due to a combination of rising living expenses here, as well as decreased financial support over time. It is vital to communicate regularly to supporters and churches, both for prayer support and for financial support. It is also important to make trips to visit supporters and churches around once every two years for a month or two in order to renew connections with supporters, churches, family and friends.
 
+## Japanese Language & Culture
+
+Joining our team means God brought you to Japan in order to love the Japanese people. In order to do this, you will need to both speak to and listen to people's hearts. All staff are expected to develop a passion to learn Japanese culture and language, and to keep learning even when it gets tough.
+
+One good way to learn is to pursue opportunities to be immersed in Japanese-only settings (e.g. church). This can be difficult, especially at the beginning--but it is worth it! Also, food is a huge part of Japanese culture. We encourage our staff to try everything at least twice (even if you're not too sure!) and cook Japanese food at home and as a community. This attitude will speak volumes!
+
+Learning this language requires discipline and good strategy. We encourage each staff to set achievable goals in language study and to stick to a study schedule. We are in this together, so we ask everyone to keep each other accountable. As we want to become a bilingual YWAM base, we also challenge each other to speak in Japanese together. A great way to practice (and stay humble!).
+
+There are many opportunities to practice and learn the language in Sendai. Please seek them out! Read [this page](../lifeinjapan/language.md) for a suggested plan to learn this language.
+
 ## Local Church
 
 Though we as YWAMers worship together and function as the Body of Christ, we expect that all staff will pursue relationship with local Japanese believers and get stuck into the places where they are worshipping and being church. Whether they enjoy singing ancient hymns or contemporary songs, we desire to love and serve and be a refreshment and encouragement to God's people here in Sendai.
+
+## Time Away
+
+### Sabbath
+
+All staff are encouraged to take one full day off per week. This is usually Saturday or Monday, with Sunday being a day to pour into local believers.
+
+### Holidays
+
+As much as possible, we aim to take all Japanese national holidays off. This may not always be the case, especially during the running of schools. In this case, time off will be given after the school has graduated.
+
+On top of these holidays, all staff are encouraged to take another 10 weekdays off each year. Time off should be discussed with the YWAM Sendai leaders.
+
+### Furlough / Home Assignment
+
+It is important to communicate well with family, friends and supporters. As part of investing in these relationships, as well as for fundraising, it is important to travel back to the sending country periodically. This is different than a holiday as it requires intentionality and sharing about Japan with churches and individuals.
+
+We recommend that all staff consider travelling to their sending country for between one to two months every two years.
+
+Please discuss this with the YWAM Sendai leaders ahead of time.
