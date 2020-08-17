@@ -39,16 +39,7 @@ Please find below a list of what we need from you in order to begin the process 
 
 * Letter of Release
 
-Please send all documents to the following address:
-
-Gary Seddon
-Grandor Hirose 603,
-5-3-10 Ayashichuo,
-Aoba-ku, Sendai-shi,
-Miyagi-ken, 989-3128
-JAPAN
-
-Please also scan and send all documents to people@ywamsendai.org
+Please send all printed documents to the given mailing address, and email scanned copies to people@ywamsendai.org
 
 **Notes:**
 
