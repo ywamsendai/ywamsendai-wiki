@@ -26,6 +26,6 @@ Above all, you should come ready to pursue God in prayer and worship and be comm
 
 * Stage 3: If you pass both stages, you will then start [fundraising](fundraising.md)! You will find info on how much to raise on the [finances page](finances.md). This is also a good time to get stuck into [language study](../lifeinjapan/language.md) if you haven't already.
 
-* Once you have reached at least the Minimum Support Level of financial support, you will pass this stage and we will start the visa process! **Note: the visa process has been affected due to COVID-19. This will be different depending on your current country of residence.**
+* Once you have reached at least the Minimum Support Level of financial support, you will pass this stage and we will start the [visa process](visa.md)! **Note: the visa process has been affected due to COVID-19. This will be different depending on your current country of residence.**
 
 You will be guided through this process and can ask questions anytime!
