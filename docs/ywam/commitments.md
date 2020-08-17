@@ -2,29 +2,44 @@
 
 For those that commit to join us as full-time staff, we have the following commitments and expectations.
 
-## Be a YWAMer!
+## Be a YWAMer
 
-To join our team, you would have had to have completed a DTS. Our expectation is that you will not only know what YWAM is about, but you will live it. You will pursue God and people as set out in our [YWAM Purpose, Beliefs & Values](values.md).
+### DTS
 
-We ask all of our team members, new and old, to refresh themselves regularly on what it means to be a YWAMer.
+It is necessary to have completed a YWAM DTS in order be a YWAM staff.
 
-## Be a Jesus-Follower!
+### YWAM Purpose, Beliefs & Values
 
-Our expectation is that each of our staff will have an active, ongoing spiritual life which inspires and challenges other members of the team and the local Japanese people. This includes investing in your relationship with God by keeping spiritual disciplines such as regular prayer, Bible study, and worship. Also to wholeheartedly participate in our corporate times of worship, prayer, and intercession.
+It is also important to make a commitment to the [YWAM Purpose, Beliefs & Values](values.md). All staff are expected to not only know what YWAM is about, but also live it. We ask all of staff, new and old, to refresh themselves regularly on what it means to be a YWAMer.
+
+### YWAM International & Japan
+
+All staff are expected to commit to the wellbeing of the whole YWAM family, both through prayer and through attending gatherings. This includes YWAM International and YWAM Japan.
+
+## Personal Relationship with God
+
+All staff are expected to have an active, ongoing spiritual life which inspires and challenges other staff and the local Japanese people. This means investing in one's personal relationship with God by keeping spiritual disciplines such as regular prayer, Bible study, and worship. Also to wholeheartedly participate in our corporate times of worship, prayer, and intercession.
 
 Of course, things aren't always rosy, so we encourage everyone to be real and honest about how they are doing spiritually also, reaching out for prayer.
 
-## Be Part of the Team!
+## Time
 
-All of us here at YWAM Sendai are called by God not just as individuals, but to be part of a team. Each of us are to contribute to building and being a part of a strong YWAM Sendai team. This means pursuing to love and champion each other wholeheartedly, trusting each other. Of course, we are humans. Sometimes humans disagree! A strong team doesn't back away from such disagreements, but engages in healthy, productive conflict. This can only happen when we trust each other.
+All staff must make a commitment to attend all scheduled [weekly meetings](ywamsendailife.md). On top of this, our expectation is that each of our staff manage their time well, giving around 35 hours per week to “work” (not including meals, personal time with God, personal skill development/hobbies, fellowship with each other etc.). What would this look like?
 
-Being part of a team also means being committed to serving wholeheartedly the vision and goals of YWAM Sendai (prioritizing team schedule, being quick to help out etc.). We choose to hold each other accountable and call each other higher when necessary (pointing to these expectations when necessary!).
+Category | Hours per Week | Description
+--------- | --------- | ---------
+**YWAM Sendai Functioning** | 7 hours (20% of time) | All scheduled meetings, weekly worship and training, weekly intercession, role-related work, etc.
+**Ministry** | 28 hours (80% of time) | Event prep, kokubuncho, DTS/school prep, meeting Japanese people, prayer walking, evangelism, language study (no more than 14 hours) etc.
 
-As we all live in separate homes, we need to communicate well both in person and online. We need to aim to over-communicate, rather than under-communicate. Especially as our community grows (and pioneer new communities!). We have a document to show you how to be in your [Element](tools.md) with us! ;)
+**Note on Language Study:** For all new non-Japanese speaking staff, up to 50% of ministry time can be spent studying the Japanese language for the first year in Japan – leaving at least 14 hours for ministry. Language study will continue to be important moving forward, but will depend on the level of comprehension.
 
-## Be Japanese!
+## Communication
 
-Joining our team means God brought you to Japan in order to love the Japanese people. In order to do this, you will need to both speak to and listen to people's hearts. If you don't know the language or the culture, your ability to love (to communicate) is severely handicapped! Our expectation is that you will develop a passion to learn this culture and language, and to keep learning even when it gets tough. Its worth it! You can do it!
+As we all live in separate homes, we need to communicate well both in person and online. We need to aim to over-communicate, rather than under-communicate. Especially as our community grows (and pioneer new communities!). All staff are expected to be active and attentive to all communication done over [Element](tools.md).
+
+## Japanese Language & Culture
+
+Joining our team means God brought you to Japan in order to love the Japanese people. In order to do this, you will need to both speak to and listen to people's hearts. All staff are expected to develop a passion to learn Japanese culture and language, and to keep learning even when it gets tough.
 
 One good way to learn is to pursue opportunities to be immersed in Japanese-only settings (e.g. church). This can be difficult, especially at the beginning--but it is worth it! Also, food is a huge part of Japanese culture. We encourage our staff to try everything at least twice (even if you're not too sure!) and cook Japanese food at home and as a community. This attitude will speak volumes!
 
@@ -32,30 +47,16 @@ Learning this language requires discipline and good strategy. We encourage each 
 
 There are many opportunities to practice and learn the language in Sendai. Please seek them out! Read [this page](../lifeinjapan/language.md) for a suggested plan to learn this language.
 
-## Be Part of the Body!
+## Money
 
-We are the Body of Christ. This is true. We want YWAM Sendai to live like the Bible, without hinderance. We will worship, pray, eat, minister, work, laugh, intercede, love, sing, cry, study.. together! After all, we are the Church, right?
+All staff are required to raise a minimum amount of monthly support in order to join us. You can find this information [here](finances.md).
 
-That being said, it is our expectation that all of our team members will pursue relationship with local Japanese believers and get stuck into the places where they are worshipping and being church. And we shouldn't get hung up on style. Whether they enjoy singing ancient hymns or contemporary songs, we are to love and serve. And let us model how we think Church should be, and maybe we will be a refreshment and encouragement to God's people here in Sendai.
+We require this amount as each staff member is responsible to make all required monthly payments in order to live here: rent, utilities, phone bills, health insurance, etc. YWAM Sendai is not responsible for your finances, so missed payments could mean penalty fees, jail time, or even deportation.
 
-## Be Wise with Time!
+All staff are also required to make staff fee payments each month, currently set to ¥6,000. YWAM Sendai does not have its own income and relies on this in order to function. Again, you can read [this page to find out what its used for](finances.md).
 
-Our expectation is that each of our staff manage their time well, having an attitude of working as hard as those supporting us to be here, giving around 35 hours per week to “work” (not including meals, personal time with God, personal skill development/hobbies, fellowship with each other etc.). What would this look like?
+There is always need for ongoing [fundraising](fundraising.md). This is due to a combination of rising living expenses here, as well as decreased financial support over time. It is vital to communicate regularly to supporters and churches, both for prayer support and for financial support. It is also important to make trips to visit supporters and churches around once every two years for a month or two in order to renew connections with supporters, churches, family and friends.
 
-Category | Hours per Week | Description
---------- | --------- | ---------
-**YWAM Sendai Functioning** | 7 hours (20% of time) | All scheduled meetings, weekly worship and training, weekly intercession, role-related work, etc.
-**Ministry** | 28 hours (80% of time) | Event prep, kokubuncho, DTS/school prep, meeting Japanese people, prayer walking, evangelism, etc.
-**Language Study** | Up to 14 hours (50% of ministry) | For all new non-Japanese speaking staff: up to 50% of ministry time studying the Japanese language for around 1 year – leaving at least 14 hours for ministry. (This does not apply to those here short-term or those looking to transition out of YWAM Japan.)
+## Local Church
 
-## Be Wise with Money!
-
-Money. お金 (O-kane). You can think of it as a necessary evil. Or you can think of it as a blessing. Lets treat it as a blessing from God and use it generously and wisely. Not everyone knows how to use money. Its a skill! Our expectation is that you will learn how to budget and record your finances well and with integrity. This can actually help you be more generous!
-
-As we want to be a blessing in Japan (and generally just be good people), we expect that each staff member makes sure to make all required monthly payments: rent, utilities, phone bills, health insurance, etc. YWAM Sendai is not responsible for your finances, so missed payments could mean penalty fees, jail time, or even deportation.
-
-While trusting in God alone for our needs, we believe it is good stewardship of his resources to prepare for various unforeseen expenses. These include personal emergency, disaster relief, outreach, YWAM conferences (usually one each year), medical expenses, flights home, childcare & education, clothing, new electronic devices, taxes and pension (phew!).
-
-We also ask all of our team members to make a monthly contribution to our community. Don't worry, its not filling the base leader's pockets. YWAM Sendai does not have its own income and relies on these monthly donations in order to function. Please read [this page to find out what its used for](finances.md).
-
-There is always need for ongoing fundraising. This is a combination of the rise of living expenses here, as well as support being dropped back home. It is vital to communicate regularly to supporters and churches, both for prayer support and for financial support. It is also important to make trips to visit supporters and churches around once every two years for a month or two in order to renew connections with supporters, churches, family and friends.
+Though we as YWAMers worship together and function as the Body of Christ, we expect that all staff will pursue relationship with local Japanese believers and get stuck into the places where they are worshipping and being church. Whether they enjoy singing ancient hymns or contemporary songs, we desire to love and serve and be a refreshment and encouragement to God's people here in Sendai.
