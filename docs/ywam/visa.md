@@ -10,9 +10,11 @@ Let us know if you have any questions about anything on this page, and please st
 
 * Inform us that you have reached at least the [Minimum Support Level](finances.md) of financial support and would like to begin this process
 
+* We will send you a **Visa Application** form that will help us apply for your Certificate of Eligibility (CoE)
+
 * You send us all required documents via **both** email and physical mail (detailed below).
 
-* We then apply for a Certificate of Eligibility (CoE) from Japanese Immigration once we receive your documents (can take 6 to 12 weeks).
+* We then apply for a CoE from Japanese Immigration once we receive your documents (can take 6 to 12 weeks).
 
 * We will send you the CoE once we receive it.
 

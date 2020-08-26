@@ -16,16 +16,16 @@ Above all, you should come ready to pursue God in prayer and worship and be comm
 
 * You will have had to have completed a YWAM DTS somewhere in the world to start the application process.
 
-* Stage 1: We will send you an application form. Once you complete this, we will send character reference forms to three people that know you.
+* We will send you a **Staff Application** form. Once you complete this, we will send **Character Reference** forms to three people that know you.
 
 * Once we have received the references, we will pray and discuss as a team about whether we feel this is where God wants you to be.
 
-* Stage 2: If we feel peace about moving forward, we will send you visa, medical, and criminal record check forms. Only the YWAM Sendai leaders will have access to this information.
+* If we feel peace about moving forward, we will send you a **Medical and Criminal Background Check** form. Only the YWAM Sendai leaders will have access to this information.
 
-* Once we have received these completed forms, the leaders will pray and discuss whether now is the right time for you to join us in Japan, or if there is anything else you should do before coming.
+* Once we have received this completed form, the leaders will pray and discuss whether now is the right time for you to join us in Japan, or if there is anything else you should do before coming.
 
-* Stage 3: If you pass both stages, you will then start [fundraising](fundraising.md)! You will find info on how much to raise on the [finances page](finances.md). This is also a good time to get stuck into [language study](../lifeinjapan/language.md) if you haven't already.
+* If the leaders clear you to join us, you will then start [fundraising](fundraising.md)! You will find info on how much to raise on the [finances page](finances.md). This is also a good time to get stuck into [language study](../lifeinjapan/language.md) if you haven't already.
 
-* Once you have reached at least the Minimum Support Level of financial support, you will pass this stage and we will start the [visa process](visa.md)! **Note: the visa process has been affected due to COVID-19. This will be different depending on your current country of residence.**
+* Once you have reached at least the Minimum Support Level of financial support, we will start the [visa process](visa.md)! **Note: the visa process has been affected due to COVID-19. This will be different depending on your current country of residence.**
 
 You will be guided through this process and can ask questions anytime!
