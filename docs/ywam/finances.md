@@ -106,6 +106,6 @@ As you will likely be on a Religious Workers Visa, there are rules about making 
 
 You are permitted to earn money if the purpose is related to religious activities. For example, if a church pays you to teach English or make a website for them.
 
-If you wanted to earn supplimentary income while in Japan by other means unrelated to your missionary work, you must apply for a specific work permit. Though this would only be for work that does not take away your time or focus from your missionary activities.
+If you wanted to earn supplementary income while in Japan by other means unrelated to your missionary work, you must apply for a specific work permit. Though this would only be for work that does not take away your time or focus from your missionary activities.
 
 That's the legal side! Regardless, we expect that all of our team members will be fully supported financially to be in Japan. If you would like to apply for a work permit while in Japan, please discuss this with Gary & Naoko.
