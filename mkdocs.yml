@@ -24,7 +24,7 @@ theme:
   language: en
   features:
     - tabs
-    #- instant
+    - instant
   palette:
     primary: green
     accent: green
@@ -109,7 +109,6 @@ nav:
         - Visa: 'ywam/visa.md'
         - Tools: 'ywam/tools.md'
         - Donate: 'ywam/donate.md'
-        - Tools: 'ywam/tools.md'
         - Terms: 'ywam/terms.md'
     - Life in Japan:
         - Culture: 'lifeinjapan/culture.md'

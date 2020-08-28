@@ -8,7 +8,7 @@ For more information on who we are, please visit our website: [ywamsendai.org](h
 
 ## What is Christianity like in North-East Japan?
 
-The Japanese are one of the largest unreached people groups in the world. In North-East Japan, or Tohoku, there are many areas with no churches, missionaries, or Christians. To find out more, [see here](/ywam/whyjapan.md).
+The Japanese are one of the largest unreached people groups in the world. In North-East Japan, or Tohoku, there are many areas with no churches, missionaries, or Christians. To find out more, [see here](/ywam/whyjapan).
 
 ## Enter: YWAM Sendai!
 
