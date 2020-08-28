@@ -1,6 +1,6 @@
 # Being a YWAM Sendai Staff
 
-For those that commit to join us as full-time staff, we have the following commitments and expectations.
+This page details the commitments and expectations we have for **all full-time YWAM Sendai Staff**.
 
 ## Be a YWAMer
 
@@ -35,7 +35,7 @@ Category | Hours per Week | Description
 
 ## Communication
 
-As we all live in separate homes, we need to communicate well both in person and online. We need to aim to over-communicate, rather than under-communicate. Especially as our community grows (and pioneer new communities!). All staff are expected to be active and attentive to all communication done over [Element](tools.md).
+As we all live in separate homes, we need to communicate well both in person and online. We need to aim to over-communicate, rather than under-communicate. Especially as our community grows (and pioneer new communities!). All staff are expected to be active and attentive to all communication done over [Matrix](tools.md).
 
 ## Money
 
@@ -60,23 +60,3 @@ There are many opportunities to practice and learn the language in Sendai. Pleas
 ## Local Church
 
 Though we as YWAMers worship together and function as the Body of Christ, we expect that all staff will pursue relationship with local Japanese believers and get stuck into the places where they are worshipping and being church. Whether they enjoy singing ancient hymns or contemporary songs, we desire to love and serve and be a refreshment and encouragement to God's people here in Sendai.
-
-## Time Away
-
-### Sabbath
-
-All staff are encouraged to take one full day off per week. This is usually Saturday or Monday, with Sunday being a day to pour into local believers.
-
-### Holidays
-
-As much as possible, we aim to take all Japanese national holidays off. This may not always be the case, especially during the running of schools. In this case, time off will be given after the school has graduated.
-
-On top of these holidays, all staff are encouraged to take another 10 weekdays off each year. Time off should be discussed with the YWAM Sendai leaders.
-
-### Furlough / Home Assignment
-
-It is important to communicate well with family, friends and supporters. As part of investing in these relationships, as well as for fundraising, it is important to travel back to the sending country periodically. This is different than a holiday as it requires intentionality and sharing about Japan with churches and individuals.
-
-We recommend that all staff consider travelling to their sending country for between one to two months every two years.
-
-Please discuss this with the YWAM Sendai leaders ahead of time.

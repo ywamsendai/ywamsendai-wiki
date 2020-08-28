@@ -1,6 +1,6 @@
 # Religious Worker Visa
 
-Part of the [process to join as YWAM Sendai staff](join.md) as a non-Japanese national is to receive a visa from Japanese Immigration. YWAM Japan assists all YWAMers accepted as staff in Japan with applying for the Religious Worker visa. This page details this process. **Please follow this process carefully.**
+If you do not yet have residency permission to live in Japan, part of your [process to join as YWAM Sendai staff](join.md) is to receive a visa from Japanese Immigration. YWAM Japan assists all YWAMers accepted as staff in Japan with applying for the Religious Worker visa. This page details this process. **Please follow this process carefully.**
 
 Let us know if you have any questions about anything on this page, and please stay in touch with us throughout the process so we know how you are doing. We are looking forward to your arrival and being part of your journey in discovering your call to Japan!
 
@@ -48,3 +48,5 @@ Please send all printed documents to the given mailing address, and email scanne
 * If any of these documents are in another language other than English or Japanese, please provide a translation of everything written on the document into English or Japanese for us.
 
 * The second Church letter states that your church provides financial support of you during your time in Japan. This assurance is very important to the Immigration Department, who would be concerned that immigrants become stranded or destitute while in Japan. It isn’t that your church must technically promise to support your every need, because your missionary support will most likely come from many supporters. But in the spirit of the law, if one organisation will officially vouch for you, the Japanese Government will be more comfortable to grant the visa. YWAM Japan must also vouch for you in this way. This letter is **not** a legally binding document requiring your church to meet your every need. Each missionary to Japan needs a church to stand with him officially, but in reality we understand that God is our source. We will provide a letter you can give to your pastor to explain this. If your church is extremely uncomfortable with this, please let us know and we can try an alternate wording.
+
+Updated: 2020-08-27
