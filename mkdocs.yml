@@ -16,6 +16,10 @@ copyright: Copyright &copy; 2020 YWAM Sendai
 theme:
   name: material
 
+    # 404 page
+  static_templates:
+    - 404.html
+
   # Don't include MkDocs' JavaScript
   include_search_page: false
   search_index_only: true
@@ -24,7 +28,7 @@ theme:
   language: en
   features:
     - tabs
-    - instant
+    #- instant
   palette:
     primary: green
     accent: green
@@ -59,14 +63,13 @@ extra:
 markdown_extensions:
   - markdown.extensions.admonition
   - markdown.extensions.attr_list
-  - markdown.extensions.codehilite:
-      guess_lang: false
   - markdown.extensions.def_list
   - markdown.extensions.footnotes
   - markdown.extensions.meta
   - markdown.extensions.toc:
       permalink: true
-  - pymdownx.arithmatex
+  - pymdownx.arithmatex:
+      generic: true
   - pymdownx.betterem:
       smart_enable: all
   - pymdownx.caret
@@ -75,8 +78,7 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
-  # - pymdownx.highlight:
-  #     linenums_style: pymdownx-inline
+  - pymdownx.highlight
   - pymdownx.inlinehilite
   - pymdownx.keys
   - pymdownx.magiclink:
@@ -95,27 +97,27 @@ markdown_extensions:
 
 # Page tree
 nav:
-    - Welcome: 'index.md'
+    - Welcome: index.md
     - YWAM:
-        - Why Japan?: 'ywam/whyjapan.md'
-        - About YWAM International: 'ywam/ywam.md'
-        - Purpose, Beliefs & Values: 'ywam/values.md'
-        - About YWAM Sendai: 'ywam/ywamsendai.md'
-        - Life in YWAM Sendai: 'ywam/ywamsendailife.md'
-        - Staff Expectations: 'ywam/commitments.md'
-        - Join: 'ywam/join.md'
-        - Finances: 'ywam/finances.md'
-        - Fundraising: 'ywam/fundraising.md'
-        - Visa: 'ywam/visa.md'
-        - Tools: 'ywam/tools.md'
-        - Donate: 'ywam/donate.md'
-        - Terms: 'ywam/terms.md'
+        - Why Japan?: ywam/whyjapan.md
+        - About YWAM International: ywam/ywam.md
+        - Purpose, Beliefs & Values: ywam/values.md
+        - About YWAM Sendai: ywam/ywamsendai.md
+        - Life in YWAM Sendai: ywam/ywamsendailife.md
+        - Staff Expectations: ywam/commitments.md
+        - Join: ywam/join.md
+        - Finances: ywam/finances.md
+        - Fundraising: ywam/fundraising.md
+        - Visa: ywam/visa.md
+        - Tools: ywam/tools.md
+        - Donate: ywam/donate.md
+        - Terms: ywam/terms.md
     - Life in Japan:
-        - Culture: 'lifeinjapan/culture.md'
-        - Language: 'lifeinjapan/language.md'
-        - Getting Settled: 'lifeinjapan/gettingsettled.md'
-        - Disaster Preparation: 'lifeinjapan/disaster.md'
-        - Phones: 'lifeinjapan/phones.md'
+        - Culture: lifeinjapan/culture.md
+        - Language: lifeinjapan/language.md
+        - Getting Settled: lifeinjapan/gettingsettled.md
+        - Disaster Preparation: lifeinjapan/disaster.md
+        - Phones: lifeinjapan/phones.md
 
 
 # Google Analytics
