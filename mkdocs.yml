@@ -99,20 +99,21 @@ markdown_extensions:
 nav:
     - Welcome: index.md
     - YWAM:
-        - Why Japan?: ywam/whyjapan.md
         - About YWAM International: ywam/ywam.md
         - Purpose, Beliefs & Values: ywam/values.md
         - Legacy Words & Covenants : ywam/covenants.md
         - About YWAM Sendai: ywam/ywamsendai.md
+        - Why Japan?: ywam/whyjapan.md
         - Life in YWAM Sendai: ywam/ywamsendailife.md
+        - Tools: ywam/tools.md
+        - Donate: ywam/donate.md
+    - Join Us:
+        - Onboarding Process: ywam/join.md
         - Staff Expectations: ywam/commitments.md
-        - Join: ywam/join.md
+        - Staff Terms & Conditions: ywam/terms.md
         - Finances: ywam/finances.md
         - Fundraising: ywam/fundraising.md
         - Visa: ywam/visa.md
-        - Tools: ywam/tools.md
-        - Donate: ywam/donate.md
-        - Terms: ywam/terms.md
     - Life in Japan:
         - Culture: lifeinjapan/culture.md
         - Language: lifeinjapan/language.md
