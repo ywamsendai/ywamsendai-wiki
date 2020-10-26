@@ -30,16 +30,11 @@ Let us know if you have any questions about anything on this page, and please st
 
 Please find below a list of what we need from you in order to begin the process of applying for your CoE.
 
-* Copy of your passport - COVER PAGE ONLY (the copy must be clear and all information legible)
+* Copy of your passport PHOTO PAGE (the copy must be clear and all information legible)
 
-* A 4cm x 3cm photograph (Photos should be clear, with a plain background and recently taken. Applicant in photo should be facing forward, without sunglasses, hats, etc.)
+* A 4cm x 3cm portrait photograph (should be clear, with a plain background, and recently taken. Applicant in photo should be facing forward, without sunglasses, hats, etc.)
 
-* Two original, signed letters on church stationary, NOT COPIES, from your sending church.
-(We will send you the template documents and you can ask your church to copy and paste the text of the correct wording into each letter and fill in the necessary information, such as your name, your church name, and your pastor’s signature, into the relevant blank spaces. We standardised the wording to simplify the process because each of the letters must contain certain information and specific wording.)
-
-* Letter of Dispatch
-
-* Letter of Release
+* Two original, signed letters on church stationary, NOT COPIES, from your sending church: [Letter of Dispatch and Letter of Release](https://docs.google.com/document/d/1lxulVT3zbsav8C8czrh-0BKM7FlXP-ekxYtn7zQK67g/edit?usp=sharing)
 
 Please send all printed documents to the given mailing address, and email scanned copies to people@ywamsendai.org
 
@@ -47,6 +42,8 @@ Please send all printed documents to the given mailing address, and email scanne
 
 * If any of these documents are in another language other than English or Japanese, please provide a translation of everything written on the document into English or Japanese for us.
 
-* The second Church letter states that your church provides financial support of you during your time in Japan. This assurance is very important to the Immigration Department, who would be concerned that immigrants become stranded or destitute while in Japan. It isn’t that your church must technically promise to support your every need, because your missionary support will most likely come from many supporters. But in the spirit of the law, if one organisation will officially vouch for you, the Japanese Government will be more comfortable to grant the visa. YWAM Japan must also vouch for you in this way. This letter is **not** a legally binding document requiring your church to meet your every need. Each missionary to Japan needs a church to stand with him officially, but in reality we understand that God is our source. We will provide a letter you can give to your pastor to explain this. If your church is extremely uncomfortable with this, please let us know and we can try an alternate wording.
+* We will send you template documents for the church letters and you can ask your church to copy and paste the text of the correct wording into each letter and fill in the necessary information, such as your name, your church name, and your pastor’s signature, into the relevant blank spaces. We standardised the wording to simplify the process because each of the letters must contain certain information and specific wording.
 
-Updated: 2020-08-27
+* The second church letter states that your sending church or organisation provides financial support of you during your time in Japan. This assurance is very important for Japanese Immigration, who would be concerned that immigrants become stranded or destitute while in Japan. It isn’t that your church must technically promise to support your every need, because your missionary support will most likely come from many supporters. But in the spirit of the law, if one organisation will officially vouch for you, Japanese Immigration will be more comfortable to grant the visa. YWAM Japan must also vouch for you in this way. **This letter is not a legally binding document requiring your church to meet your every need.** You can give [this letter](https://docs.google.com/document/d/1KKXTho_OyYNvdtzujvbaIqfp9yFA8uI2LY-5PyZIj2o/edit?usp=sharing) to the church or organisation leader to help explain this. If they are extremely uncomfortable with this, please let us know and we can try an alternate wording.
+
+Updated: 2020-10-26
