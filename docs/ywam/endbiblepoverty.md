@@ -29,3 +29,7 @@ The Bible can be read in Japanese for free on [YouVersion](https://www.bible.com
 ## Japanese Drama Bible
 
 A dramatised audio Bible app called [聴くドラマ聖書](https://graceandmercy.or.jp/app/) can be downloaded from most smartphone app stores.
+
+## Bible Project
+
+The [Bible Project](https://bibleproject.com/japanese/) goes deep into Bible truths in a clear and understandable way using video, and some of their content is now in Japanese!
