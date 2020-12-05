@@ -6,9 +6,17 @@ We always aim to streamline processes and transfer between tools if it increases
 
 ##Chat
 
-The YWAM Sendai community mainly communicates through the [Matrix](https://matrix.org/) protocol--an open network for secure, decentralized communication.
+The backbone of YWAM Sendai communication is the [Matrix](https://matrix.org/) protocol--an open network for secure, decentralized communication.
 
-While there are [multiple apps](https://matrix.to/#/#ywamsendai:matrix.org) you can use in order to connect to Matrix, we mostly use the open-source Element: [https://app.element.io/#/group/+ywamsendai:matrix.org](https://app.element.io/#/group/+ywamsendai:matrix.org)
+We have installed bridges from all of our rooms on Matrix to Discord. Our main public room is also bridged to Telegram.
+
+To connect with our community, you can use one of the following apps:
+
+* [Discord](https://discord.gg/djmCF4DBaV)
+* [Element](https://app.element.io/#/group/+ywamsendai:matrix.org) (Native Matrix app)
+* [Telegram](https://t.me/joinchat/O4PX5BsUYLG64lCazgT8Ng) (Main public room only)
+
+If you are joining us as staff, please use either Discord or Element.
 
 ###Element tutorial for YWAM Sendai community members
 
