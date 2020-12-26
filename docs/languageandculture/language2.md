@@ -142,36 +142,6 @@ Here, we will outline an action plan for progressing in your grammar studies. No
 
 You now have a solid foundation! You should now be ready to find resources independently. In terms of grammar, try to move on to the next stage (immersion).
 
-### b. Intermediate Study & Review
-
-### Structured Study Resources (Optional)
-
-**This is totally optional. Don't use these before you have attempted to study via immersion! If you feel you *have* been making progress, check out the Review Resources below instead.**
-
-If you have begun to study using native content and you're hitting a wall, here are some textbooks that will give you more structure. Like with Genki/Minna no Nihongo, work through one grammar point per day.
-
-1. First, there is [An Integrated Approach to Intermediate Japanese](http://ij.japantimes.co.jp/en/about.jsp). This is commonly thought of as "Genki III".
-
-2. If you still need more structured learning, you can then pick up [Tobira: Gateway to Advanced Japanese](https://www.9640.jp/nihongo/en/detail/?447).
-
-### Review Resources
-
-Once you have been immersing for a while and you feel like you have made some progress, it is good to review to find any holes you have in your grammar and vocab.
-
-Just like we have outlined at the end of the beginner grammar section, we recommend working through the following books, in order. This review should take less than 20 minutes per day. If this becomes too difficult, that is an indication you need to study some more either via immersion or the structured resources outlined above. You can also find other JLPT review books by other companies too.
-
-1. Work through the [新完全マスター文法 日本語能力試験Ｎ３](https://www.3anet.co.jp/np/books/3604/) grammar review book.
-
-2. Once you finish, work through the [新完全マスター読解 日本語能力試験Ｎ３](https://www.3anet.co.jp/np/books/3614/) reading comprehension book.
-
-3. When you feel ready, work through the [新完全マスター文法 日本語能力試験Ｎ２](https://www.3anet.co.jp/np/books/3602/) grammar review book.
-
-4. Once you finish, work through the [新完全マスター読解 日本語能力試験Ｎ２](https://www.3anet.co.jp/np/books/3612/) reading comprehension book.
-
-5. Though you are already at a good level of comprehension, you may wish to review further by working through the [新完全マスター文法 日本語能力試験Ｎ１](https://www.3anet.co.jp/np/books/3600/) grammar review book.
-
-6. Once you finish, work through the [新完全マスター読解 日本語能力試験Ｎ１](https://www.3anet.co.jp/np/books/3610/) reading comprehension book.
-
 ## 5. Vocab
 
 * **When to start:** After around 1 week of learning grammar
