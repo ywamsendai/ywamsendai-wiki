@@ -17,7 +17,9 @@ Here are some places to find easier to read native content:
 
 [NHK Easy News](https://www3.nhk.or.jp/news/easy/) |  [Matcha](https://matcha-jp.com/easy) | [Watanoc](http://watanoc.com/) | [Satori Reader](https://www.satorireader.com/) | [LingQ’s Mini Stories](https://www.lingq.com/en/learn-japanese-online/courses/411402/) | [Other NHK](https://www3.nhk.or.jp/nhkworld/en/learnjapanese/)
 
-It would also be good to start becoming familiar with a Japanese translation of the Bible. One of the most common translations is the [新改訳聖書](https://www.seisho.or.jp/) (New Japanese Bible). Look up familiar passages and see what you can understand!
+You can also find graded readers that have been written for adults that are learning Japanese. You can find a compilation of free stories [here](https://drive.google.com/file/d/1zgLLtceaQTR0hF8KxE2eiCYNkV0eCrZX/view). The idea is to just read from the beginning and it will gradually get more difficult. Don't stop to look up words in a dictionary. Instead, let your brain learn simply by context (there are pictures!).
+
+It would also be good to start becoming familiar with a Japanese translation of the Bible. A good translation with easy to read modern Japanese is the [リビングバイブル](https://www.bible.com/ja/bible/83/MAT.1.JCB) (Japanese Contemporary Bible). Look up familiar passages and see what you can understand!
 
 ### b. Listening
 
@@ -27,7 +29,7 @@ Here are some resources you can use to advance your listening capability.
 
 ## 2. Output
 
-Its time to output what you have been learning and inputting! Here are some areas that will help you to do this more naturually:
+Its time to output what you have been learning and inputting! Here are some areas that will help you to do this more naturally:
 
 ### Mouthwork
 
