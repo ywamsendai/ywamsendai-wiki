@@ -35,7 +35,7 @@ Category | Hours per Week | Description
 
 ## Communication
 
-As we all live in separate homes, we need to communicate well both in person and online. We need to aim to over-communicate, rather than under-communicate. Especially as our community grows (and pioneer new communities!). All staff are expected to be active and attentive to all communication done over [Matrix](tools.md).
+As we all live in separate homes, we need to communicate well both in person and online. We need to aim to over-communicate, rather than under-communicate. Especially as our community grows (and pioneer new communities!). All staff are expected to be active and attentive to all communication done over [Discord](tools.md).
 
 ## Money
 
@@ -55,7 +55,7 @@ One good way to learn is to pursue opportunities to be immersed in Japanese-only
 
 Learning this language requires discipline and good strategy. We encourage each staff to set achievable goals in language study and to stick to a study schedule. We are in this together, so we ask everyone to keep each other accountable. As we want to become a bilingual YWAM base, we also challenge each other to speak in Japanese together. A great way to practice (and stay humble!).
 
-There are many opportunities to practice and learn the language in Sendai. Please seek them out! Read [this page](../lifeinjapan/language.md) for a suggested plan to learn this language.
+There are many opportunities to practice and learn the language in Sendai. Please seek them out! Read [this page](../languageandculture/language.md) for a suggested plan to learn this language.
 
 ## Local Church
 

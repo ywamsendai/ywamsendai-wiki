@@ -116,13 +116,15 @@ nav:
         - Fundraising: ywam/fundraising.md
         - Visa: ywam/visa.md
     - Life in Japan:
-        - Culture: lifeinjapan/culture.md
-        - Language: lifeinjapan/language.md
         - Getting Settled: lifeinjapan/gettingsettled.md
         - Disaster Preparation: lifeinjapan/disaster.md
         - Phones: lifeinjapan/phones.md
         - Waste System: lifeinjapan/waste.md
-
+    - Language and Culture:
+        - Culture: languageandculture/culture.md
+        - Language Introduction: languageandculture/language.md
+        - Language Stage 1 (Beginner): languageandculture/language2.md
+        - Language Stage 2 (Intermediate): languageandculture/language3.md
 
 # Google Analytics
 google_analytics: ['UA-20132770-5', 'wiki.ywamsendai.org']

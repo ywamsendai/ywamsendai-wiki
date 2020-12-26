@@ -1,6 +1,6 @@
 # Japanese Culture
 
-Whether this is your first time to Japan, or you have lived here for a while, it is always good to keep in mind some aspects of Japanese culture so we can better love and serve the Japanese people. Actions definitely speak loader than words in Japan. Below you will find a few cultural pointers for your life in Japan.
+We encourage all of our staff to take special care to observe life in Japan in order to learn about Japanese culture, and to apply the Japanese way of life to our own lives. Though we expect each staff member to learn these things intentionally first-hand, we have compiled a list of some things to be aware of. It is as important to learn Japanese culture as it is to learn the language. But don't take yourself too seriously in the process! You will make mistakes! But the Japanese will be encouraged by your efforts to learn.
 
 ## Reading the Air
 
@@ -10,7 +10,7 @@ There is a slang term in Japanese called 空気読めない or KY. This literall
 
 As you do not know all of the social customs when you first come to Japan, remember one thing: read the air. That is, pay attention to what others are doing. Or more importantly, what are they not doing? For example, is everyone quiet on the train? Then be quiet. If you can learn to do this in any and every situation, this will help you to not get into awkward situations (as much as possible anyway..), and you will find that Japanese people will generally fell more comfortable around you too.
 
-Of course, sometimes God may lead you to talk to someone randomly on the street, or to pray for someone. This is KY, and you should do that! But when not lead by God, read the air. The heart behind this, for our purposes, is to love, respect and serve the Japanese. 
+Of course, sometimes God may lead you to talk to someone randomly on the street, or to pray for someone. This is KY, and you should do that! But when not lead by God, read the air. The heart behind this, for our purposes, is to love, respect and serve the Japanese.
 
 ## Greeting
 
@@ -18,7 +18,7 @@ Of course, sometimes God may lead you to talk to someone randomly on the street,
 
 You will notice that people in Japan bow a lot! This is a way of saying thanks, sorry, hello, goodbye, and welcome, without using words. As a rule of thumb, if someone bows to you, copy them.
 
-As a side note: if you are foreign, it is okay to shake hands with people! Just don't do this instead of bowing, but rather as a compliment, in some occasions. Also, it is probably wise to never initiate a hug. People don't really physically touch each other, unless really close friends. Hugging someone will likely make the person feel uncomfortable. This is especially important to keep in mind for the opposite gender. 
+As a side note: if you are foreign, it is okay to shake hands with people! Just don't do this instead of bowing, but rather as a compliment, in some occasions. Also, it is probably wise to never initiate a hug. People don't really physically touch each other, unless really close friends. Hugging someone will likely make the person feel uncomfortable. This is especially important to keep in mind for the opposite gender.
 
 ### Gift Giving
 
@@ -119,3 +119,5 @@ There are a few set words that everyone says in Japan at meal times:
 ### Public Behaviour
 
 Coming soon!
+
+Updated: 2020-12-26
