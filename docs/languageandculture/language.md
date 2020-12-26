@@ -4,11 +4,11 @@ As we want to reach the Japanese people with the gospel and speak heart-to-heart
 
 Your first decision when it comes to learning the language will be what approach or method to use. There are many approaches out there, but they will roughly fall into the following categories:
 
-| Category | Level of self-motivation | Cost | Examples |
-| --- | --- | --- |
-| Self study | High | Low | Mass Immersion, LAMP |
-| Guided self study | Medium | Medium | GPA |
-| Directed study | Low | High | School |
+Category | Level of self-motivation | Cost | Examples
+--- | --- | ---
+Self study | High | Low | Mass Immersion, LAMP
+Guided self study | Medium | Medium | GPA
+Directed study | Low | High | School
 
 If you feel that you struggle with self-motivation and time management, you may want to explore going to a language school. There are multiple schools in Sendai, and we can help you with finding one that is right for you. You will need to raise extra financial support for this route as it tends to be rather expensive.
 
