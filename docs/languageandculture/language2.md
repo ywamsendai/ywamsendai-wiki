@@ -103,7 +103,7 @@ Give yourself around 1 week to get comfortable learning kanji before moving on t
 
 ## 4. Grammar
 
-### a. Study elementary grammar
+### Study elementary grammar
 
 * **When to start:** After around 1 week of learning kanji
 * **Approx. time:** 6 months (along with grammar and vocab)
