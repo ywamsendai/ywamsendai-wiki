@@ -104,7 +104,6 @@ nav:
         - Legacy Words & Covenants : ywam/covenants.md
         - About YWAM Sendai: ywam/ywamsendai.md
         - Why Japan?: ywam/whyjapan.md
-        - Life in YWAM Sendai: ywam/ywamsendailife.md
         - Tools: ywam/tools.md
         - End Bible Poverty Now: ywam/endbiblepoverty.md
         - Donate: ywam/donate.md
@@ -112,6 +111,7 @@ nav:
         - Onboarding Process: ywam/join.md
         - Staff Expectations: ywam/commitments.md
         - Staff Terms & Conditions: ywam/terms.md
+        - Life in YWAM Sendai: ywam/ywamsendailife.md
         - Finances: ywam/finances.md
         - Fundraising: ywam/fundraising.md
         - Visa: ywam/visa.md
@@ -121,10 +121,10 @@ nav:
         - Phones: lifeinjapan/phones.md
         - Waste System: lifeinjapan/waste.md
     - Language and Culture:
-        - Culture: languageandculture/culture.md
         - Language Introduction: languageandculture/language.md
         - Language Stage 1 (Beginner): languageandculture/language2.md
         - Language Stage 2 (Intermediate): languageandculture/language3.md
+        - Culture: languageandculture/culture.md
 
 # Google Analytics
 google_analytics: ['UA-20132770-5', 'wiki.ywamsendai.org']
