@@ -6,7 +6,7 @@
 
 The best way to learn Japanese (and any new language) is to be immersed in the Japanese language. Immersed in native text, native sounds, and native conversation. But if you don't have any familiarity with the language, being immersed will be difficult for you. It will be too foreign and overwhelming for you to take much of it in.
 
-This stage is all about building a strong foundation so that you can feel familiar *just enough* with Japanese so that you feel able to explore native content and talk with native speakers. You will then be ready for immersion (stage 2), which is when the *real* learning happens!
+This stage is all about building a strong foundation so that you can feel familiar *just enough* with Japanese so that you feel able to explore native content and talk with native speakers. You will then be ready for [immersion (stage 2)](language3.md), which is when the *real* learning happens!
 
 ## 1. Pronunciation
 
@@ -32,7 +32,7 @@ As you proceed to learn kana, keep these concepts in mind to solidify your under
 
 ## 2. Kana
 
-* **Approx. time:** 1 to 2 weeks (along with kana)
+* **Approx. time:** 1 to 2 weeks (along with pronunciation)
 
 Time to attach the sounds you have learnt to Japanese symbols. Hiragana and katakana are the basic syllabic scripts that make up the Japanese writing system, along with Kanji (Chinese characters).
 
@@ -140,7 +140,7 @@ Here, we will outline an action plan for progressing in your grammar studies. No
 
 3. Next, attempt a [JLPT N4 practice test](https://www.jlpt.jp/e/samples/sampleindex.html) and see how you get on!
 
-You now have a solid foundation! You should now be ready to find resources independently. In terms of grammar, try to move on to the next stage (immersion).
+You now have a solid foundation! You should now be ready to find resources independently. In terms of grammar, try to move on to the [next stage (immersion)](language3.md).
 
 ## 5. Vocab
 
