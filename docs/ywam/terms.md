@@ -16,7 +16,7 @@ Staff are not enrolled into any pension in connection with their service with YW
 
 ## 3. Place of Work
 
-Staff will primarily be working from home, as well as the homes of other Staff. On top of this, Staff will be attending events and ministries throughout Sendai city. As most scheduled meetings happen around Ayashi train station, Staff are requested to find housing walking distance from Ayashi train station. Sometimes traveling out of city (including overseas) will be necessary.
+The City of Sendai is the place of work for our Staff. There is a combination of working from home, other Staff's homes, at churches, and in the streets. Sometimes traveling out of city (including overseas) will be necessary.
 
 ### Home Assignment
 
