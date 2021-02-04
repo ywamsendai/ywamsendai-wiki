@@ -11,7 +11,7 @@ edit_uri: edit/master/docs/
 docs_dir: docs
 
 # Copyright
-copyright: Copyright &copy; 2020 YWAM Sendai
+copyright: Copyright &copy; 2021 YWAM Sendai
 
 theme:
   name: material
@@ -27,7 +27,7 @@ theme:
   # Default values, taken from mkdocs_theme.yml
   language: en
   features:
-    - tabs
+    - navigation.tabs
     #- instant
   palette:
     primary: green
@@ -127,4 +127,6 @@ nav:
         - Culture: languageandculture/culture.md
 
 # Google Analytics
-google_analytics: ['UA-20132770-5', 'wiki.ywamsendai.org']
+google_analytics:
+  - UA-20132770-5
+  - auto
