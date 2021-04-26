@@ -33,3 +33,7 @@ A dramatised audio Bible app called [聴くドラマ聖書](https://graceandmerc
 ## Bible Project
 
 The [Bible Project](https://bibleproject.com/japanese/) goes deep into Bible truths in a clear and understandable way using video, and some of their content is now in Japanese!
+
+## Seisho Channel Bridge
+
+[Seisho Channel Bridge ](https://www.seishobridge.com/) has compiled multiple Japanese resources in one location.
