@@ -15,7 +15,7 @@ You can make a transfer to us via your bank account (or a transfer service such 
 * Account name: Sekaiseinensenkyoukai
 * Recipient's address: 2-15-3 Kanmaki-cho, Takatsuki-shi, Osaka-fu, 569-0003, JAPAN
 
-Please send us an email telling us you have sent your donation, including the amount and date of transfer, to admin@ywamsendai.org
+Please send us an email telling us you have sent your donation, including the amount and date of transfer, to admin@ywamsendai.jp
 
 ## Within Japan
 

@@ -12,7 +12,7 @@ Above all, you should come ready to pursue God in prayer and worship and be comm
 
 * First, explore this wiki to find information on [staff expectations](commitments.md), [YWAM values](values.md), [finances](finances.md), [Japanese culture](../languageandculture/culture.md), [Japanese language learning tips](../languageandculture/language.md) etc.
 
-* Connect with us via [Discord](https://discord.gg/djmCF4DBaV),  [Telegram](https://t.me/joinchat/O4PX5BsUYLG64lCazgT8Ng),  [Element](https://app.element.io/#/group/+ywamsendai:matrix.org) or [email](mailto:people@ywamsendai.org), introduce yourself, and ask us questions.
+* Connect with us via [Discord](https://discord.gg/djmCF4DBaV),  [Telegram](https://t.me/joinchat/O4PX5BsUYLG64lCazgT8Ng),  [Element](https://app.element.io/#/group/+ywamsendai:matrix.org) or [email](mailto:people@ywamsendai.jp), introduce yourself, and ask us questions.
 
 * We will send you a **Staff Application** form. Once you complete this, we will send **Character Reference** forms to three people that know you.
 

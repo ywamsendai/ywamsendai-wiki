@@ -36,7 +36,7 @@ Please find below a list of what we need from you in order to begin the process 
 
 * Two original, signed letters on church stationary, NOT COPIES, from your sending church: [Letter of Dispatch and Letter of Release](https://docs.google.com/document/d/1lxulVT3zbsav8C8czrh-0BKM7FlXP-ekxYtn7zQK67g/edit?usp=sharing)
 
-Please send all printed documents to the given mailing address, and email scanned copies to people@ywamsendai.org
+Please send all printed documents to the given mailing address, and email scanned copies to people@ywamsendai.jp
 
 **Notes:**
 
