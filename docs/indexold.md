@@ -4,7 +4,7 @@
 
 This wiki acts as a handbook to our community.
 
-For more information on who we are, please visit our website: [ywamsendai.org](https://www.ywamsendai.org)
+For more information on who we are, please visit our website: [ywamsendai.jp](https://www.ywamsendai.jp)
 
 ## What is Christianity like in North-East Japan?
 

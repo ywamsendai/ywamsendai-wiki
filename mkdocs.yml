@@ -1,6 +1,6 @@
 # Project information
 site_name: YWAM Sendai Wiki
-site_url: https://wiki.ywamsendai.org
+site_url: https://wiki.ywamsendai.jp
 site_author: YWAM Sendai
 site_description: Learn about YWAM Sendai
 
@@ -49,7 +49,7 @@ plugins:
 extra:
     social:
     - icon: fontawesome/regular/comment
-      link: https://www.ywamsendai.org
+      link: https://www.ywamsendai.jp
     - icon: fontawesome/brands/medium
       link: https://medium.com/ywamsendai
     - icon: fontawesome/brands/twitter
