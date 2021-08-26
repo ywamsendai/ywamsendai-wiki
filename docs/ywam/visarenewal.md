@@ -18,7 +18,7 @@ Please find below a list of what you need in order to apply for your visa extens
 
 * Two original, signed letters on church stationary, NOT COPIES, from your sending church: [Letter of Dispatch and Letter of Release](https://docs.google.com/document/d/1lloWRO8fn_bFzZgI_I7V7z8CWk0nJaIXqQaUioxPqmY/edit?usp=sharing)
 
-* Tax (or tax exemption) certificate - issued by the city office where you resided as of the last 1 January.
+* Japanese Tax (or tax exemption) certificate - issued by the city office where you resided as of the last 1 January.
 
 * A 4cm x 3cm portrait photograph (should be clear, with a plain background, and recently taken. Applicant in photo should be facing forward, without sunglasses, hats, etc.). Write your name on the back and stick it to the application form.
 
@@ -28,7 +28,7 @@ Please find below a list of what you need in order to apply for your visa extens
 
 * Passport and residence card
 
-* 4,000 yen revenue stamp when picking up for new residence card - can be bought at a post office
+* 4,000 yen revenue stamp when picking up the new residence card - can be bought at a post office
 
 **Notes:**
 
