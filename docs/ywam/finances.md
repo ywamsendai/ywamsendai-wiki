@@ -10,7 +10,7 @@ As a mission field, Japan is a particularly expensive place. Though we fully bel
 
 In order to help each team member raise enough financial support to live in Japan, we have two levels of financial support to keep in mind when fundraising: **Minimum Support Level (MSL)** and **Recommended Support Level (RSL)**.
 
-The MSL is what we feel to be the minimum amount of monthly income to have in order to live in Japan. We will not start a new team member's visa process until they have reached this level. We believe raising at least this amount will allow our community to focus on God and the Japanese people, rather than being distracted by a lack of finances. And as our team members rent property individually from local landlords, we want to ensure that we are a blessing to the local Japanese that don't yet know Jesus, rather than being a burden.
+The MSL is what we feel to be the minimum amount of monthly income to have in order to live in Japan. We will not start a new team member's visa process until they have reached this level. As our team members rent property individually from local landlords, we want to ensure that we are a blessing to the local Japanese that don't yet know Jesus, rather than being a burden.
 
 The RSL is what we feel to be a moderately comfortable amount of monthly income to have. This allows for more generosity as well as to be able to save for an emergency fund and pay into a pension.
 
@@ -18,8 +18,8 @@ We have set different amounts depending on one's circumstances. Here are the cur
 
 Category | MSL | RSL
 --------- | --------- | ---------
-**Individual** | ¥140,000 | ¥240,000
-**Couple** | ¥160,000 | ¥260,000
+**Individual** | ¥120,000 | ¥220,000
+**Couple** | ¥150,000 | ¥250,000
 **Small Family** | ¥220,000 | ¥320,000
 
 If you are considering joining us shorter term (1 to 2 years), we can consider savings as part of your support by dividing your savings by the number of months you'd like to serve here. Savings should also include moving-in and setup costs (see below). But please do not do this without prayer, as it is much better to raise the full amount in monthly support before your arrival.
@@ -30,17 +30,17 @@ Along with monthly financial support, you will also need an amount of money on t
 
 * Flight to Japan
 * Initial fees for moving into an apartment (this can cost anywhere from an extra 2 to 4 months worth of rent)
-* Furnature & appliances (and any devices such as a Japan-compatible mobile phone if you don't already have one)
+* Furniture & appliances (and any devices such as a Japan-compatible mobile phone if you don't already have one)
 
 These costs will vary depending on the cost of your rent and how much they require as a deposit.
 
-As a guide, we recommend that you have at least two month's worth of the RSL amount in the bank when you arrive in Japan:
+As a guide, we recommend that you have *at least* two months worth of support in the bank when you arrive in Japan:
 
 Category | Amount
 --------- | ---------
-**Individual** | ¥480,000
-**Couple** | ¥520,000
-**Family** | ¥640,000
+**Individual** | ¥240,000
+**Couple** | ¥300,000
+**Family** | ¥440,000
 
 ## Staff Fee
 
