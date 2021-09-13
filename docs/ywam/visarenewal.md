@@ -4,7 +4,7 @@ You can start the process of renewing your Religious Worker visa from **3 months
 
 ## The Process
 
-* Message Gary the following: length of desired visa extension (**1, 3, or 5 years**), and the **name and address of your sending church** (who will be providing letters as part of this application)
+* Message Gary the following: residence card number, length of desired visa extension (**1, 3, or 5 years**), and the **name and address of your sending church** (who will be providing letters as part of this application)
 
 * Gather together all required documents (detailed below).
 
@@ -22,9 +22,9 @@ Please find below a list of what you need in order to apply for your visa extens
 
 * A 4cm x 3cm portrait photograph (should be clear, with a plain background, and recently taken. Applicant in photo should be facing forward, without sunglasses, hats, etc.). Write your name on the back and stick it to the application form.
 
-* Completed [application](http://www.moj.go.jp/isa/content/930004102.pdf) form (page 1 and 2 only)
+* Completed [application](http://www.moj.go.jp/isa/content/930004102.pdf) form (pages 1 and 2)
 
-* Documents (including page 3 of the application) from the YWAM Japan National Office (*we will request this for you*)
+* Page 3 of the application form from YWAM Sendai
 
 * Passport and residence card
 
@@ -38,4 +38,4 @@ Please find below a list of what you need in order to apply for your visa extens
 
 * The second church letter states that your sending church or organisation provides financial support of you during your time in Japan. This assurance is very important for Japanese Immigration, who would be concerned that immigrants become stranded or destitute while in Japan. It isn’t that your church must technically promise to support your every need, because your missionary support will most likely come from many supporters. But in the spirit of the law, if one organisation will officially vouch for you, Japanese Immigration will be more comfortable to grant the visa. YWAM Japan must also vouch for you in this way. **This letter is not a legally binding document requiring your church to meet your every need.** You can give [this letter](https://docs.google.com/document/d/1KKXTho_OyYNvdtzujvbaIqfp9yFA8uI2LY-5PyZIj2o/edit?usp=sharing) to the church or organisation leader to help explain this. If they are extremely uncomfortable with this, please let us know and we can try an alternate wording.
 
-Updated: 2021-08-26
+Updated: 2021-09-13
