@@ -74,7 +74,7 @@ plugins:
 extra:
   analytics:
     provider: google
-    property: UA-20132770-5
+    property: G-HC3329DKG4
     social:
     - icon: fontawesome/regular/comment
       link: https://www.ywamsendai.jp
