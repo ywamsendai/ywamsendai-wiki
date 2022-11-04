@@ -2,5 +2,7 @@
 publish = "site"
 command = """
 pip install mkdocs-material
+pip install mkdocs-minify-plugin
+pip install mkdocs-redirects
 mkdocs build
 """
