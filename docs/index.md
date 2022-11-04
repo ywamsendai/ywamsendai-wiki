@@ -1,3 +1,8 @@
+---
+template: home.html
+title: Welcome to the YWAM Sendai Wiki
+---
+
 # Welcome to the YWAM Sendai Wiki
 
 **Hello there!** This is the place to be in order to learn all about YWAM Sendai!
